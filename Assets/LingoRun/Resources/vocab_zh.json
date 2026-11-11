@@ -1,0 +1,2708 @@
+{
+  "language": "zh",
+  "name": "Chinese",
+  "words": [
+    {
+      "en": "thanks",
+      "tgt": "谢谢 (xièxie)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "yes",
+      "tgt": "是 (shì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "no",
+      "tgt": "不 (bù)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "please",
+      "tgt": "请 (qǐng)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "hello",
+      "tgt": "你好 (nǐ hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "goodbye",
+      "tgt": "再见 (zàijiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good morning",
+      "tgt": "早上好 (zǎoshang hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good afternoon",
+      "tgt": "下午好 (xiàwǔ hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good evening",
+      "tgt": "晚上好 (wǎnshang hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": ""
+    },
+    {
+      "en": "good night",
+      "tgt": "晚安 (wǎn'ān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you later",
+      "tgt": "回头见 (huítóu jiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you tomorrow",
+      "tgt": "明天见 (míngtiān jiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "excuse me",
+      "tgt": "请问 (qǐngwèn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "sorry",
+      "tgt": "对不起 (duìbuqǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "you're welcome",
+      "tgt": "不客气 (bú kèqi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "of course",
+      "tgt": "当然 (dāngrán)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "maybe",
+      "tgt": "也许 (yěxǔ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't know",
+      "tgt": "我不知道 (wǒ bù zhīdào)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I understand",
+      "tgt": "我明白 (wǒ míngbai)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't understand",
+      "tgt": "我不明白 (wǒ bù míngbai)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "what's your name",
+      "tgt": "你叫什么名字 (nǐ jiào shénme míngzi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "my name is",
+      "tgt": "我叫 (wǒ jiào)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "nice to meet you",
+      "tgt": "很高兴认识你 (hěn gāoxìng rènshi nǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "how are you",
+      "tgt": "你好吗 (nǐ hǎo ma)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I'm fine",
+      "tgt": "我很好 (wǒ hěn hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "where is",
+      "tgt": "在哪里 (zài nǎlǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much costs",
+      "tgt": "多少钱 (duōshao qián)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "I would like",
+      "tgt": "我想要 (wǒ xiǎng yào)",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "I want",
+      "tgt": "我要 (wǒ yào)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I have",
+      "tgt": "我有 (wǒ yǒu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I am",
+      "tgt": "我是 (wǒ shì)",
+      "t": [
+        "essentials"
+      ],
+      "s": ""
+    },
+    {
+      "en": "I am (perm)",
+      "tgt": "我是 (wǒ shì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "there is",
+      "tgt": "有 (yǒu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "one",
+      "tgt": "一 (yī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "two",
+      "tgt": "二 (èr)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "three",
+      "tgt": "三 (sān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "four",
+      "tgt": "四 (sì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "five",
+      "tgt": "五 (wǔ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "six",
+      "tgt": "六 (liù)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "seven",
+      "tgt": "七 (qī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eight",
+      "tgt": "八 (bā)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "nine",
+      "tgt": "九 (jiǔ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "ten",
+      "tgt": "十 (shí)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eleven",
+      "tgt": "十一 (shíyī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twelve",
+      "tgt": "十二 (shí'èr)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twenty",
+      "tgt": "二十 (èrshí)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thirty",
+      "tgt": "三十 (sānshí)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "fifty",
+      "tgt": "五十 (wǔshí)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "hundred",
+      "tgt": "一百 (yìbǎi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thousand",
+      "tgt": "一千 (yìqiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "first",
+      "tgt": "第一 (dì yī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "second",
+      "tgt": "第二 (dì èr)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "last",
+      "tgt": "最后 (zuìhòu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "Monday",
+      "tgt": "星期一 (xīngqīyī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Tuesday",
+      "tgt": "星期二 (xīngqī'èr)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Wednesday",
+      "tgt": "星期三 (xīngqīsān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Thursday",
+      "tgt": "星期四 (xīngqīsì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Friday",
+      "tgt": "星期五 (xīngqīwǔ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Saturday",
+      "tgt": "星期六 (xīngqīliù)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Sunday",
+      "tgt": "星期天 (xīngqītiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "January",
+      "tgt": "一月 (yīyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "February",
+      "tgt": "二月 (èryuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "March",
+      "tgt": "三月 (sānyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "April",
+      "tgt": "四月 (sìyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "May",
+      "tgt": "五月 (wǔyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "June",
+      "tgt": "六月 (liùyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "July",
+      "tgt": "七月 (qīyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "August",
+      "tgt": "八月 (bāyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "September",
+      "tgt": "九月 (jiǔyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "October",
+      "tgt": "十月 (shíyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "November",
+      "tgt": "十一月 (shíyīyuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "December",
+      "tgt": "十二月 (shí'èryuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "day",
+      "tgt": "天 (tiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "night",
+      "tgt": "夜晚 (yèwǎn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "morning",
+      "tgt": "早上 (zǎoshang)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "evening",
+      "tgt": "晚上 (wǎnshang)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "today",
+      "tgt": "今天 (jīntiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "tomorrow",
+      "tgt": "明天 (míngtiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "yesterday",
+      "tgt": "昨天 (zuótiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "week",
+      "tgt": "星期 (xīngqī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "month",
+      "tgt": "月 (yuè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "year",
+      "tgt": "年 (nián)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "hour",
+      "tgt": "小时 (xiǎoshí)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "minute",
+      "tgt": "分钟 (fēnzhōng)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "second of time",
+      "tgt": "秒 (miǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "now",
+      "tgt": "现在 (xiànzài)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "later",
+      "tgt": "以后 (yǐhòu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "before",
+      "tgt": "以前 (yǐqián)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "after",
+      "tgt": "之后 (zhīhòu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "early",
+      "tgt": "早 (zǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "late",
+      "tgt": "晚 (wǎn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "always",
+      "tgt": "总是 (zǒngshì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "never",
+      "tgt": "从不 (cóng bù)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "sometimes",
+      "tgt": "有时候 (yǒushíhou)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "often",
+      "tgt": "经常 (jīngcháng)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "mother",
+      "tgt": "妈妈 (māma)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "father",
+      "tgt": "爸爸 (bàba)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "sister",
+      "tgt": "姐姐 (jiějie)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "brother",
+      "tgt": "哥哥 (gēge)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "son",
+      "tgt": "儿子 (érzi)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "daughter",
+      "tgt": "女儿 (nǚ'ér)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "family",
+      "tgt": "家庭 (jiātíng)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "friend",
+      "tgt": "朋友 (péngyou)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "boyfriend",
+      "tgt": "男朋友 (nánpéngyou)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "girlfriend",
+      "tgt": "女朋友 (nǚpéngyou)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "husband",
+      "tgt": "丈夫 (zhàngfu)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "wife",
+      "tgt": "妻子 (qīzi)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "baby",
+      "tgt": "宝宝 (bǎobao)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "child",
+      "tgt": "孩子 (háizi)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "person",
+      "tgt": "人 (rén)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "people",
+      "tgt": "人们 (rénmen)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "I",
+      "tgt": "我 (wǒ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "you",
+      "tgt": "你 (nǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "he",
+      "tgt": "他 (tā)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "she",
+      "tgt": "她 (tā)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "we",
+      "tgt": "我们 (wǒmen)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "they",
+      "tgt": "他们 (tāmen)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "head",
+      "tgt": "头 (tóu)",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "face",
+      "tgt": "脸 (liǎn)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "eye",
+      "tgt": "眼睛 (yǎnjing)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "nose",
+      "tgt": "鼻子 (bízi)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "mouth",
+      "tgt": "嘴 (zuǐ)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "ear",
+      "tgt": "耳朵 (ěrduo)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hair",
+      "tgt": "头发 (tóufa)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hand",
+      "tgt": "手 (shǒu)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "arm",
+      "tgt": "胳膊 (gēbo)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "leg",
+      "tgt": "腿 (tuǐ)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "foot",
+      "tgt": "脚 (jiǎo)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "body",
+      "tgt": "身体 (shēntǐ)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "apple",
+      "tgt": "苹果 (píngguǒ)",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "bread",
+      "tgt": "面包 (miànbāo)",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "milk",
+      "tgt": "牛奶 (niúnǎi)",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "water",
+      "tgt": "水 (shuǐ)",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "egg",
+      "tgt": "鸡蛋 (jīdàn)",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "rice",
+      "tgt": "米饭 (mǐfàn)",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "salt",
+      "tgt": "盐 (yán)",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "sugar",
+      "tgt": "糖 (táng)",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "meat",
+      "tgt": "肉 (ròu)",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "chicken",
+      "tgt": "鸡肉 (jīròu)",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "fruit",
+      "tgt": "水果 (shuǐguǒ)",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "orange",
+      "tgt": "橙子 (chéngzi)",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "banana",
+      "tgt": "香蕉 (xiāngjiāo)",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "tomato",
+      "tgt": "西红柿 (xīhóngshì)",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "potato",
+      "tgt": "土豆 (tǔdòu)",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "cheese",
+      "tgt": "奶酪 (nǎilào)",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "butter",
+      "tgt": "黄油 (huángyóu)",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "coffee",
+      "tgt": "咖啡 (kāfēi)",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "tea",
+      "tgt": "茶 (chá)",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "wine",
+      "tgt": "葡萄酒 (pútaojiǔ)",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "beer",
+      "tgt": "啤酒 (píjiǔ)",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "juice",
+      "tgt": "果汁 (guǒzhī)",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "to eat",
+      "tgt": "吃 (chī)",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "to drink",
+      "tgt": "喝 (hē)",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "breakfast",
+      "tgt": "早饭 (zǎofàn)",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "lunch",
+      "tgt": "午饭 (wǔfàn)",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "dinner",
+      "tgt": "晚饭 (wǎnfàn)",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "shirt",
+      "tgt": "衬衫 (chènshān)",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "shoes",
+      "tgt": "鞋 (xié)",
+      "t": [
+        "fashion"
+      ],
+      "s": "shoes"
+    },
+    {
+      "en": "dress",
+      "tgt": "连衣裙 (liányīqún)",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "jacket",
+      "tgt": "夹克 (jiákè)",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "trousers",
+      "tgt": "裤子 (kùzi)",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "hat",
+      "tgt": "帽子 (màozi)",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "bag",
+      "tgt": "包 (bāo)",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "house",
+      "tgt": "房子 (fángzi)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "kitchen",
+      "tgt": "厨房 (chúfáng)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bedroom",
+      "tgt": "卧室 (wòshì)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bathroom",
+      "tgt": "洗手间 (xǐshǒujiān)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "door",
+      "tgt": "门 (mén)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "window",
+      "tgt": "窗户 (chuānghu)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "bed",
+      "tgt": "床 (chuáng)",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "key",
+      "tgt": "钥匙 (yàoshi)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "table",
+      "tgt": "桌子 (zhuōzi)",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-places"
+    },
+    {
+      "en": "chair",
+      "tgt": "椅子 (yǐzi)",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "room",
+      "tgt": "房间 (fángjiān)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "city",
+      "tgt": "城市 (chéngshì)",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "street",
+      "tgt": "街 (jiē)",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "country",
+      "tgt": "国家 (guójiā)",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "car",
+      "tgt": "汽车 (qìchē)",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "bus",
+      "tgt": "公共汽车 (gōnggòng qìchē)",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "train",
+      "tgt": "火车 (huǒchē)",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "to walk",
+      "tgt": "走 (zǒu)",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to go",
+      "tgt": "去 (qù)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to come",
+      "tgt": "来 (lái)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "near",
+      "tgt": "近 (jìn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "far",
+      "tgt": "远 (yuǎn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "right side",
+      "tgt": "右边 (yòubian)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "left side",
+      "tgt": "左边 (zuǒbian)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "red",
+      "tgt": "红色 (hóngsè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "blue",
+      "tgt": "蓝色 (lánsè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "green",
+      "tgt": "绿色 (lǜsè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "yellow",
+      "tgt": "黄色 (huángsè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "black",
+      "tgt": "黑色 (hēisè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "white",
+      "tgt": "白色 (báisè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "good",
+      "tgt": "好 (hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "bad",
+      "tgt": "坏 (huài)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "big",
+      "tgt": "大 (dà)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "small",
+      "tgt": "小 (xiǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "tall",
+      "tgt": "高 (gāo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "low",
+      "tgt": "低 (dī)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "young",
+      "tgt": "年轻 (niánqīng)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "old",
+      "tgt": "老 (lǎo)",
+      "t": [
+        "love"
+      ],
+      "s": ""
+    },
+    {
+      "en": "old age",
+      "tgt": "老年 (lǎonián)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "new",
+      "tgt": "新 (xīn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "happy",
+      "tgt": "高兴 (gāoxìng)",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "sad",
+      "tgt": "难过 (nánguò)",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "fast",
+      "tgt": "快 (kuài)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "easy",
+      "tgt": "容易 (róngyì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "difficult",
+      "tgt": "难 (nán)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "hot weather",
+      "tgt": "热 (rè)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "cold weather",
+      "tgt": "冷 (lěng)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "warm",
+      "tgt": "暖和 (nuǎnhuo)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "to be",
+      "tgt": "是 (shì)",
+      "t": [
+        "school"
+      ],
+      "s": ""
+    },
+    {
+      "en": "to be (permanent)",
+      "tgt": "是 (shì)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to be (temp)",
+      "tgt": "在 (zài)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to have",
+      "tgt": "有 (yǒu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to do",
+      "tgt": "做 (zuò)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to see",
+      "tgt": "看见 (kànjiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to look at",
+      "tgt": "看 (kàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to want",
+      "tgt": "想要 (xiǎng yào)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (info)",
+      "tgt": "知道 (zhīdào)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (person)",
+      "tgt": "认识 (rènshi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to need",
+      "tgt": "需要 (xūyào)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to give",
+      "tgt": "给 (gěi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to take",
+      "tgt": "拿 (ná)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to open",
+      "tgt": "开 (kāi)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to close",
+      "tgt": "关 (guān)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to start",
+      "tgt": "开始 (kāishǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to finish",
+      "tgt": "结束 (jiéshù)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to live",
+      "tgt": "住 (zhù)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to speak",
+      "tgt": "说话 (shuōhuà)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to say",
+      "tgt": "说 (shuō)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to read",
+      "tgt": "读 (dú)",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to write",
+      "tgt": "写 (xiě)",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to listen",
+      "tgt": "听 (tīng)",
+      "t": [
+        "music"
+      ],
+      "s": "music-actions"
+    },
+    {
+      "en": "to play",
+      "tgt": "玩 (wán)",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to study",
+      "tgt": "学习 (xuéxí)",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to learn",
+      "tgt": "学 (xué)",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to sleep",
+      "tgt": "睡觉 (shuìjiào)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to wake up",
+      "tgt": "起床 (qǐchuáng)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "what",
+      "tgt": "什么 (shénme)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "who",
+      "tgt": "谁 (shéi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "where",
+      "tgt": "哪里 (nǎlǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "when",
+      "tgt": "什么时候 (shénme shíhou)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "why",
+      "tgt": "为什么 (wèishénme)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how",
+      "tgt": "怎么 (zěnme)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "which",
+      "tgt": "哪个 (nǎge)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much",
+      "tgt": "多少 (duōshao)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "with",
+      "tgt": "和 (hé)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "without",
+      "tgt": "没有 (méiyǒu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "for",
+      "tgt": "为 (wèi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "from",
+      "tgt": "从 (cóng)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "in front of",
+      "tgt": "前面 (qiánmiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "behind",
+      "tgt": "后面 (hòumiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "inside",
+      "tgt": "里面 (lǐmiàn)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "outside",
+      "tgt": "外面 (wàimiàn)",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "here",
+      "tgt": "这里 (zhèlǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "there",
+      "tgt": "那里 (nàlǐ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "next to",
+      "tgt": "旁边 (pángbiān)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "under",
+      "tgt": "下面 (xiàmiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "above",
+      "tgt": "上面 (shàngmiàn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "school",
+      "tgt": "学校 (xuéxiào)",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "teacher",
+      "tgt": "老师 (lǎoshī)",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "student",
+      "tgt": "学生 (xuésheng)",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "book",
+      "tgt": "书 (shū)",
+      "t": [
+        "books"
+      ],
+      "s": "book-genres"
+    },
+    {
+      "en": "class",
+      "tgt": "课 (kè)",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "language",
+      "tgt": "语言 (yǔyán)",
+      "t": [
+        "school"
+      ],
+      "s": "subjects"
+    },
+    {
+      "en": "word",
+      "tgt": "词 (cí)",
+      "t": [
+        "books"
+      ],
+      "s": "book-parts"
+    },
+    {
+      "en": "money",
+      "tgt": "钱 (qián)",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "price",
+      "tgt": "价格 (jiàgé)",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "sun",
+      "tgt": "太阳 (tàiyáng)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "moon",
+      "tgt": "月亮 (yuèliang)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "tree",
+      "tgt": "树 (shù)",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "flower",
+      "tgt": "花 (huā)",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "sea",
+      "tgt": "大海 (dàhǎi)",
+      "t": [
+        "nature"
+      ],
+      "s": "water-bodies"
+    },
+    {
+      "en": "sky",
+      "tgt": "天空 (tiānkōng)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "rain",
+      "tgt": "雨 (yǔ)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "snow",
+      "tgt": "雪 (xuě)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "dog",
+      "tgt": "狗 (gǒu)",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "cat",
+      "tgt": "猫 (māo)",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "fire",
+      "tgt": "火 (huǒ)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "summer",
+      "tgt": "夏天 (xiàtiān)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "winter",
+      "tgt": "冬天 (dōngtiān)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "spring",
+      "tgt": "春天 (chūntiān)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "autumn",
+      "tgt": "秋天 (qiūtiān)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "love",
+      "tgt": "爱 (ài)",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "kiss",
+      "tgt": "吻 (wěn)",
+      "t": [
+        "love"
+      ],
+      "s": "love-actions"
+    },
+    {
+      "en": "phone",
+      "tgt": "手机 (shǒujī)",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "computer",
+      "tgt": "电脑 (diànnǎo)",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "more",
+      "tgt": "更多 (gèng duō)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "less",
+      "tgt": "更少 (gèng shǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "very",
+      "tgt": "很 (hěn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "a little",
+      "tgt": "一点 (yìdiǎn)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "too much",
+      "tgt": "太多 (tài duō)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "all",
+      "tgt": "所有 (suǒyǒu)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "nothing",
+      "tgt": "没什么 (méi shénme)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "something",
+      "tgt": "一些东西 (yìxiē dōngxi)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "this",
+      "tgt": "这 (zhè)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "that",
+      "tgt": "那 (nà)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "well",
+      "tgt": "好 (hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "poorly",
+      "tgt": "不好 (bù hǎo)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    }
+  ],
+  "a1Keys": [
+    "thanks",
+    "yes",
+    "no",
+    "please",
+    "hello",
+    "goodbye",
+    "good morning",
+    "good afternoon",
+    "good evening",
+    "good night",
+    "see you later",
+    "see you tomorrow",
+    "excuse me",
+    "sorry",
+    "you're welcome",
+    "of course",
+    "maybe",
+    "I don't know",
+    "I understand",
+    "I don't understand",
+    "what's your name",
+    "my name is",
+    "nice to meet you",
+    "how are you",
+    "I'm fine",
+    "where is",
+    "how much costs",
+    "I would like",
+    "I want",
+    "I have",
+    "I am",
+    "I am (perm)",
+    "there is",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve",
+    "twenty",
+    "thirty",
+    "fifty",
+    "hundred",
+    "thousand",
+    "first",
+    "second",
+    "last",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "day",
+    "night",
+    "morning",
+    "evening",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "week",
+    "month",
+    "year",
+    "hour",
+    "minute",
+    "second of time",
+    "now",
+    "later",
+    "before",
+    "after",
+    "early",
+    "late",
+    "always",
+    "never",
+    "sometimes",
+    "often",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "son",
+    "daughter",
+    "family",
+    "friend",
+    "boyfriend",
+    "girlfriend",
+    "husband",
+    "wife",
+    "baby",
+    "child",
+    "person",
+    "people",
+    "I",
+    "you",
+    "he",
+    "she",
+    "we",
+    "they",
+    "head",
+    "face",
+    "eye",
+    "nose",
+    "mouth",
+    "ear",
+    "hair",
+    "hand",
+    "arm",
+    "leg",
+    "foot",
+    "body",
+    "apple",
+    "bread",
+    "milk",
+    "water",
+    "egg",
+    "rice",
+    "salt",
+    "sugar",
+    "meat",
+    "chicken",
+    "fruit",
+    "orange",
+    "banana",
+    "tomato",
+    "potato",
+    "cheese",
+    "butter",
+    "coffee",
+    "tea",
+    "wine",
+    "beer",
+    "juice",
+    "to eat",
+    "to drink",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "shirt",
+    "shoes",
+    "dress",
+    "jacket",
+    "trousers",
+    "hat",
+    "bag",
+    "house",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "door",
+    "window",
+    "bed",
+    "key",
+    "table",
+    "chair",
+    "room",
+    "city",
+    "street",
+    "country",
+    "car",
+    "bus",
+    "train",
+    "to walk",
+    "to go",
+    "to come",
+    "near",
+    "far",
+    "right side",
+    "left side",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "black",
+    "white",
+    "good",
+    "bad",
+    "big",
+    "small",
+    "tall",
+    "low",
+    "young",
+    "old",
+    "old age",
+    "new",
+    "happy",
+    "sad",
+    "fast",
+    "easy",
+    "difficult",
+    "hot weather",
+    "cold weather",
+    "warm",
+    "to be",
+    "to be (permanent)",
+    "to be (temp)",
+    "to have",
+    "to do",
+    "to see",
+    "to look at",
+    "to want",
+    "to know (info)",
+    "to know (person)",
+    "to need",
+    "to give",
+    "to take",
+    "to open",
+    "to close",
+    "to start",
+    "to finish",
+    "to live",
+    "to speak",
+    "to say",
+    "to read",
+    "to write",
+    "to listen",
+    "to play",
+    "to study",
+    "to learn",
+    "to sleep",
+    "to wake up",
+    "what",
+    "who",
+    "where",
+    "when",
+    "why",
+    "how",
+    "which",
+    "how much",
+    "with",
+    "without",
+    "for",
+    "from",
+    "in front of",
+    "behind",
+    "inside",
+    "outside",
+    "here",
+    "there",
+    "next to",
+    "under",
+    "above",
+    "school",
+    "teacher",
+    "student",
+    "book",
+    "class",
+    "language",
+    "word",
+    "money",
+    "price",
+    "sun",
+    "moon",
+    "tree",
+    "flower",
+    "sea",
+    "sky",
+    "rain",
+    "snow",
+    "dog",
+    "cat",
+    "fire",
+    "summer",
+    "winter",
+    "spring",
+    "autumn",
+    "love",
+    "kiss",
+    "phone",
+    "computer",
+    "more",
+    "less",
+    "very",
+    "a little",
+    "too much",
+    "all",
+    "nothing",
+    "something",
+    "this",
+    "that",
+    "well",
+    "poorly"
+  ]
+}

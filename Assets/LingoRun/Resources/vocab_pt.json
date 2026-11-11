@@ -1,0 +1,2708 @@
+{
+  "language": "pt",
+  "name": "Portuguese",
+  "words": [
+    {
+      "en": "thanks",
+      "tgt": "obrigado",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "yes",
+      "tgt": "sim",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "no",
+      "tgt": "não",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "please",
+      "tgt": "por favor",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "hello",
+      "tgt": "olá",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "goodbye",
+      "tgt": "tchau",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good morning",
+      "tgt": "bom dia",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good afternoon",
+      "tgt": "boa tarde",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good evening",
+      "tgt": "boa noite",
+      "t": [
+        "essentials"
+      ],
+      "s": ""
+    },
+    {
+      "en": "good night",
+      "tgt": "boa noite",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you later",
+      "tgt": "até logo",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you tomorrow",
+      "tgt": "até amanhã",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "excuse me",
+      "tgt": "com licença",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "sorry",
+      "tgt": "desculpe",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "you're welcome",
+      "tgt": "de nada",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "of course",
+      "tgt": "claro",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "maybe",
+      "tgt": "talvez",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't know",
+      "tgt": "não sei",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I understand",
+      "tgt": "entendo",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't understand",
+      "tgt": "não entendo",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "what's your name",
+      "tgt": "qual é o seu nome",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "my name is",
+      "tgt": "meu nome é",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "nice to meet you",
+      "tgt": "muito prazer",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "how are you",
+      "tgt": "como você está",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I'm fine",
+      "tgt": "estou bem",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "where is",
+      "tgt": "onde está",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much costs",
+      "tgt": "quanto custa",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "I would like",
+      "tgt": "eu gostaria",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "I want",
+      "tgt": "eu quero",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I have",
+      "tgt": "eu tenho",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I am",
+      "tgt": "eu estou",
+      "t": [
+        "essentials"
+      ],
+      "s": ""
+    },
+    {
+      "en": "I am (perm)",
+      "tgt": "eu sou",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "there is",
+      "tgt": "há",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "one",
+      "tgt": "um",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "two",
+      "tgt": "dois",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "three",
+      "tgt": "três",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "four",
+      "tgt": "quatro",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "five",
+      "tgt": "cinco",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "six",
+      "tgt": "seis",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "seven",
+      "tgt": "sete",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eight",
+      "tgt": "oito",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "nine",
+      "tgt": "nove",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "ten",
+      "tgt": "dez",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eleven",
+      "tgt": "onze",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twelve",
+      "tgt": "doze",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twenty",
+      "tgt": "vinte",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thirty",
+      "tgt": "trinta",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "fifty",
+      "tgt": "cinquenta",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "hundred",
+      "tgt": "cem",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thousand",
+      "tgt": "mil",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "first",
+      "tgt": "primeiro",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "second",
+      "tgt": "segundo",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "last",
+      "tgt": "último",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "Monday",
+      "tgt": "segunda-feira",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Tuesday",
+      "tgt": "terça-feira",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Wednesday",
+      "tgt": "quarta-feira",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Thursday",
+      "tgt": "quinta-feira",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Friday",
+      "tgt": "sexta-feira",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Saturday",
+      "tgt": "sábado",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Sunday",
+      "tgt": "domingo",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "January",
+      "tgt": "janeiro",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "February",
+      "tgt": "fevereiro",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "March",
+      "tgt": "março",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "April",
+      "tgt": "abril",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "May",
+      "tgt": "maio",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "June",
+      "tgt": "junho",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "July",
+      "tgt": "julho",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "August",
+      "tgt": "agosto",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "September",
+      "tgt": "setembro",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "October",
+      "tgt": "outubro",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "November",
+      "tgt": "novembro",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "December",
+      "tgt": "dezembro",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "day",
+      "tgt": "o dia",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "night",
+      "tgt": "a noite",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "morning",
+      "tgt": "a manhã",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "evening",
+      "tgt": "a noite",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "today",
+      "tgt": "hoje",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "tomorrow",
+      "tgt": "amanhã",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "yesterday",
+      "tgt": "ontem",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "week",
+      "tgt": "a semana",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "month",
+      "tgt": "o mês",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "year",
+      "tgt": "o ano",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "hour",
+      "tgt": "a hora",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "minute",
+      "tgt": "o minuto",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "second of time",
+      "tgt": "o segundo",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "now",
+      "tgt": "agora",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "later",
+      "tgt": "mais tarde",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "before",
+      "tgt": "antes",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "after",
+      "tgt": "depois",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "early",
+      "tgt": "cedo",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "late",
+      "tgt": "tarde",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "always",
+      "tgt": "sempre",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "never",
+      "tgt": "nunca",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "sometimes",
+      "tgt": "às vezes",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "often",
+      "tgt": "frequentemente",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "mother",
+      "tgt": "a mãe",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "father",
+      "tgt": "o pai",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "sister",
+      "tgt": "a irmã",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "brother",
+      "tgt": "o irmão",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "son",
+      "tgt": "o filho",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "daughter",
+      "tgt": "a filha",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "family",
+      "tgt": "a família",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "friend",
+      "tgt": "o amigo",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "boyfriend",
+      "tgt": "o namorado",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "girlfriend",
+      "tgt": "a namorada",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "husband",
+      "tgt": "o marido",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "wife",
+      "tgt": "a esposa",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "baby",
+      "tgt": "o bebê",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "child",
+      "tgt": "a criança",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "person",
+      "tgt": "a pessoa",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "people",
+      "tgt": "as pessoas",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "I",
+      "tgt": "eu",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "you",
+      "tgt": "você",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "he",
+      "tgt": "ele",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "she",
+      "tgt": "ela",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "we",
+      "tgt": "nós",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "they",
+      "tgt": "eles",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "head",
+      "tgt": "a cabeça",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "face",
+      "tgt": "o rosto",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "eye",
+      "tgt": "o olho",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "nose",
+      "tgt": "o nariz",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "mouth",
+      "tgt": "a boca",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "ear",
+      "tgt": "a orelha",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hair",
+      "tgt": "o cabelo",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hand",
+      "tgt": "a mão",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "arm",
+      "tgt": "o braço",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "leg",
+      "tgt": "a perna",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "foot",
+      "tgt": "o pé",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "body",
+      "tgt": "o corpo",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "apple",
+      "tgt": "a maçã",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "bread",
+      "tgt": "o pão",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "milk",
+      "tgt": "o leite",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "water",
+      "tgt": "a água",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "egg",
+      "tgt": "o ovo",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "rice",
+      "tgt": "o arroz",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "salt",
+      "tgt": "o sal",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "sugar",
+      "tgt": "o açúcar",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "meat",
+      "tgt": "a carne",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "chicken",
+      "tgt": "o frango",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "fruit",
+      "tgt": "a fruta",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "orange",
+      "tgt": "a laranja",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "banana",
+      "tgt": "a banana",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "tomato",
+      "tgt": "o tomate",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "potato",
+      "tgt": "a batata",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "cheese",
+      "tgt": "o queijo",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "butter",
+      "tgt": "a manteiga",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "coffee",
+      "tgt": "o café",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "tea",
+      "tgt": "o chá",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "wine",
+      "tgt": "o vinho",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "beer",
+      "tgt": "a cerveja",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "juice",
+      "tgt": "o suco",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "to eat",
+      "tgt": "comer",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "to drink",
+      "tgt": "beber",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "breakfast",
+      "tgt": "o café da manhã",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "lunch",
+      "tgt": "o almoço",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "dinner",
+      "tgt": "o jantar",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "shirt",
+      "tgt": "a camisa",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "shoes",
+      "tgt": "os sapatos",
+      "t": [
+        "fashion"
+      ],
+      "s": "shoes"
+    },
+    {
+      "en": "dress",
+      "tgt": "o vestido",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "jacket",
+      "tgt": "a jaqueta",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "trousers",
+      "tgt": "as calças",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "hat",
+      "tgt": "o chapéu",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "bag",
+      "tgt": "a bolsa",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "house",
+      "tgt": "a casa",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "kitchen",
+      "tgt": "a cozinha",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bedroom",
+      "tgt": "o quarto",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bathroom",
+      "tgt": "o banheiro",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "door",
+      "tgt": "a porta",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "window",
+      "tgt": "a janela",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "bed",
+      "tgt": "a cama",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "key",
+      "tgt": "a chave",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "table",
+      "tgt": "a mesa",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-places"
+    },
+    {
+      "en": "chair",
+      "tgt": "a cadeira",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "room",
+      "tgt": "o cômodo",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "city",
+      "tgt": "a cidade",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "street",
+      "tgt": "a rua",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "country",
+      "tgt": "o país",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "car",
+      "tgt": "o carro",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "bus",
+      "tgt": "o ônibus",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "train",
+      "tgt": "o trem",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "to walk",
+      "tgt": "caminhar",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to go",
+      "tgt": "ir",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to come",
+      "tgt": "vir",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "near",
+      "tgt": "perto",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "far",
+      "tgt": "longe",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "right side",
+      "tgt": "a direita",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "left side",
+      "tgt": "a esquerda",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "red",
+      "tgt": "vermelho",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "blue",
+      "tgt": "azul",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "green",
+      "tgt": "verde",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "yellow",
+      "tgt": "amarelo",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "black",
+      "tgt": "preto",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "white",
+      "tgt": "branco",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "good",
+      "tgt": "bom",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "bad",
+      "tgt": "ruim",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "big",
+      "tgt": "grande",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "small",
+      "tgt": "pequeno",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "tall",
+      "tgt": "alto",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "low",
+      "tgt": "baixo",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "young",
+      "tgt": "jovem",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "old",
+      "tgt": "velho",
+      "t": [
+        "love"
+      ],
+      "s": ""
+    },
+    {
+      "en": "old age",
+      "tgt": "velho",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "new",
+      "tgt": "novo",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "happy",
+      "tgt": "feliz",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "sad",
+      "tgt": "triste",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "fast",
+      "tgt": "rápido",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "easy",
+      "tgt": "fácil",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "difficult",
+      "tgt": "difícil",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "hot weather",
+      "tgt": "quente",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "cold weather",
+      "tgt": "frio",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "warm",
+      "tgt": "morno",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "to be",
+      "tgt": "ser",
+      "t": [
+        "school"
+      ],
+      "s": ""
+    },
+    {
+      "en": "to be (permanent)",
+      "tgt": "ser",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to be (temp)",
+      "tgt": "estar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to have",
+      "tgt": "ter",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to do",
+      "tgt": "fazer",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to see",
+      "tgt": "ver",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to look at",
+      "tgt": "olhar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to want",
+      "tgt": "querer",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (info)",
+      "tgt": "saber",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (person)",
+      "tgt": "conhecer",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to need",
+      "tgt": "precisar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to give",
+      "tgt": "dar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to take",
+      "tgt": "pegar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to open",
+      "tgt": "abrir",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to close",
+      "tgt": "fechar",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to start",
+      "tgt": "começar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to finish",
+      "tgt": "terminar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to live",
+      "tgt": "morar",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to speak",
+      "tgt": "falar",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to say",
+      "tgt": "dizer",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to read",
+      "tgt": "ler",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to write",
+      "tgt": "escrever",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to listen",
+      "tgt": "ouvir",
+      "t": [
+        "music"
+      ],
+      "s": "music-actions"
+    },
+    {
+      "en": "to play",
+      "tgt": "jogar",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to study",
+      "tgt": "estudar",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to learn",
+      "tgt": "aprender",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to sleep",
+      "tgt": "dormir",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to wake up",
+      "tgt": "acordar",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "what",
+      "tgt": "o que",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "who",
+      "tgt": "quem",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "where",
+      "tgt": "onde",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "when",
+      "tgt": "quando",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "why",
+      "tgt": "por que",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how",
+      "tgt": "como",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "which",
+      "tgt": "qual",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much",
+      "tgt": "quanto",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "with",
+      "tgt": "com",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "without",
+      "tgt": "sem",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "for",
+      "tgt": "para",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "from",
+      "tgt": "de",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "in front of",
+      "tgt": "na frente de",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "behind",
+      "tgt": "atrás de",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "inside",
+      "tgt": "dentro",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "outside",
+      "tgt": "fora",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "here",
+      "tgt": "aqui",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "there",
+      "tgt": "lá",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "next to",
+      "tgt": "ao lado de",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "under",
+      "tgt": "embaixo de",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "above",
+      "tgt": "em cima de",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "school",
+      "tgt": "a escola",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "teacher",
+      "tgt": "o professor",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "student",
+      "tgt": "o aluno",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "book",
+      "tgt": "o livro",
+      "t": [
+        "books"
+      ],
+      "s": "book-genres"
+    },
+    {
+      "en": "class",
+      "tgt": "a aula",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "language",
+      "tgt": "a língua",
+      "t": [
+        "school"
+      ],
+      "s": "subjects"
+    },
+    {
+      "en": "word",
+      "tgt": "a palavra",
+      "t": [
+        "books"
+      ],
+      "s": "book-parts"
+    },
+    {
+      "en": "money",
+      "tgt": "o dinheiro",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "price",
+      "tgt": "o preço",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "sun",
+      "tgt": "o sol",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "moon",
+      "tgt": "a lua",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "tree",
+      "tgt": "a árvore",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "flower",
+      "tgt": "a flor",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "sea",
+      "tgt": "o mar",
+      "t": [
+        "nature"
+      ],
+      "s": "water-bodies"
+    },
+    {
+      "en": "sky",
+      "tgt": "o céu",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "rain",
+      "tgt": "a chuva",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "snow",
+      "tgt": "a neve",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "dog",
+      "tgt": "o cachorro",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "cat",
+      "tgt": "o gato",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "fire",
+      "tgt": "o fogo",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "summer",
+      "tgt": "o verão",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "winter",
+      "tgt": "o inverno",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "spring",
+      "tgt": "a primavera",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "autumn",
+      "tgt": "o outono",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "love",
+      "tgt": "o amor",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "kiss",
+      "tgt": "o beijo",
+      "t": [
+        "love"
+      ],
+      "s": "love-actions"
+    },
+    {
+      "en": "phone",
+      "tgt": "o telefone",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "computer",
+      "tgt": "o computador",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "more",
+      "tgt": "mais",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "less",
+      "tgt": "menos",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "very",
+      "tgt": "muito",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "a little",
+      "tgt": "um pouco",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "too much",
+      "tgt": "demais",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "all",
+      "tgt": "tudo",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "nothing",
+      "tgt": "nada",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "something",
+      "tgt": "algo",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "this",
+      "tgt": "isto",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "that",
+      "tgt": "aquilo",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "well",
+      "tgt": "bem",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "poorly",
+      "tgt": "mal",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    }
+  ],
+  "a1Keys": [
+    "thanks",
+    "yes",
+    "no",
+    "please",
+    "hello",
+    "goodbye",
+    "good morning",
+    "good afternoon",
+    "good evening",
+    "good night",
+    "see you later",
+    "see you tomorrow",
+    "excuse me",
+    "sorry",
+    "you're welcome",
+    "of course",
+    "maybe",
+    "I don't know",
+    "I understand",
+    "I don't understand",
+    "what's your name",
+    "my name is",
+    "nice to meet you",
+    "how are you",
+    "I'm fine",
+    "where is",
+    "how much costs",
+    "I would like",
+    "I want",
+    "I have",
+    "I am",
+    "I am (perm)",
+    "there is",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve",
+    "twenty",
+    "thirty",
+    "fifty",
+    "hundred",
+    "thousand",
+    "first",
+    "second",
+    "last",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "day",
+    "night",
+    "morning",
+    "evening",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "week",
+    "month",
+    "year",
+    "hour",
+    "minute",
+    "second of time",
+    "now",
+    "later",
+    "before",
+    "after",
+    "early",
+    "late",
+    "always",
+    "never",
+    "sometimes",
+    "often",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "son",
+    "daughter",
+    "family",
+    "friend",
+    "boyfriend",
+    "girlfriend",
+    "husband",
+    "wife",
+    "baby",
+    "child",
+    "person",
+    "people",
+    "I",
+    "you",
+    "he",
+    "she",
+    "we",
+    "they",
+    "head",
+    "face",
+    "eye",
+    "nose",
+    "mouth",
+    "ear",
+    "hair",
+    "hand",
+    "arm",
+    "leg",
+    "foot",
+    "body",
+    "apple",
+    "bread",
+    "milk",
+    "water",
+    "egg",
+    "rice",
+    "salt",
+    "sugar",
+    "meat",
+    "chicken",
+    "fruit",
+    "orange",
+    "banana",
+    "tomato",
+    "potato",
+    "cheese",
+    "butter",
+    "coffee",
+    "tea",
+    "wine",
+    "beer",
+    "juice",
+    "to eat",
+    "to drink",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "shirt",
+    "shoes",
+    "dress",
+    "jacket",
+    "trousers",
+    "hat",
+    "bag",
+    "house",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "door",
+    "window",
+    "bed",
+    "key",
+    "table",
+    "chair",
+    "room",
+    "city",
+    "street",
+    "country",
+    "car",
+    "bus",
+    "train",
+    "to walk",
+    "to go",
+    "to come",
+    "near",
+    "far",
+    "right side",
+    "left side",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "black",
+    "white",
+    "good",
+    "bad",
+    "big",
+    "small",
+    "tall",
+    "low",
+    "young",
+    "old",
+    "old age",
+    "new",
+    "happy",
+    "sad",
+    "fast",
+    "easy",
+    "difficult",
+    "hot weather",
+    "cold weather",
+    "warm",
+    "to be",
+    "to be (permanent)",
+    "to be (temp)",
+    "to have",
+    "to do",
+    "to see",
+    "to look at",
+    "to want",
+    "to know (info)",
+    "to know (person)",
+    "to need",
+    "to give",
+    "to take",
+    "to open",
+    "to close",
+    "to start",
+    "to finish",
+    "to live",
+    "to speak",
+    "to say",
+    "to read",
+    "to write",
+    "to listen",
+    "to play",
+    "to study",
+    "to learn",
+    "to sleep",
+    "to wake up",
+    "what",
+    "who",
+    "where",
+    "when",
+    "why",
+    "how",
+    "which",
+    "how much",
+    "with",
+    "without",
+    "for",
+    "from",
+    "in front of",
+    "behind",
+    "inside",
+    "outside",
+    "here",
+    "there",
+    "next to",
+    "under",
+    "above",
+    "school",
+    "teacher",
+    "student",
+    "book",
+    "class",
+    "language",
+    "word",
+    "money",
+    "price",
+    "sun",
+    "moon",
+    "tree",
+    "flower",
+    "sea",
+    "sky",
+    "rain",
+    "snow",
+    "dog",
+    "cat",
+    "fire",
+    "summer",
+    "winter",
+    "spring",
+    "autumn",
+    "love",
+    "kiss",
+    "phone",
+    "computer",
+    "more",
+    "less",
+    "very",
+    "a little",
+    "too much",
+    "all",
+    "nothing",
+    "something",
+    "this",
+    "that",
+    "well",
+    "poorly"
+  ]
+}

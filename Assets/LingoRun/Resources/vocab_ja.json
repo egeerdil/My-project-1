@@ -1,0 +1,2672 @@
+{
+  "language": "ja",
+  "name": "Japanese",
+  "words": [
+    {
+      "en": "thanks",
+      "tgt": "ありがとう",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "yes",
+      "tgt": "はい",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "no",
+      "tgt": "いいえ",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "please",
+      "tgt": "お願いします (おねがいします)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "hello",
+      "tgt": "こんにちは",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "goodbye",
+      "tgt": "さようなら",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good morning",
+      "tgt": "おはようございます",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good afternoon",
+      "tgt": "こんにちは",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good night",
+      "tgt": "おやすみなさい",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you later",
+      "tgt": "またあとで",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you tomorrow",
+      "tgt": "また明日 (またあした)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "excuse me",
+      "tgt": "すみません",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "sorry",
+      "tgt": "ごめんなさい",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "you're welcome",
+      "tgt": "どういたしまして",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "of course",
+      "tgt": "もちろん",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "maybe",
+      "tgt": "たぶん",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't know",
+      "tgt": "知りません (しりません)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I understand",
+      "tgt": "わかります",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't understand",
+      "tgt": "わかりません",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "what's your name",
+      "tgt": "お名前は何ですか (おなまえはなんですか)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "my name is",
+      "tgt": "私の名前は (わたしのなまえは)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "nice to meet you",
+      "tgt": "はじめまして",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "how are you",
+      "tgt": "お元気ですか (おげんきですか)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I'm fine",
+      "tgt": "元気です (げんきです)",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "where is",
+      "tgt": "どこですか",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much costs",
+      "tgt": "いくらですか",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "I would like",
+      "tgt": "ください",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "I want",
+      "tgt": "ほしいです",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I have",
+      "tgt": "持っています (もっています)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I am (perm)",
+      "tgt": "私は〜です (わたしは〜です)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "there is",
+      "tgt": "あります",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "one",
+      "tgt": "一 (いち)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "two",
+      "tgt": "二 (に)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "three",
+      "tgt": "三 (さん)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "four",
+      "tgt": "四 (よん)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "five",
+      "tgt": "五 (ご)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "six",
+      "tgt": "六 (ろく)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "seven",
+      "tgt": "七 (なな)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eight",
+      "tgt": "八 (はち)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "nine",
+      "tgt": "九 (きゅう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "ten",
+      "tgt": "十 (じゅう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eleven",
+      "tgt": "十一 (じゅういち)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twelve",
+      "tgt": "十二 (じゅうに)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twenty",
+      "tgt": "二十 (にじゅう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thirty",
+      "tgt": "三十 (さんじゅう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "fifty",
+      "tgt": "五十 (ごじゅう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "hundred",
+      "tgt": "百 (ひゃく)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thousand",
+      "tgt": "千 (せん)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "first",
+      "tgt": "一番目 (いちばんめ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "second",
+      "tgt": "二番目 (にばんめ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "last",
+      "tgt": "最後 (さいご)",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "Monday",
+      "tgt": "月曜日 (げつようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Tuesday",
+      "tgt": "火曜日 (かようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Wednesday",
+      "tgt": "水曜日 (すいようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Thursday",
+      "tgt": "木曜日 (もくようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Friday",
+      "tgt": "金曜日 (きんようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Saturday",
+      "tgt": "土曜日 (どようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Sunday",
+      "tgt": "日曜日 (にちようび)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "January",
+      "tgt": "一月 (いちがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "February",
+      "tgt": "二月 (にがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "March",
+      "tgt": "三月 (さんがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "April",
+      "tgt": "四月 (しがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "May",
+      "tgt": "五月 (ごがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "June",
+      "tgt": "六月 (ろくがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "July",
+      "tgt": "七月 (しちがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "August",
+      "tgt": "八月 (はちがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "September",
+      "tgt": "九月 (くがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "October",
+      "tgt": "十月 (じゅうがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "November",
+      "tgt": "十一月 (じゅういちがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "December",
+      "tgt": "十二月 (じゅうにがつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "day",
+      "tgt": "日 (ひ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "night",
+      "tgt": "夜 (よる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "morning",
+      "tgt": "朝 (あさ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "evening",
+      "tgt": "夕方 (ゆうがた)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "today",
+      "tgt": "今日 (きょう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "tomorrow",
+      "tgt": "明日 (あした)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "yesterday",
+      "tgt": "昨日 (きのう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "week",
+      "tgt": "週 (しゅう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "month",
+      "tgt": "月 (つき)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "year",
+      "tgt": "年 (とし)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "hour",
+      "tgt": "時間 (じかん)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "minute",
+      "tgt": "分 (ふん)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "second of time",
+      "tgt": "秒 (びょう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "now",
+      "tgt": "今 (いま)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "later",
+      "tgt": "あとで",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "before",
+      "tgt": "前に (まえに)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "after",
+      "tgt": "後に (あとに)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "early",
+      "tgt": "早い (はやい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "late",
+      "tgt": "遅い (おそい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "always",
+      "tgt": "いつも",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "never",
+      "tgt": "ぜんぜん",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "sometimes",
+      "tgt": "時々 (ときどき)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "often",
+      "tgt": "よく",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "mother",
+      "tgt": "母 (はは)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "father",
+      "tgt": "父 (ちち)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "sister",
+      "tgt": "姉 (あね)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "brother",
+      "tgt": "兄 (あに)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "son",
+      "tgt": "息子 (むすこ)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "daughter",
+      "tgt": "娘 (むすめ)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "family",
+      "tgt": "家族 (かぞく)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "friend",
+      "tgt": "友達 (ともだち)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "boyfriend",
+      "tgt": "彼氏 (かれし)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "girlfriend",
+      "tgt": "ガールフレンド",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "husband",
+      "tgt": "夫 (おっと)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "wife",
+      "tgt": "妻 (つま)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "baby",
+      "tgt": "赤ちゃん (あかちゃん)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "child",
+      "tgt": "子ども (こども)",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "person",
+      "tgt": "人 (ひと)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "people",
+      "tgt": "人々 (ひとびと)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "I",
+      "tgt": "私 (わたし)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "you",
+      "tgt": "あなた",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "he",
+      "tgt": "彼 (かれ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "she",
+      "tgt": "彼女 (かのじょ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "we",
+      "tgt": "私たち (わたしたち)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "they",
+      "tgt": "彼ら (かれら)",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "head",
+      "tgt": "頭 (あたま)",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "face",
+      "tgt": "顔 (かお)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "eye",
+      "tgt": "目 (め)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "nose",
+      "tgt": "鼻 (はな)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "mouth",
+      "tgt": "口 (くち)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "ear",
+      "tgt": "耳 (みみ)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hair",
+      "tgt": "髪 (かみ)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hand",
+      "tgt": "手 (て)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "arm",
+      "tgt": "腕 (うで)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "leg",
+      "tgt": "脚 (あし)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "foot",
+      "tgt": "足 (あし)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "body",
+      "tgt": "体 (からだ)",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "apple",
+      "tgt": "りんご",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "bread",
+      "tgt": "パン",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "milk",
+      "tgt": "牛乳 (ぎゅうにゅう)",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "water",
+      "tgt": "水 (みず)",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "egg",
+      "tgt": "卵 (たまご)",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "rice",
+      "tgt": "ご飯 (ごはん)",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "salt",
+      "tgt": "塩 (しお)",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "sugar",
+      "tgt": "砂糖 (さとう)",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "meat",
+      "tgt": "肉 (にく)",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "chicken",
+      "tgt": "鶏肉 (とりにく)",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "fruit",
+      "tgt": "果物 (くだもの)",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "orange",
+      "tgt": "オレンジ",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "banana",
+      "tgt": "バナナ",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "tomato",
+      "tgt": "トマト",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "potato",
+      "tgt": "じゃがいも",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "cheese",
+      "tgt": "チーズ",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "butter",
+      "tgt": "バター",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "coffee",
+      "tgt": "コーヒー",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "tea",
+      "tgt": "お茶 (おちゃ)",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "wine",
+      "tgt": "ワイン",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "beer",
+      "tgt": "ビール",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "juice",
+      "tgt": "ジュース",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "to eat",
+      "tgt": "食べる (たべる)",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "to drink",
+      "tgt": "飲む (のむ)",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "breakfast",
+      "tgt": "朝ご飯 (あさごはん)",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "lunch",
+      "tgt": "昼ご飯 (ひるごはん)",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "dinner",
+      "tgt": "晩ご飯 (ばんごはん)",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "shirt",
+      "tgt": "シャツ",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "shoes",
+      "tgt": "靴 (くつ)",
+      "t": [
+        "fashion"
+      ],
+      "s": "shoes"
+    },
+    {
+      "en": "dress",
+      "tgt": "ワンピース",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "jacket",
+      "tgt": "ジャケット",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "trousers",
+      "tgt": "ズボン",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "hat",
+      "tgt": "帽子 (ぼうし)",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "bag",
+      "tgt": "かばん",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "house",
+      "tgt": "家 (いえ)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "kitchen",
+      "tgt": "台所 (だいどころ)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bedroom",
+      "tgt": "寝室 (しんしつ)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bathroom",
+      "tgt": "トイレ",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "door",
+      "tgt": "ドア",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "window",
+      "tgt": "窓 (まど)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "bed",
+      "tgt": "ベッド",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "key",
+      "tgt": "鍵 (かぎ)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "table",
+      "tgt": "テーブル",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-places"
+    },
+    {
+      "en": "chair",
+      "tgt": "椅子 (いす)",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "room",
+      "tgt": "部屋 (へや)",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "city",
+      "tgt": "町 (まち)",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "street",
+      "tgt": "道 (みち)",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "country",
+      "tgt": "国 (くに)",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "car",
+      "tgt": "車 (くるま)",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "bus",
+      "tgt": "バス",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "train",
+      "tgt": "電車 (でんしゃ)",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "to walk",
+      "tgt": "歩く (あるく)",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to go",
+      "tgt": "行く (いく)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to come",
+      "tgt": "来る (くる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "near",
+      "tgt": "近い (ちかい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "far",
+      "tgt": "遠い (とおい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "right side",
+      "tgt": "右 (みぎ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "left side",
+      "tgt": "左 (ひだり)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "red",
+      "tgt": "赤い (あかい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "blue",
+      "tgt": "青い (あおい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "green",
+      "tgt": "緑 (みどり)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "yellow",
+      "tgt": "黄色い (きいろい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "black",
+      "tgt": "黒い (くろい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "white",
+      "tgt": "白い (しろい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "good",
+      "tgt": "良い (よい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "bad",
+      "tgt": "悪い (わるい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "big",
+      "tgt": "大きい (おおきい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "small",
+      "tgt": "小さい (ちいさい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "tall",
+      "tgt": "高い (たかい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "low",
+      "tgt": "低い (ひくい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "young",
+      "tgt": "若い (わかい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "old age",
+      "tgt": "古い (ふるい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "new",
+      "tgt": "新しい (あたらしい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "happy",
+      "tgt": "嬉しい (うれしい)",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "sad",
+      "tgt": "悲しい (かなしい)",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "fast",
+      "tgt": "速い (はやい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "easy",
+      "tgt": "簡単 (かんたん)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "difficult",
+      "tgt": "難しい (むずかしい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "hot weather",
+      "tgt": "暑い (あつい)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "cold weather",
+      "tgt": "寒い (さむい)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "warm",
+      "tgt": "暖かい (あたたかい)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "to be (permanent)",
+      "tgt": "です",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to be (temp)",
+      "tgt": "いる",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to have",
+      "tgt": "持つ (もつ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to do",
+      "tgt": "する",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to see",
+      "tgt": "見る (みる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to look at",
+      "tgt": "見る (みる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to want",
+      "tgt": "欲しい (ほしい)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (info)",
+      "tgt": "知る (しる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (person)",
+      "tgt": "知っている (しっている)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to need",
+      "tgt": "要る (いる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to give",
+      "tgt": "あげる",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to take",
+      "tgt": "取る (とる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to open",
+      "tgt": "開ける (あける)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to close",
+      "tgt": "閉める (しめる)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to start",
+      "tgt": "始める (はじめる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to finish",
+      "tgt": "終わる (おわる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to live",
+      "tgt": "住む (すむ)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to speak",
+      "tgt": "話す (はなす)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to say",
+      "tgt": "言う (いう)",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to read",
+      "tgt": "読む (よむ)",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to write",
+      "tgt": "書く (かく)",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to listen",
+      "tgt": "聞く (きく)",
+      "t": [
+        "music"
+      ],
+      "s": "music-actions"
+    },
+    {
+      "en": "to play",
+      "tgt": "遊ぶ (あそぶ)",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to study",
+      "tgt": "勉強する (べんきょうする)",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to learn",
+      "tgt": "習う (ならう)",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to sleep",
+      "tgt": "寝る (ねる)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to wake up",
+      "tgt": "起きる (おきる)",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "what",
+      "tgt": "何 (なに)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "who",
+      "tgt": "誰 (だれ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "where",
+      "tgt": "どこ",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "when",
+      "tgt": "いつ",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "why",
+      "tgt": "なぜ",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how",
+      "tgt": "どうやって",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "which",
+      "tgt": "どれ",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much",
+      "tgt": "いくら",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "with",
+      "tgt": "と",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "without",
+      "tgt": "なしで",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "for",
+      "tgt": "ために",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "from",
+      "tgt": "から",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "in front of",
+      "tgt": "前 (まえ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "behind",
+      "tgt": "後ろ (うしろ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "inside",
+      "tgt": "中 (なか)",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "outside",
+      "tgt": "外 (そと)",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "here",
+      "tgt": "ここ",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "there",
+      "tgt": "そこ",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "next to",
+      "tgt": "隣 (となり)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "under",
+      "tgt": "下 (した)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "above",
+      "tgt": "上 (うえ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "school",
+      "tgt": "学校 (がっこう)",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "teacher",
+      "tgt": "先生 (せんせい)",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "student",
+      "tgt": "学生 (がくせい)",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "book",
+      "tgt": "本 (ほん)",
+      "t": [
+        "books"
+      ],
+      "s": "book-genres"
+    },
+    {
+      "en": "class",
+      "tgt": "授業 (じゅぎょう)",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "language",
+      "tgt": "言葉 (ことば)",
+      "t": [
+        "school"
+      ],
+      "s": "subjects"
+    },
+    {
+      "en": "word",
+      "tgt": "単語 (たんご)",
+      "t": [
+        "books"
+      ],
+      "s": "book-parts"
+    },
+    {
+      "en": "money",
+      "tgt": "お金 (おかね)",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "price",
+      "tgt": "値段 (ねだん)",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "sun",
+      "tgt": "太陽 (たいよう)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "moon",
+      "tgt": "月 (つき)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "tree",
+      "tgt": "木 (き)",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "flower",
+      "tgt": "花 (はな)",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "sea",
+      "tgt": "海 (うみ)",
+      "t": [
+        "nature"
+      ],
+      "s": "water-bodies"
+    },
+    {
+      "en": "sky",
+      "tgt": "空 (そら)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "rain",
+      "tgt": "雨 (あめ)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "snow",
+      "tgt": "雪 (ゆき)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "dog",
+      "tgt": "犬 (いぬ)",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "cat",
+      "tgt": "猫 (ねこ)",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "fire",
+      "tgt": "火 (ひ)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "summer",
+      "tgt": "夏 (なつ)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "winter",
+      "tgt": "冬 (ふゆ)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "spring",
+      "tgt": "春 (はる)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "autumn",
+      "tgt": "秋 (あき)",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "love",
+      "tgt": "愛 (あい)",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "kiss",
+      "tgt": "キス",
+      "t": [
+        "love"
+      ],
+      "s": "love-actions"
+    },
+    {
+      "en": "phone",
+      "tgt": "電話 (でんわ)",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "computer",
+      "tgt": "パソコン",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "more",
+      "tgt": "もっと",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "less",
+      "tgt": "少なく (すくなく)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "very",
+      "tgt": "とても",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "a little",
+      "tgt": "少し (すこし)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "too much",
+      "tgt": "多すぎる (おおすぎる)",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "all",
+      "tgt": "全部 (ぜんぶ)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "nothing",
+      "tgt": "何も (なにも)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "something",
+      "tgt": "何か (なにか)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "this",
+      "tgt": "これ",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "that",
+      "tgt": "それ",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "well",
+      "tgt": "上手に (じょうずに)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "poorly",
+      "tgt": "下手に (へたに)",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    }
+  ],
+  "a1Keys": [
+    "thanks",
+    "yes",
+    "no",
+    "please",
+    "hello",
+    "goodbye",
+    "good morning",
+    "good afternoon",
+    "good night",
+    "see you later",
+    "see you tomorrow",
+    "excuse me",
+    "sorry",
+    "you're welcome",
+    "of course",
+    "maybe",
+    "I don't know",
+    "I understand",
+    "I don't understand",
+    "what's your name",
+    "my name is",
+    "nice to meet you",
+    "how are you",
+    "I'm fine",
+    "where is",
+    "how much costs",
+    "I would like",
+    "I want",
+    "I have",
+    "I am (perm)",
+    "there is",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve",
+    "twenty",
+    "thirty",
+    "fifty",
+    "hundred",
+    "thousand",
+    "first",
+    "second",
+    "last",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "day",
+    "night",
+    "morning",
+    "evening",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "week",
+    "month",
+    "year",
+    "hour",
+    "minute",
+    "second of time",
+    "now",
+    "later",
+    "before",
+    "after",
+    "early",
+    "late",
+    "always",
+    "never",
+    "sometimes",
+    "often",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "son",
+    "daughter",
+    "family",
+    "friend",
+    "boyfriend",
+    "girlfriend",
+    "husband",
+    "wife",
+    "baby",
+    "child",
+    "person",
+    "people",
+    "I",
+    "you",
+    "he",
+    "she",
+    "we",
+    "they",
+    "head",
+    "face",
+    "eye",
+    "nose",
+    "mouth",
+    "ear",
+    "hair",
+    "hand",
+    "arm",
+    "leg",
+    "foot",
+    "body",
+    "apple",
+    "bread",
+    "milk",
+    "water",
+    "egg",
+    "rice",
+    "salt",
+    "sugar",
+    "meat",
+    "chicken",
+    "fruit",
+    "orange",
+    "banana",
+    "tomato",
+    "potato",
+    "cheese",
+    "butter",
+    "coffee",
+    "tea",
+    "wine",
+    "beer",
+    "juice",
+    "to eat",
+    "to drink",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "shirt",
+    "shoes",
+    "dress",
+    "jacket",
+    "trousers",
+    "hat",
+    "bag",
+    "house",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "door",
+    "window",
+    "bed",
+    "key",
+    "table",
+    "chair",
+    "room",
+    "city",
+    "street",
+    "country",
+    "car",
+    "bus",
+    "train",
+    "to walk",
+    "to go",
+    "to come",
+    "near",
+    "far",
+    "right side",
+    "left side",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "black",
+    "white",
+    "good",
+    "bad",
+    "big",
+    "small",
+    "tall",
+    "low",
+    "young",
+    "old age",
+    "new",
+    "happy",
+    "sad",
+    "fast",
+    "easy",
+    "difficult",
+    "hot weather",
+    "cold weather",
+    "warm",
+    "to be (permanent)",
+    "to be (temp)",
+    "to have",
+    "to do",
+    "to see",
+    "to look at",
+    "to want",
+    "to know (info)",
+    "to know (person)",
+    "to need",
+    "to give",
+    "to take",
+    "to open",
+    "to close",
+    "to start",
+    "to finish",
+    "to live",
+    "to speak",
+    "to say",
+    "to read",
+    "to write",
+    "to listen",
+    "to play",
+    "to study",
+    "to learn",
+    "to sleep",
+    "to wake up",
+    "what",
+    "who",
+    "where",
+    "when",
+    "why",
+    "how",
+    "which",
+    "how much",
+    "with",
+    "without",
+    "for",
+    "from",
+    "in front of",
+    "behind",
+    "inside",
+    "outside",
+    "here",
+    "there",
+    "next to",
+    "under",
+    "above",
+    "school",
+    "teacher",
+    "student",
+    "book",
+    "class",
+    "language",
+    "word",
+    "money",
+    "price",
+    "sun",
+    "moon",
+    "tree",
+    "flower",
+    "sea",
+    "sky",
+    "rain",
+    "snow",
+    "dog",
+    "cat",
+    "fire",
+    "summer",
+    "winter",
+    "spring",
+    "autumn",
+    "love",
+    "kiss",
+    "phone",
+    "computer",
+    "more",
+    "less",
+    "very",
+    "a little",
+    "too much",
+    "all",
+    "nothing",
+    "something",
+    "this",
+    "that",
+    "well",
+    "poorly"
+  ]
+}

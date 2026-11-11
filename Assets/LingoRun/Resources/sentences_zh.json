@@ -1,0 +1,655 @@
+{
+  "language": "zh",
+  "sentences": [
+    {
+      "tpl": "你___什么名字？",
+      "correct": "叫",
+      "distractors": [
+        "说",
+        "是"
+      ],
+      "hint": "What is your name?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "请___我一杯水。",
+      "correct": "给",
+      "distractors": [
+        "拿",
+        "吃"
+      ],
+      "hint": "Please give me a glass of water.",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "我不___你的意思。",
+      "correct": "明白",
+      "distractors": [
+        "认识",
+        "开始"
+      ],
+      "hint": "I don't understand what you mean.",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "我每天___水。",
+      "correct": "喝",
+      "distractors": [
+        "吃",
+        "看"
+      ],
+      "hint": "I drink water every day.",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "我早饭吃___。",
+      "correct": "面包",
+      "distractors": [
+        "牛奶",
+        "果汁"
+      ],
+      "hint": "I eat bread for breakfast.",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "这个苹果很___。",
+      "correct": "好吃",
+      "distractors": [
+        "好喝",
+        "好听"
+      ],
+      "hint": "This apple is delicious.",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "我想喝一杯___。",
+      "correct": "果汁",
+      "distractors": [
+        "米饭",
+        "肉"
+      ],
+      "hint": "I want to drink a glass of juice.",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "请开___，房间太热了。",
+      "correct": "窗户",
+      "distractors": [
+        "桌子",
+        "椅子"
+      ],
+      "hint": "Please open the window, the room is too hot.",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "我的床在___里。",
+      "correct": "卧室",
+      "distractors": [
+        "厨房",
+        "洗手间"
+      ],
+      "hint": "My bed is in the bedroom.",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "妈妈在___做饭。",
+      "correct": "厨房",
+      "distractors": [
+        "卧室",
+        "洗手间"
+      ],
+      "hint": "Mom is cooking in the kitchen.",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "我___你。",
+      "correct": "爱",
+      "distractors": [
+        "听",
+        "写"
+      ],
+      "hint": "I love you.",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "他给了她一个___。",
+      "correct": "吻",
+      "distractors": [
+        "帽子",
+        "钥匙"
+      ],
+      "hint": "He gave her a kiss.",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "她是我的___。",
+      "correct": "女朋友",
+      "distractors": [
+        "老师",
+        "学生"
+      ],
+      "hint": "She is my girlfriend.",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "今天下___，请带伞。",
+      "correct": "雨",
+      "distractors": [
+        "雪",
+        "水"
+      ],
+      "hint": "It's raining today, please bring an umbrella.",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "___在天上，很亮。",
+      "correct": "月亮",
+      "distractors": [
+        "树",
+        "花"
+      ],
+      "hint": "The moon is in the sky, very bright.",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "春天有很多___。",
+      "correct": "花",
+      "distractors": [
+        "雪",
+        "火"
+      ],
+      "hint": "In spring there are many flowers.",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "我每天八点开始___。",
+      "correct": "工作",
+      "distractors": [
+        "睡觉",
+        "吃饭"
+      ],
+      "hint": "I start work at eight o'clock every day.",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "老板让我___一封电子邮件。",
+      "correct": "写",
+      "distractors": [
+        "喝",
+        "睡"
+      ],
+      "hint": "The boss asked me to write an email.",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "他是一位好___，学生都喜欢他。",
+      "correct": "老师",
+      "distractors": [
+        "学生",
+        "朋友"
+      ],
+      "hint": "He is a good teacher; the students all like him.",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "我用___给妈妈打电话。",
+      "correct": "手机",
+      "distractors": [
+        "电视",
+        "钥匙"
+      ],
+      "hint": "I use my phone to call my mom.",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "他每天在___上写电子邮件。",
+      "correct": "电脑",
+      "distractors": [
+        "电视",
+        "门"
+      ],
+      "hint": "He writes emails on the computer every day.",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "这个电脑很___，我很喜欢。",
+      "correct": "新",
+      "distractors": [
+        "旧",
+        "慢"
+      ],
+      "hint": "This computer is very new; I like it a lot.",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "今天很冷，请穿___。",
+      "correct": "夹克",
+      "distractors": [
+        "帽子",
+        "包"
+      ],
+      "hint": "It's cold today, please wear a jacket.",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "她买了一条新___。",
+      "correct": "连衣裙",
+      "distractors": [
+        "鞋",
+        "帽子"
+      ],
+      "hint": "She bought a new dress.",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "这双___太小了。",
+      "correct": "鞋",
+      "distractors": [
+        "裤子",
+        "衬衫"
+      ],
+      "hint": "This pair of shoes is too small.",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "我们坐___去北京。",
+      "correct": "火车",
+      "distractors": [
+        "汽车",
+        "飞机"
+      ],
+      "hint": "We take the train to Beijing.",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "请问，车站在___？",
+      "correct": "哪里",
+      "distractors": [
+        "什么",
+        "谁"
+      ],
+      "hint": "Excuse me, where is the station?",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "饭店离这里很___，我们走路去吧。",
+      "correct": "近",
+      "distractors": [
+        "远",
+        "快"
+      ],
+      "hint": "The hotel is very close to here; let's walk.",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "他明天坐飞机去别的___。",
+      "correct": "国家",
+      "distractors": [
+        "房间",
+        "椅子"
+      ],
+      "hint": "Tomorrow he flies to another country.",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "我喜欢___足球。",
+      "correct": "踢",
+      "distractors": [
+        "打",
+        "吃"
+      ],
+      "hint": "I like to play soccer.",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "他每天早上___步。",
+      "correct": "跑",
+      "distractors": [
+        "走",
+        "飞"
+      ],
+      "hint": "He runs every morning.",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "我们打___吧！",
+      "correct": "篮球",
+      "distractors": [
+        "足球",
+        "桌子"
+      ],
+      "hint": "Let's play basketball!",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "学生在___学习。",
+      "correct": "学校",
+      "distractors": [
+        "卧室",
+        "厨房"
+      ],
+      "hint": "Students study at school.",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "请打开你的___，我们开始上课。",
+      "correct": "书",
+      "distractors": [
+        "手机",
+        "窗户"
+      ],
+      "hint": "Please open your book; we are starting class.",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "我每天___中文。",
+      "correct": "学习",
+      "distractors": [
+        "说",
+        "写"
+      ],
+      "hint": "I study Chinese every day.",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "我喜欢在晚上___书。",
+      "correct": "看",
+      "distractors": [
+        "喝",
+        "踢"
+      ],
+      "hint": "I like to read books in the evening.",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "这本___很有意思。",
+      "correct": "书",
+      "distractors": [
+        "桌子",
+        "椅子"
+      ],
+      "hint": "This book is very interesting.",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "我每天读一___书。",
+      "correct": "本",
+      "distractors": [
+        "个",
+        "条"
+      ],
+      "hint": "I read one book every day.",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "我喜欢___音乐。",
+      "correct": "听",
+      "distractors": [
+        "喝",
+        "吃"
+      ],
+      "hint": "I like listening to music.",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "这首___很好听。",
+      "correct": "歌",
+      "distractors": [
+        "书",
+        "画"
+      ],
+      "hint": "This song sounds very nice.",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "我们一起___歌吧！",
+      "correct": "唱",
+      "distractors": [
+        "跳",
+        "说"
+      ],
+      "hint": "Let's sing a song together!",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "我们晚上去___电影。",
+      "correct": "看",
+      "distractors": [
+        "听",
+        "吃"
+      ],
+      "hint": "We are going to watch a movie tonight.",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "这个___很有意思，我看了两次。",
+      "correct": "电影",
+      "distractors": [
+        "苹果",
+        "椅子"
+      ],
+      "hint": "This movie is very interesting; I watched it twice.",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "电影几点___？",
+      "correct": "开始",
+      "distractors": [
+        "结束",
+        "睡觉"
+      ],
+      "hint": "What time does the movie start?",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "她喜欢___画。",
+      "correct": "画",
+      "distractors": [
+        "写",
+        "洗"
+      ],
+      "hint": "She likes to draw pictures.",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "这张画很___。",
+      "correct": "漂亮",
+      "distractors": [
+        "好吃",
+        "好喝"
+      ],
+      "hint": "This painting is very beautiful.",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "他用红色和蓝色___了一朵花。",
+      "correct": "画",
+      "distractors": [
+        "吃",
+        "关"
+      ],
+      "hint": "He drew a flower with red and blue.",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "我每天早上喝一杯___。",
+      "correct": "咖啡",
+      "distractors": [
+        "米饭",
+        "肉"
+      ],
+      "hint": "I drink a cup of coffee every morning.",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "这杯咖啡太___了，请等一下。",
+      "correct": "热",
+      "distractors": [
+        "冷",
+        "高"
+      ],
+      "hint": "This coffee is too hot; please wait a moment.",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "我们去咖啡馆___朋友。",
+      "correct": "见",
+      "distractors": [
+        "吃",
+        "开"
+      ],
+      "hint": "We are going to the cafe to meet friends.",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    }
+  ]
+}

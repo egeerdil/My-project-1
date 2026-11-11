@@ -1,0 +1,2791 @@
+{
+  "language": "es",
+  "sentences": [
+    {
+      "tpl": "Yo ___ estudiante",
+      "correct": "soy",
+      "distractors": [
+        "estoy",
+        "tengo"
+      ],
+      "hint": "I am a student",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Mi nombre ___ María",
+      "correct": "es",
+      "distractors": [
+        "está",
+        "tiene"
+      ],
+      "hint": "My name is María",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Tengo ___ años",
+      "correct": "veinte",
+      "distractors": [
+        "azul",
+        "feliz"
+      ],
+      "hint": "I am 20 years old",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Hoy es ___",
+      "correct": "lunes",
+      "distractors": [
+        "agua",
+        "rojo"
+      ],
+      "hint": "Today is Monday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Quiero un vaso de ___",
+      "correct": "agua",
+      "distractors": [
+        "mesa",
+        "casa"
+      ],
+      "hint": "I want a glass of water",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "El pan está en la ___",
+      "correct": "mesa",
+      "distractors": [
+        "puerta",
+        "calle"
+      ],
+      "hint": "The bread is on the table",
+      "level": "A1",
+      "topics": [
+        "food",
+        "home"
+      ]
+    },
+    {
+      "tpl": "Mi ___ es alta",
+      "correct": "madre",
+      "distractors": [
+        "coche",
+        "libro"
+      ],
+      "hint": "My mother is tall",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tengo dos ___",
+      "correct": "hermanos",
+      "distractors": [
+        "coches",
+        "libros"
+      ],
+      "hint": "I have two siblings",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Vivo en una ___",
+      "correct": "ciudad",
+      "distractors": [
+        "mesa",
+        "boca"
+      ],
+      "hint": "I live in a city",
+      "level": "A1",
+      "topics": [
+        "travel",
+        "home"
+      ]
+    },
+    {
+      "tpl": "El ___ es grande",
+      "correct": "parque",
+      "distractors": [
+        "lápiz",
+        "vaso"
+      ],
+      "hint": "The park is big",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La ___ está cerrada",
+      "correct": "puerta",
+      "distractors": [
+        "mano",
+        "boca"
+      ],
+      "hint": "The door is closed",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Voy al ___",
+      "correct": "trabajo",
+      "distractors": [
+        "agua",
+        "pan"
+      ],
+      "hint": "I'm going to work",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Estoy en la ___",
+      "correct": "casa",
+      "distractors": [
+        "mano",
+        "leche"
+      ],
+      "hint": "I'm at home",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "El gato es ___",
+      "correct": "pequeño",
+      "distractors": [
+        "azul",
+        "lento"
+      ],
+      "hint": "The cat is small",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El cielo es ___",
+      "correct": "azul",
+      "distractors": [
+        "alto",
+        "frío"
+      ],
+      "hint": "The sky is blue",
+      "level": "A1",
+      "topics": [
+        "nature",
+        "art"
+      ]
+    },
+    {
+      "tpl": "Estoy muy ___",
+      "correct": "feliz",
+      "distractors": [
+        "café",
+        "rojo"
+      ],
+      "hint": "I am very happy",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Hoy hace mucho ___",
+      "correct": "frío",
+      "distractors": [
+        "pan",
+        "azul"
+      ],
+      "hint": "It's very cold today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Me duele la ___",
+      "correct": "cabeza",
+      "distractors": [
+        "mesa",
+        "puerta"
+      ],
+      "hint": "My head hurts",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Tengo ___",
+      "correct": "hambre",
+      "distractors": [
+        "coche",
+        "libro"
+      ],
+      "hint": "I am hungry",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Tengo mucho ___",
+      "correct": "sueño",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I am very sleepy",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Llevo una ___",
+      "correct": "camisa",
+      "distractors": [
+        "nube",
+        "luna"
+      ],
+      "hint": "I am wearing a shirt",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Mis ___ son negros",
+      "correct": "zapatos",
+      "distractors": [
+        "panes",
+        "soles"
+      ],
+      "hint": "My shoes are black",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Necesito mi ___",
+      "correct": "teléfono",
+      "distractors": [
+        "camino",
+        "vaso"
+      ],
+      "hint": "I need my phone",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Voy a viajar en ___",
+      "correct": "tren",
+      "distractors": [
+        "sopa",
+        "luna"
+      ],
+      "hint": "I'm going to travel by train",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "El ___ es rojo",
+      "correct": "coche",
+      "distractors": [
+        "café",
+        "papel"
+      ],
+      "hint": "The car is red",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Mañana es ___",
+      "correct": "viernes",
+      "distractors": [
+        "agua",
+        "fuego"
+      ],
+      "hint": "Tomorrow is Friday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Es por la ___",
+      "correct": "mañana",
+      "distractors": [
+        "mesa",
+        "boca"
+      ],
+      "hint": "It is in the morning",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Tengo muchos ___",
+      "correct": "amigos",
+      "distractors": [
+        "mares",
+        "días"
+      ],
+      "hint": "I have many friends",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mi amigo es muy ___",
+      "correct": "simpático",
+      "distractors": [
+        "azul",
+        "lento"
+      ],
+      "hint": "My friend is very nice",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "El ___ está caliente",
+      "correct": "café",
+      "distractors": [
+        "libro",
+        "perro"
+      ],
+      "hint": "The coffee is hot",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "¿___ te llamas?",
+      "correct": "Cómo",
+      "distractors": [
+        "Dónde",
+        "Cuándo"
+      ],
+      "hint": "What is your name?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "¿___ es esto?",
+      "correct": "Qué",
+      "distractors": [
+        "Cómo",
+        "Quién"
+      ],
+      "hint": "What is this?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "¿___ vives?",
+      "correct": "Dónde",
+      "distractors": [
+        "Cuándo",
+        "Por qué"
+      ],
+      "hint": "Where do you live?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "¿De ___ eres?",
+      "correct": "dónde",
+      "distractors": [
+        "qué",
+        "quién"
+      ],
+      "hint": "Where are you from?",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Quiero ___ café",
+      "correct": "beber",
+      "distractors": [
+        "comer",
+        "dormir"
+      ],
+      "hint": "I want to drink coffee",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Me gusta ___ pizza",
+      "correct": "comer",
+      "distractors": [
+        "beber",
+        "ver"
+      ],
+      "hint": "I like to eat pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Voy a ___ ahora",
+      "correct": "dormir",
+      "distractors": [
+        "correr",
+        "comer"
+      ],
+      "hint": "I'm going to sleep now",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Necesito ___ un libro",
+      "correct": "leer",
+      "distractors": [
+        "beber",
+        "correr"
+      ],
+      "hint": "I need to read a book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Me gusta ___ música",
+      "correct": "escuchar",
+      "distractors": [
+        "beber",
+        "comer"
+      ],
+      "hint": "I like to listen to music",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Voy a ___ la película",
+      "correct": "ver",
+      "distractors": [
+        "beber",
+        "leer"
+      ],
+      "hint": "I'm going to watch the movie",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Me gusta ___ con amigos",
+      "correct": "jugar",
+      "distractors": [
+        "llover",
+        "abrir"
+      ],
+      "hint": "I like to play with friends",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Yo ___ español",
+      "correct": "hablo",
+      "distractors": [
+        "hablas",
+        "habla"
+      ],
+      "hint": "I speak Spanish",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tú ___ inglés",
+      "correct": "hablas",
+      "distractors": [
+        "hablo",
+        "hablan"
+      ],
+      "hint": "You speak English",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Ella ___ francés",
+      "correct": "habla",
+      "distractors": [
+        "hablo",
+        "hablamos"
+      ],
+      "hint": "She speaks French",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Nosotros ___ italiano",
+      "correct": "hablamos",
+      "distractors": [
+        "hablo",
+        "habla"
+      ],
+      "hint": "We speak Italian",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Yo ___ café",
+      "correct": "bebo",
+      "distractors": [
+        "bebes",
+        "bebe"
+      ],
+      "hint": "I drink coffee",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Tú ___ agua",
+      "correct": "bebes",
+      "distractors": [
+        "bebo",
+        "bebemos"
+      ],
+      "hint": "You drink water",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Él ___ té",
+      "correct": "bebe",
+      "distractors": [
+        "bebo",
+        "beben"
+      ],
+      "hint": "He drinks tea",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Nosotros ___ vino",
+      "correct": "bebemos",
+      "distractors": [
+        "bebo",
+        "beben"
+      ],
+      "hint": "We drink wine",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Yo ___ pan",
+      "correct": "como",
+      "distractors": [
+        "comes",
+        "come"
+      ],
+      "hint": "I eat bread",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Tú ___ pizza",
+      "correct": "comes",
+      "distractors": [
+        "como",
+        "comen"
+      ],
+      "hint": "You eat pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Ella ___ fruta",
+      "correct": "come",
+      "distractors": [
+        "como",
+        "comemos"
+      ],
+      "hint": "She eats fruit",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Yo ___ a casa",
+      "correct": "voy",
+      "distractors": [
+        "vas",
+        "va"
+      ],
+      "hint": "I go home",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Tú ___ a la escuela",
+      "correct": "vas",
+      "distractors": [
+        "voy",
+        "van"
+      ],
+      "hint": "You go to school",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Él ___ al trabajo",
+      "correct": "va",
+      "distractors": [
+        "voy",
+        "vamos"
+      ],
+      "hint": "He goes to work",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Nosotros ___ al parque",
+      "correct": "vamos",
+      "distractors": [
+        "voy",
+        "va"
+      ],
+      "hint": "We go to the park",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Yo ___ una casa",
+      "correct": "tengo",
+      "distractors": [
+        "tienes",
+        "tiene"
+      ],
+      "hint": "I have a house",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Tú ___ un perro",
+      "correct": "tienes",
+      "distractors": [
+        "tengo",
+        "tienen"
+      ],
+      "hint": "You have a dog",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Ella ___ un libro",
+      "correct": "tiene",
+      "distractors": [
+        "tengo",
+        "tenemos"
+      ],
+      "hint": "She has a book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Yo ___ contento",
+      "correct": "estoy",
+      "distractors": [
+        "estás",
+        "está"
+      ],
+      "hint": "I am happy (right now)",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tú ___ cansado",
+      "correct": "estás",
+      "distractors": [
+        "estoy",
+        "están"
+      ],
+      "hint": "You are tired",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Hace ___ hoy",
+      "correct": "calor",
+      "distractors": [
+        "pan",
+        "casa"
+      ],
+      "hint": "It's hot today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Está ___ afuera",
+      "correct": "lloviendo",
+      "distractors": [
+        "comiendo",
+        "leyendo"
+      ],
+      "hint": "It's raining outside",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El ___ es brillante",
+      "correct": "sol",
+      "distractors": [
+        "tren",
+        "libro"
+      ],
+      "hint": "The sun is bright",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La ___ es blanca",
+      "correct": "nieve",
+      "distractors": [
+        "puerta",
+        "casa"
+      ],
+      "hint": "The snow is white",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El ___ es fuerte",
+      "correct": "viento",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "The wind is strong",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Veo una ___ en el cielo",
+      "correct": "nube",
+      "distractors": [
+        "mesa",
+        "silla"
+      ],
+      "hint": "I see a cloud in the sky",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El árbol es muy ___",
+      "correct": "alto",
+      "distractors": [
+        "caliente",
+        "rojo"
+      ],
+      "hint": "The tree is very tall",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La ___ es roja",
+      "correct": "flor",
+      "distractors": [
+        "puerta",
+        "mesa"
+      ],
+      "hint": "The flower is red",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El río es ___",
+      "correct": "largo",
+      "distractors": [
+        "dulce",
+        "rojo"
+      ],
+      "hint": "The river is long",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Hay muchas ___ en el cielo",
+      "correct": "estrellas",
+      "distractors": [
+        "puertas",
+        "mesas"
+      ],
+      "hint": "There are many stars in the sky",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Tengo dos ___",
+      "correct": "manos",
+      "distractors": [
+        "panes",
+        "casas"
+      ],
+      "hint": "I have two hands",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Mis ___ son verdes",
+      "correct": "ojos",
+      "distractors": [
+        "panes",
+        "libros"
+      ],
+      "hint": "My eyes are green",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Tengo el ___ largo",
+      "correct": "pelo",
+      "distractors": [
+        "pan",
+        "tren"
+      ],
+      "hint": "I have long hair",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Me lavo la ___",
+      "correct": "cara",
+      "distractors": [
+        "mesa",
+        "casa"
+      ],
+      "hint": "I wash my face",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mis ___ están cansados",
+      "correct": "pies",
+      "distractors": [
+        "panes",
+        "libros"
+      ],
+      "hint": "My feet are tired",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "El ___ está roto",
+      "correct": "brazo",
+      "distractors": [
+        "pan",
+        "café"
+      ],
+      "hint": "The arm is broken",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Necesito una ___",
+      "correct": "silla",
+      "distractors": [
+        "nube",
+        "estrella"
+      ],
+      "hint": "I need a chair",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Llevo unos ___",
+      "correct": "pantalones",
+      "distractors": [
+        "libros",
+        "panes"
+      ],
+      "hint": "I wear pants",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Me gusta este ___",
+      "correct": "vestido",
+      "distractors": [
+        "pan",
+        "tren"
+      ],
+      "hint": "I like this dress",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Necesito un ___ nuevo",
+      "correct": "abrigo",
+      "distractors": [
+        "pan",
+        "viento"
+      ],
+      "hint": "I need a new coat",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Compré una ___ azul",
+      "correct": "chaqueta",
+      "distractors": [
+        "mesa",
+        "estrella"
+      ],
+      "hint": "I bought a blue jacket",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Mi ___ es verde",
+      "correct": "sombrero",
+      "distractors": [
+        "pan",
+        "café"
+      ],
+      "hint": "My hat is green",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Las ___ son bonitas",
+      "correct": "faldas",
+      "distractors": [
+        "mesas",
+        "casas"
+      ],
+      "hint": "The skirts are pretty",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "El ___ es leal",
+      "correct": "perro",
+      "distractors": [
+        "pan",
+        "tren"
+      ],
+      "hint": "The dog is loyal",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Mi ___ es negro",
+      "correct": "gato",
+      "distractors": [
+        "café",
+        "tren"
+      ],
+      "hint": "My cat is black",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El ___ vuela alto",
+      "correct": "pájaro",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "The bird flies high",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El ___ vive en el agua",
+      "correct": "pez",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "The fish lives in water",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El ___ es grande y blanco",
+      "correct": "caballo",
+      "distractors": [
+        "pan",
+        "café"
+      ],
+      "hint": "The horse is big and white",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Es por la ___",
+      "correct": "noche",
+      "distractors": [
+        "mesa",
+        "puerta"
+      ],
+      "hint": "It is at night",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Es ___ de la mañana",
+      "correct": "temprano",
+      "distractors": [
+        "alto",
+        "rojo"
+      ],
+      "hint": "It's early in the morning",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Hoy es ___",
+      "correct": "martes",
+      "distractors": [
+        "agua",
+        "café"
+      ],
+      "hint": "Today is Tuesday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Mañana es ___",
+      "correct": "miércoles",
+      "distractors": [
+        "pan",
+        "rojo"
+      ],
+      "hint": "Tomorrow is Wednesday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Es ___",
+      "correct": "tarde",
+      "distractors": [
+        "pan",
+        "rojo"
+      ],
+      "hint": "It's late",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Llego a las ___",
+      "correct": "ocho",
+      "distractors": [
+        "azul",
+        "feliz"
+      ],
+      "hint": "I arrive at eight",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Espero ___ minutos",
+      "correct": "diez",
+      "distractors": [
+        "azul",
+        "alto"
+      ],
+      "hint": "I wait ten minutes",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "El año tiene doce ___",
+      "correct": "meses",
+      "distractors": [
+        "panes",
+        "libros"
+      ],
+      "hint": "The year has twelve months",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Yo ___ un café",
+      "correct": "quiero",
+      "distractors": [
+        "quieres",
+        "quiere"
+      ],
+      "hint": "I want a coffee",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Tú ___ una pizza",
+      "correct": "quieres",
+      "distractors": [
+        "quiero",
+        "quieren"
+      ],
+      "hint": "You want a pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Ella ___ ir a casa",
+      "correct": "quiere",
+      "distractors": [
+        "quiero",
+        "queremos"
+      ],
+      "hint": "She wants to go home",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Nosotros ___ aprender",
+      "correct": "queremos",
+      "distractors": [
+        "quiero",
+        "quiere"
+      ],
+      "hint": "We want to learn",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Yo ___ hablar inglés",
+      "correct": "puedo",
+      "distractors": [
+        "puedes",
+        "puede"
+      ],
+      "hint": "I can speak English",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tú ___ correr rápido",
+      "correct": "puedes",
+      "distractors": [
+        "puedo",
+        "pueden"
+      ],
+      "hint": "You can run fast",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Él ___ leer bien",
+      "correct": "puede",
+      "distractors": [
+        "puedo",
+        "podemos"
+      ],
+      "hint": "He can read well",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Nosotros ___ ayudarte",
+      "correct": "podemos",
+      "distractors": [
+        "puedo",
+        "puede"
+      ],
+      "hint": "We can help you",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Yo ___ la respuesta",
+      "correct": "sé",
+      "distractors": [
+        "sabes",
+        "sabe"
+      ],
+      "hint": "I know the answer",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tú ___ mi nombre",
+      "correct": "sabes",
+      "distractors": [
+        "sé",
+        "saben"
+      ],
+      "hint": "You know my name",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Ella ___ cocinar",
+      "correct": "sabe",
+      "distractors": [
+        "sé",
+        "sabemos"
+      ],
+      "hint": "She knows how to cook",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Yo ___ la película",
+      "correct": "veo",
+      "distractors": [
+        "ves",
+        "ve"
+      ],
+      "hint": "I watch the movie",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Tú ___ la luna",
+      "correct": "ves",
+      "distractors": [
+        "veo",
+        "ven"
+      ],
+      "hint": "You see the moon",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Él ___ a su amigo",
+      "correct": "ve",
+      "distractors": [
+        "veo",
+        "vemos"
+      ],
+      "hint": "He sees his friend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Yo te ___ un libro",
+      "correct": "doy",
+      "distractors": [
+        "das",
+        "da"
+      ],
+      "hint": "I give you a book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Tú me ___ un regalo",
+      "correct": "das",
+      "distractors": [
+        "doy",
+        "dan"
+      ],
+      "hint": "You give me a gift",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Ella le ___ dinero",
+      "correct": "da",
+      "distractors": [
+        "doy",
+        "damos"
+      ],
+      "hint": "She gives him money",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Yo ___ de España",
+      "correct": "vengo",
+      "distractors": [
+        "vienes",
+        "viene"
+      ],
+      "hint": "I come from Spain",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Tú ___ conmigo",
+      "correct": "vienes",
+      "distractors": [
+        "vengo",
+        "vienen"
+      ],
+      "hint": "You come with me",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Él ___ tarde",
+      "correct": "viene",
+      "distractors": [
+        "vengo",
+        "venimos"
+      ],
+      "hint": "He comes late",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Yo ___ la tarea",
+      "correct": "hago",
+      "distractors": [
+        "haces",
+        "hace"
+      ],
+      "hint": "I do the homework",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tú ___ café",
+      "correct": "haces",
+      "distractors": [
+        "hago",
+        "hacen"
+      ],
+      "hint": "You make coffee",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Ella ___ ejercicio",
+      "correct": "hace",
+      "distractors": [
+        "hago",
+        "hacemos"
+      ],
+      "hint": "She exercises",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Yo ___ en Madrid",
+      "correct": "vivo",
+      "distractors": [
+        "vives",
+        "vive"
+      ],
+      "hint": "I live in Madrid",
+      "level": "A1",
+      "topics": [
+        "travel",
+        "home"
+      ]
+    },
+    {
+      "tpl": "Tú ___ con tu familia",
+      "correct": "vives",
+      "distractors": [
+        "vivo",
+        "viven"
+      ],
+      "hint": "You live with your family",
+      "level": "A1",
+      "topics": [
+        "love",
+        "home"
+      ]
+    },
+    {
+      "tpl": "Ella ___ sola",
+      "correct": "vive",
+      "distractors": [
+        "vivo",
+        "vivimos"
+      ],
+      "hint": "She lives alone",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Yo ___ en una oficina",
+      "correct": "trabajo",
+      "distractors": [
+        "trabajas",
+        "trabaja"
+      ],
+      "hint": "I work in an office",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Tú ___ mucho",
+      "correct": "trabajas",
+      "distractors": [
+        "trabajo",
+        "trabajan"
+      ],
+      "hint": "You work a lot",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Él ___ por la noche",
+      "correct": "trabaja",
+      "distractors": [
+        "trabajo",
+        "trabajamos"
+      ],
+      "hint": "He works at night",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Yo ___ matemáticas",
+      "correct": "estudio",
+      "distractors": [
+        "estudias",
+        "estudia"
+      ],
+      "hint": "I study mathematics",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tú ___ idiomas",
+      "correct": "estudias",
+      "distractors": [
+        "estudio",
+        "estudian"
+      ],
+      "hint": "You study languages",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "No ___ el libro",
+      "correct": "tengo",
+      "distractors": [
+        "soy",
+        "voy"
+      ],
+      "hint": "I don't have the book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Ella no ___ café",
+      "correct": "bebe",
+      "distractors": [
+        "bebo",
+        "bebes"
+      ],
+      "hint": "She doesn't drink coffee",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "No me ___ la pizza",
+      "correct": "gusta",
+      "distractors": [
+        "gustas",
+        "gustan"
+      ],
+      "hint": "I don't like pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Yo no ___ inglés",
+      "correct": "hablo",
+      "distractors": [
+        "hablas",
+        "habla"
+      ],
+      "hint": "I don't speak English",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "No ___ tiempo",
+      "correct": "tengo",
+      "distractors": [
+        "soy",
+        "voy"
+      ],
+      "hint": "I don't have time",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Hoy no ___ frío",
+      "correct": "hace",
+      "distractors": [
+        "hago",
+        "haces"
+      ],
+      "hint": "It's not cold today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El gato está ___ la mesa",
+      "correct": "en",
+      "distractors": [
+        "con",
+        "para"
+      ],
+      "hint": "The cat is on the table",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Voy ___ casa",
+      "correct": "a",
+      "distractors": [
+        "en",
+        "de"
+      ],
+      "hint": "I'm going home",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "El regalo es ___ ti",
+      "correct": "para",
+      "distractors": [
+        "con",
+        "de"
+      ],
+      "hint": "The gift is for you",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Voy ___ mi madre",
+      "correct": "con",
+      "distractors": [
+        "en",
+        "para"
+      ],
+      "hint": "I'm going with my mother",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Vengo ___ Italia",
+      "correct": "de",
+      "distractors": [
+        "a",
+        "con"
+      ],
+      "hint": "I come from Italy",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Yo trabajo ___ las nueve",
+      "correct": "a",
+      "distractors": [
+        "en",
+        "de"
+      ],
+      "hint": "I work at nine",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Estoy ___ casa",
+      "correct": "en",
+      "distractors": [
+        "con",
+        "a"
+      ],
+      "hint": "I am at home",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Tengo ___ euros",
+      "correct": "cinco",
+      "distractors": [
+        "azul",
+        "feliz"
+      ],
+      "hint": "I have five euros",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Compro ___ manzanas",
+      "correct": "tres",
+      "distractors": [
+        "alto",
+        "rojo"
+      ],
+      "hint": "I buy three apples",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Hay ___ personas aquí",
+      "correct": "muchas",
+      "distractors": [
+        "altas",
+        "rojas"
+      ],
+      "hint": "There are many people here",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Quiero ___ azúcar",
+      "correct": "poco",
+      "distractors": [
+        "alto",
+        "rojo"
+      ],
+      "hint": "I want a little sugar",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "El libro tiene ___ páginas",
+      "correct": "cien",
+      "distractors": [
+        "azul",
+        "feliz"
+      ],
+      "hint": "The book has 100 pages",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Quiero un poco de ___",
+      "correct": "azúcar",
+      "distractors": [
+        "mesa",
+        "puerta"
+      ],
+      "hint": "I want some sugar",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "La sopa está ___",
+      "correct": "deliciosa",
+      "distractors": [
+        "azul",
+        "alta"
+      ],
+      "hint": "The soup is delicious",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Me gusta el ___",
+      "correct": "queso",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I like cheese",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Compro ___ en el mercado",
+      "correct": "fruta",
+      "distractors": [
+        "mesa",
+        "casa"
+      ],
+      "hint": "I buy fruit at the market",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "El ___ está dulce",
+      "correct": "postre",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "The dessert is sweet",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Pido un ___ de jugo",
+      "correct": "vaso",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I order a glass of juice",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Me ___ a las siete",
+      "correct": "levanto",
+      "distractors": [
+        "levantas",
+        "levanta"
+      ],
+      "hint": "I get up at seven",
+      "level": "A2",
+      "topics": []
+    },
+    {
+      "tpl": "Me ___ los dientes",
+      "correct": "lavo",
+      "distractors": [
+        "lavas",
+        "lava"
+      ],
+      "hint": "I brush my teeth",
+      "level": "A2",
+      "topics": []
+    },
+    {
+      "tpl": "Tomo el ___",
+      "correct": "desayuno",
+      "distractors": [
+        "pan",
+        "tren"
+      ],
+      "hint": "I have breakfast",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Voy al trabajo en ___",
+      "correct": "autobús",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I go to work by bus",
+      "level": "A1",
+      "topics": [
+        "travel",
+        "work"
+      ]
+    },
+    {
+      "tpl": "Llego a casa ___",
+      "correct": "tarde",
+      "distractors": [
+        "alto",
+        "azul"
+      ],
+      "hint": "I arrive home late",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Yo ___ una camisa nueva",
+      "correct": "compro",
+      "distractors": [
+        "compras",
+        "compra"
+      ],
+      "hint": "I buy a new shirt",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Tú ___ flores",
+      "correct": "compras",
+      "distractors": [
+        "compro",
+        "compran"
+      ],
+      "hint": "You buy flowers",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Ella ___ pan",
+      "correct": "compra",
+      "distractors": [
+        "compro",
+        "compramos"
+      ],
+      "hint": "She buys bread",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Yo ___ a mi familia",
+      "correct": "amo",
+      "distractors": [
+        "amas",
+        "ama"
+      ],
+      "hint": "I love my family",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tú ___ a tu novio",
+      "correct": "amas",
+      "distractors": [
+        "amo",
+        "aman"
+      ],
+      "hint": "You love your boyfriend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Él ___ los gatos",
+      "correct": "ama",
+      "distractors": [
+        "amo",
+        "amamos"
+      ],
+      "hint": "He loves cats",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Yo ___ los lunes",
+      "correct": "odio",
+      "distractors": [
+        "odias",
+        "odia"
+      ],
+      "hint": "I hate Mondays",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Yo ___ la verdad",
+      "correct": "digo",
+      "distractors": [
+        "dices",
+        "dice"
+      ],
+      "hint": "I tell the truth",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Tú ___ mucho",
+      "correct": "dices",
+      "distractors": [
+        "digo",
+        "dicen"
+      ],
+      "hint": "You talk a lot",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Yo ___ cartas",
+      "correct": "escribo",
+      "distractors": [
+        "escribes",
+        "escribe"
+      ],
+      "hint": "I write letters",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Tú ___ rápido",
+      "correct": "escribes",
+      "distractors": [
+        "escribo",
+        "escriben"
+      ],
+      "hint": "You write fast",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Ella ___ una novela",
+      "correct": "escribe",
+      "distractors": [
+        "escribo",
+        "escribimos"
+      ],
+      "hint": "She writes a novel",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Yo ___ una canción",
+      "correct": "canto",
+      "distractors": [
+        "cantas",
+        "canta"
+      ],
+      "hint": "I sing a song",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Tú ___ el piano",
+      "correct": "tocas",
+      "distractors": [
+        "toco",
+        "tocan"
+      ],
+      "hint": "You play the piano",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "¿___ años tienes?",
+      "correct": "Cuántos",
+      "distractors": [
+        "Cómo",
+        "Por qué"
+      ],
+      "hint": "How old are you?",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "¿___ cuesta?",
+      "correct": "Cuánto",
+      "distractors": [
+        "Cómo",
+        "Quién"
+      ],
+      "hint": "How much does it cost?",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "¿___ es tu padre?",
+      "correct": "Quién",
+      "distractors": [
+        "Qué",
+        "Dónde"
+      ],
+      "hint": "Who is your father?",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "¿___ vienes a casa?",
+      "correct": "Cuándo",
+      "distractors": [
+        "Qué",
+        "Quién"
+      ],
+      "hint": "When are you coming home?",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "¿___ no comes?",
+      "correct": "Por qué",
+      "distractors": [
+        "Cómo",
+        "Cuándo"
+      ],
+      "hint": "Why don't you eat?",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "¿___ libro es?",
+      "correct": "Qué",
+      "distractors": [
+        "Cómo",
+        "Quién"
+      ],
+      "hint": "What book is it?",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Ayer ___ al cine",
+      "correct": "fui",
+      "distractors": [
+        "fuiste",
+        "fue"
+      ],
+      "hint": "Yesterday I went to the cinema",
+      "level": "A2",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Ayer tú ___ tarde",
+      "correct": "llegaste",
+      "distractors": [
+        "llegué",
+        "llegaron"
+      ],
+      "hint": "Yesterday you arrived late",
+      "level": "A2",
+      "topics": []
+    },
+    {
+      "tpl": "La semana pasada ___ a Madrid",
+      "correct": "viajé",
+      "distractors": [
+        "viajaste",
+        "viajó"
+      ],
+      "hint": "Last week I traveled to Madrid",
+      "level": "A2",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Anoche ___ una película",
+      "correct": "vi",
+      "distractors": [
+        "viste",
+        "vimos"
+      ],
+      "hint": "Last night I watched a movie",
+      "level": "A2",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Ayer ___ la cena",
+      "correct": "hice",
+      "distractors": [
+        "hiciste",
+        "hizo"
+      ],
+      "hint": "Yesterday I made dinner",
+      "level": "A2",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Esta mañana ___ café",
+      "correct": "tomé",
+      "distractors": [
+        "tomaste",
+        "tomó"
+      ],
+      "hint": "This morning I had coffee",
+      "level": "A2",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Mañana ___ a estudiar",
+      "correct": "voy",
+      "distractors": [
+        "vas",
+        "va"
+      ],
+      "hint": "Tomorrow I'm going to study",
+      "level": "A2",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "El próximo año ___ a viajar",
+      "correct": "voy",
+      "distractors": [
+        "vas",
+        "vamos"
+      ],
+      "hint": "Next year I'm going to travel",
+      "level": "A2",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Ella ___ a comprar pan",
+      "correct": "va",
+      "distractors": [
+        "voy",
+        "vas"
+      ],
+      "hint": "She's going to buy bread",
+      "level": "A2",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Estoy ___",
+      "correct": "triste",
+      "distractors": [
+        "alto",
+        "azul"
+      ],
+      "hint": "I am sad",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tú estás ___",
+      "correct": "enfermo",
+      "distractors": [
+        "alto",
+        "rojo"
+      ],
+      "hint": "You are sick",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Ella está ___",
+      "correct": "ocupada",
+      "distractors": [
+        "alta",
+        "roja"
+      ],
+      "hint": "She is busy",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Estamos ___",
+      "correct": "listos",
+      "distractors": [
+        "altos",
+        "rojos"
+      ],
+      "hint": "We are ready",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Estoy un poco ___",
+      "correct": "nervioso",
+      "distractors": [
+        "azul",
+        "alto"
+      ],
+      "hint": "I'm a bit nervous",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Camino ___",
+      "correct": "rápido",
+      "distractors": [
+        "azul",
+        "feliz"
+      ],
+      "hint": "I walk fast",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Hablo ___",
+      "correct": "despacio",
+      "distractors": [
+        "azul",
+        "rojo"
+      ],
+      "hint": "I speak slowly",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Llego ___",
+      "correct": "siempre",
+      "distractors": [
+        "alto",
+        "rojo"
+      ],
+      "hint": "I always arrive",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Como ___",
+      "correct": "bien",
+      "distractors": [
+        "azul",
+        "alto"
+      ],
+      "hint": "I eat well",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Trabaja ___",
+      "correct": "mucho",
+      "distractors": [
+        "azul",
+        "rojo"
+      ],
+      "hint": "He works a lot",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Voy al ___",
+      "correct": "supermercado",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I'm going to the supermarket",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "El ___ está cerca",
+      "correct": "hospital",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "The hospital is close",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "La ___ está lejos",
+      "correct": "escuela",
+      "distractors": [
+        "mesa",
+        "puerta"
+      ],
+      "hint": "The school is far",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Vamos a la ___",
+      "correct": "playa",
+      "distractors": [
+        "mesa",
+        "puerta"
+      ],
+      "hint": "We're going to the beach",
+      "level": "A1",
+      "topics": [
+        "nature",
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Estoy en el ___",
+      "correct": "aeropuerto",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I'm at the airport",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Voy al ___",
+      "correct": "restaurante",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "I'm going to the restaurant",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Estoy en el ___",
+      "correct": "hotel",
+      "distractors": [
+        "pan",
+        "café"
+      ],
+      "hint": "I'm at the hotel",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Mi ___ tiene 70 años",
+      "correct": "abuela",
+      "distractors": [
+        "mesa",
+        "puerta"
+      ],
+      "hint": "My grandmother is 70",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mi ___ es alto",
+      "correct": "padre",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "My father is tall",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tengo una ___ pequeña",
+      "correct": "hermana",
+      "distractors": [
+        "mesa",
+        "casa"
+      ],
+      "hint": "I have a small sister",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mi ___ vive en Italia",
+      "correct": "tío",
+      "distractors": [
+        "pan",
+        "libro"
+      ],
+      "hint": "My uncle lives in Italy",
+      "level": "A1",
+      "topics": [
+        "love",
+        "travel"
+      ]
+    },
+    {
+      "tpl": "El cielo es ___ por la noche",
+      "correct": "negro",
+      "distractors": [
+        "alto",
+        "feliz"
+      ],
+      "hint": "The sky is black at night",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La sangre es ___",
+      "correct": "roja",
+      "distractors": [
+        "alta",
+        "feliz"
+      ],
+      "hint": "Blood is red",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "La hierba es ___",
+      "correct": "verde",
+      "distractors": [
+        "alta",
+        "roja"
+      ],
+      "hint": "The grass is green",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "El sol es ___",
+      "correct": "amarillo",
+      "distractors": [
+        "azul",
+        "rojo"
+      ],
+      "hint": "The sun is yellow",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La nieve es ___",
+      "correct": "blanca",
+      "distractors": [
+        "alta",
+        "feliz"
+      ],
+      "hint": "The snow is white",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Tengo que ___",
+      "correct": "irme",
+      "distractors": [
+        "voy",
+        "soy"
+      ],
+      "hint": "I have to go",
+      "level": "A2",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Acabo de ___",
+      "correct": "comer",
+      "distractors": [
+        "beber",
+        "dormir"
+      ],
+      "hint": "I just ate",
+      "level": "A2",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Voy a ___ un libro",
+      "correct": "leer",
+      "distractors": [
+        "beber",
+        "comer"
+      ],
+      "hint": "I'm going to read a book",
+      "level": "A2",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Hace dos ___ que estudio",
+      "correct": "horas",
+      "distractors": [
+        "panes",
+        "libros"
+      ],
+      "hint": "I've been studying for two hours",
+      "level": "A2",
+      "topics": [
+        "school"
+      ]
+    }
+  ]
+}

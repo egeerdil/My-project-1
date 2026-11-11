@@ -1,0 +1,655 @@
+{
+  "language": "ko",
+  "sentences": [
+    {
+      "tpl": "만나서 ___",
+      "correct": "반가워요",
+      "distractors": [
+        "죄송해요",
+        "감사해요"
+      ],
+      "hint": "Nice to meet you",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "이름이 ___?",
+      "correct": "뭐예요",
+      "distractors": [
+        "어디예요",
+        "언제예요"
+      ],
+      "hint": "What is your name?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "화장실이 ___예요?",
+      "correct": "어디",
+      "distractors": [
+        "누구",
+        "언제"
+      ],
+      "hint": "Where is the bathroom?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "저는 매일 물을 ___",
+      "correct": "마셔요",
+      "distractors": [
+        "먹어요",
+        "읽어요"
+      ],
+      "hint": "I drink water every day",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "아침에 빵을 ___",
+      "correct": "먹어요",
+      "distractors": [
+        "마셔요",
+        "입어요"
+      ],
+      "hint": "I eat bread in the morning",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "이 사과가 정말 ___",
+      "correct": "맛있어요",
+      "distractors": [
+        "재미있어요",
+        "어려워요"
+      ],
+      "hint": "This apple is really delicious",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "저녁에 밥을 ___",
+      "correct": "먹어요",
+      "distractors": [
+        "자요",
+        "걸어요"
+      ],
+      "hint": "I eat rice in the evening",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "저는 주말에 집에서 ___",
+      "correct": "쉬어요",
+      "distractors": [
+        "수영해요",
+        "운전해요"
+      ],
+      "hint": "I rest at home on the weekend",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "방에 침대가 ___",
+      "correct": "있어요",
+      "distractors": [
+        "먹어요",
+        "가요"
+      ],
+      "hint": "There is a bed in the room",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "밤에 문을 ___",
+      "correct": "닫아요",
+      "distractors": [
+        "마셔요",
+        "읽어요"
+      ],
+      "hint": "I close the door at night",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "저는 어머니를 ___",
+      "correct": "사랑해요",
+      "distractors": [
+        "공부해요",
+        "청소해요"
+      ],
+      "hint": "I love my mother",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "오늘 친구를 ___",
+      "correct": "만나요",
+      "distractors": [
+        "먹어요",
+        "열어요"
+      ],
+      "hint": "I meet my friend today",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "저는 지금 아주 ___",
+      "correct": "행복해요",
+      "distractors": [
+        "비싸요",
+        "짧아요"
+      ],
+      "hint": "I am very happy now",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "오늘은 비가 ___",
+      "correct": "와요",
+      "distractors": [
+        "먹어요",
+        "읽어요"
+      ],
+      "hint": "It is raining today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "하늘이 정말 ___",
+      "correct": "파래요",
+      "distractors": [
+        "매워요",
+        "바빠요"
+      ],
+      "hint": "The sky is really blue",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "공원에 나무가 ___",
+      "correct": "많아요",
+      "distractors": [
+        "마셔요",
+        "노래해요"
+      ],
+      "hint": "There are many trees in the park",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "저는 회사에서 ___",
+      "correct": "일해요",
+      "distractors": [
+        "수영해요",
+        "요리해요"
+      ],
+      "hint": "I work at a company",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "아버지는 아침에 회사에 ___",
+      "correct": "가요",
+      "distractors": [
+        "자요",
+        "먹어요"
+      ],
+      "hint": "My father goes to the office in the morning",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "오늘은 일이 아주 ___",
+      "correct": "많아요",
+      "distractors": [
+        "달아요",
+        "매워요"
+      ],
+      "hint": "There is a lot of work today",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "컴퓨터로 이메일을 ___",
+      "correct": "보내요",
+      "distractors": [
+        "마셔요",
+        "입어요"
+      ],
+      "hint": "I send an email with the computer",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "친구에게 전화를 ___",
+      "correct": "해요",
+      "distractors": [
+        "가요",
+        "와요"
+      ],
+      "hint": "I make a phone call to my friend",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "인터넷에서 휴대폰을 ___",
+      "correct": "사요",
+      "distractors": [
+        "자요",
+        "울어요"
+      ],
+      "hint": "I buy a phone on the internet",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "저는 오늘 모자를 ___",
+      "correct": "써요",
+      "distractors": [
+        "먹어요",
+        "마셔요"
+      ],
+      "hint": "I wear a hat today",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "새 신발을 ___",
+      "correct": "신어요",
+      "distractors": [
+        "입어요",
+        "써요"
+      ],
+      "hint": "I wear new shoes",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "이 원피스가 아주 ___",
+      "correct": "예뻐요",
+      "distractors": [
+        "매워요",
+        "졸려요"
+      ],
+      "hint": "This dress is very pretty",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "저는 학교에 버스를 ___",
+      "correct": "타요",
+      "distractors": [
+        "먹어요",
+        "입어요"
+      ],
+      "hint": "I take the bus to school",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "내일 서울에 ___",
+      "correct": "가요",
+      "distractors": [
+        "먹어요",
+        "자요"
+      ],
+      "hint": "I go to Seoul tomorrow",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "여행에서 사진을 ___",
+      "correct": "찍어요",
+      "distractors": [
+        "마셔요",
+        "신어요"
+      ],
+      "hint": "I take photos on the trip",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "기차역이 집에서 ___",
+      "correct": "가까워요",
+      "distractors": [
+        "매워요",
+        "달아요"
+      ],
+      "hint": "The train station is close to my house",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "저는 아침에 공원에서 ___",
+      "correct": "달려요",
+      "distractors": [
+        "요리해요",
+        "공부해요"
+      ],
+      "hint": "I run in the park in the morning",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "친구와 축구를 ___",
+      "correct": "해요",
+      "distractors": [
+        "먹어요",
+        "마셔요"
+      ],
+      "hint": "I play soccer with my friend",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "오빠는 테니스를 자주 ___",
+      "correct": "쳐요",
+      "distractors": [
+        "먹어요",
+        "읽어요"
+      ],
+      "hint": "My older brother often plays tennis",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "저는 학교에서 한국어를 ___",
+      "correct": "배워요",
+      "distractors": [
+        "마셔요",
+        "팔아요"
+      ],
+      "hint": "I learn Korean at school",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "학생들이 교실에서 ___",
+      "correct": "공부해요",
+      "distractors": [
+        "수영해요",
+        "운전해요"
+      ],
+      "hint": "The students study in the classroom",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "숙제를 매일 ___",
+      "correct": "해요",
+      "distractors": [
+        "자요",
+        "울어요"
+      ],
+      "hint": "I do homework every day",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "저는 밤에 책을 ___",
+      "correct": "읽어요",
+      "distractors": [
+        "먹어요",
+        "신어요"
+      ],
+      "hint": "I read a book at night",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "도서관에서 책을 ___",
+      "correct": "빌려요",
+      "distractors": [
+        "마셔요",
+        "입어요"
+      ],
+      "hint": "I borrow a book at the library",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "이 책은 정말 ___",
+      "correct": "재미있어요",
+      "distractors": [
+        "배고파요",
+        "졸려요"
+      ],
+      "hint": "This book is really interesting",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "저는 음악을 ___",
+      "correct": "들어요",
+      "distractors": [
+        "먹어요",
+        "열어요"
+      ],
+      "hint": "I listen to music",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "언니는 노래를 잘 ___",
+      "correct": "불러요",
+      "distractors": [
+        "마셔요",
+        "걸어요"
+      ],
+      "hint": "My older sister sings well",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "친구가 피아노를 ___",
+      "correct": "쳐요",
+      "distractors": [
+        "먹어요",
+        "자요"
+      ],
+      "hint": "My friend plays the piano",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "주말에 영화를 ___",
+      "correct": "봐요",
+      "distractors": [
+        "먹어요",
+        "신어요"
+      ],
+      "hint": "I watch a movie on the weekend",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "이 영화는 너무 ___",
+      "correct": "슬퍼요",
+      "distractors": [
+        "짜요",
+        "매워요"
+      ],
+      "hint": "This movie is so sad",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "우리는 영화관에 ___",
+      "correct": "가요",
+      "distractors": [
+        "먹어요",
+        "읽어요"
+      ],
+      "hint": "We go to the movie theater",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "저는 그림을 ___",
+      "correct": "그려요",
+      "distractors": [
+        "마셔요",
+        "열어요"
+      ],
+      "hint": "I draw a picture",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "미술관에서 그림을 ___",
+      "correct": "봐요",
+      "distractors": [
+        "먹어요",
+        "자요"
+      ],
+      "hint": "I look at paintings at the art museum",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "이 그림은 색이 정말 ___",
+      "correct": "아름다워요",
+      "distractors": [
+        "배불러요",
+        "졸려요"
+      ],
+      "hint": "The colors of this painting are really beautiful",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "아침에 커피를 ___",
+      "correct": "마셔요",
+      "distractors": [
+        "먹어요",
+        "입어요"
+      ],
+      "hint": "I drink coffee in the morning",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "카페에서 친구를 ___",
+      "correct": "만나요",
+      "distractors": [
+        "팔아요",
+        "열어요"
+      ],
+      "hint": "I meet a friend at the cafe",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "이 커피는 조금 ___",
+      "correct": "써요",
+      "distractors": [
+        "시끄러워요",
+        "무거워요"
+      ],
+      "hint": "This coffee is a little bitter",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    }
+  ]
+}

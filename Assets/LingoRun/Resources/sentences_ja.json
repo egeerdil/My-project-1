@@ -1,0 +1,655 @@
+{
+  "language": "ja",
+  "sentences": [
+    {
+      "tpl": "私の名前は田中___。",
+      "correct": "です",
+      "distractors": [
+        "でした",
+        "ですか"
+      ],
+      "hint": "My name is Tanaka",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "トイレは___ですか。",
+      "correct": "どこ",
+      "distractors": [
+        "だれ",
+        "いつ"
+      ],
+      "hint": "Where is the toilet?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "これは___ですか。",
+      "correct": "いくら",
+      "distractors": [
+        "どこで",
+        "だれが"
+      ],
+      "hint": "How much is this?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "今日は月曜日___。",
+      "correct": "です",
+      "distractors": [
+        "でした",
+        "じゃありません"
+      ],
+      "hint": "Today is Monday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "毎日水を___。",
+      "correct": "飲みます",
+      "distractors": [
+        "食べます",
+        "読みます"
+      ],
+      "hint": "I drink water every day",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "朝ご飯にパンを___。",
+      "correct": "食べます",
+      "distractors": [
+        "飲みます",
+        "書きます"
+      ],
+      "hint": "I eat bread for breakfast",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "母は毎晩カレーを___。",
+      "correct": "作ります",
+      "distractors": [
+        "切ります",
+        "洗います"
+      ],
+      "hint": "My mother makes curry every evening",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "スーパーでりんごを二つ___。",
+      "correct": "買います",
+      "distractors": [
+        "売ります",
+        "泳ぎます"
+      ],
+      "hint": "I buy two apples at the supermarket",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "私は東京に___。",
+      "correct": "住んでいます",
+      "distractors": [
+        "座っています",
+        "泳いでいます"
+      ],
+      "hint": "I live in Tokyo",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "寝る前にドアを___。",
+      "correct": "閉めます",
+      "distractors": [
+        "開けます",
+        "洗います"
+      ],
+      "hint": "I close the door before sleeping",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "週末に部屋を___。",
+      "correct": "掃除します",
+      "distractors": [
+        "勉強します",
+        "旅行します"
+      ],
+      "hint": "I clean my room on the weekend",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "彼女に花を___。",
+      "correct": "あげます",
+      "distractors": [
+        "もらいます",
+        "売ります"
+      ],
+      "hint": "I give flowers to my girlfriend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "友達に会えて___です。",
+      "correct": "うれしい",
+      "distractors": [
+        "かなしい",
+        "さむい"
+      ],
+      "hint": "I am happy to see my friend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "私はあなたを___います。",
+      "correct": "愛して",
+      "distractors": [
+        "食べて",
+        "読んで"
+      ],
+      "hint": "I love you",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "今日は雨が___。",
+      "correct": "降ります",
+      "distractors": [
+        "飲みます",
+        "歩きます"
+      ],
+      "hint": "It will rain today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "空がとても___です。",
+      "correct": "青い",
+      "distractors": [
+        "甘い",
+        "遅い"
+      ],
+      "hint": "The sky is very blue",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "毎朝、犬と公園を___。",
+      "correct": "歩きます",
+      "distractors": [
+        "飲みます",
+        "読みます"
+      ],
+      "hint": "I walk in the park with my dog every morning",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "父は会社で___。",
+      "correct": "働きます",
+      "distractors": [
+        "泳ぎます",
+        "歌います"
+      ],
+      "hint": "My father works at a company",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "会議は九時に___。",
+      "correct": "始まります",
+      "distractors": [
+        "終わります",
+        "座ります"
+      ],
+      "hint": "The meeting starts at nine",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "毎月お金を___。",
+      "correct": "もらいます",
+      "distractors": [
+        "あげます",
+        "なくします"
+      ],
+      "hint": "I receive money every month",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "毎日パソコンを___。",
+      "correct": "使います",
+      "distractors": [
+        "食べます",
+        "飲みます"
+      ],
+      "hint": "I use a computer every day",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "友達に電話を___。",
+      "correct": "かけます",
+      "distractors": [
+        "開けます",
+        "歩きます"
+      ],
+      "hint": "I call my friend",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "新しいスマホを___。",
+      "correct": "買います",
+      "distractors": [
+        "飲みます",
+        "寝ます"
+      ],
+      "hint": "I buy a new smartphone",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "冬にコートを___。",
+      "correct": "着ます",
+      "distractors": [
+        "飲みます",
+        "読みます"
+      ],
+      "hint": "I wear a coat in winter",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "新しい靴を___。",
+      "correct": "はきます",
+      "distractors": [
+        "着ます",
+        "かぶります"
+      ],
+      "hint": "I put on new shoes",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "夏に帽子を___。",
+      "correct": "かぶります",
+      "distractors": [
+        "はきます",
+        "着ます"
+      ],
+      "hint": "I wear a hat in summer",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "電車で学校に___。",
+      "correct": "行きます",
+      "distractors": [
+        "食べます",
+        "読みます"
+      ],
+      "hint": "I go to school by train",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "ホテルに三日間___。",
+      "correct": "泊まります",
+      "distractors": [
+        "売ります",
+        "洗います"
+      ],
+      "hint": "I stay at the hotel for three days",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "駅でバスを___。",
+      "correct": "待ちます",
+      "distractors": [
+        "食べます",
+        "読みます"
+      ],
+      "hint": "I wait for the bus at the station",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "毎週サッカーを___。",
+      "correct": "します",
+      "distractors": [
+        "飲みます",
+        "着ます"
+      ],
+      "hint": "I play soccer every week",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "夏に海で___。",
+      "correct": "泳ぎます",
+      "distractors": [
+        "書きます",
+        "切ります"
+      ],
+      "hint": "I swim in the sea in summer",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "朝、公園を___。",
+      "correct": "走ります",
+      "distractors": [
+        "飲みます",
+        "寝ます"
+      ],
+      "hint": "I run in the park in the morning",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "図書館で日本語を___。",
+      "correct": "勉強します",
+      "distractors": [
+        "料理します",
+        "掃除します"
+      ],
+      "hint": "I study Japanese at the library",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "先生の話を___。",
+      "correct": "聞きます",
+      "distractors": [
+        "食べます",
+        "はきます"
+      ],
+      "hint": "I listen to the teacher",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "ノートに名前を___。",
+      "correct": "書きます",
+      "distractors": [
+        "飲みます",
+        "歌います"
+      ],
+      "hint": "I write my name in the notebook",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "寝る前に本を___。",
+      "correct": "読みます",
+      "distractors": [
+        "食べます",
+        "飲みます"
+      ],
+      "hint": "I read a book before bed",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "図書館で本を___。",
+      "correct": "借ります",
+      "distractors": [
+        "売ります",
+        "食べます"
+      ],
+      "hint": "I borrow a book at the library",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "この本はとても___です。",
+      "correct": "面白い",
+      "distractors": [
+        "暑い",
+        "遅い"
+      ],
+      "hint": "This book is very interesting",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "毎晩音楽を___。",
+      "correct": "聞きます",
+      "distractors": [
+        "食べます",
+        "着ます"
+      ],
+      "hint": "I listen to music every night",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "彼はギターを___。",
+      "correct": "弾きます",
+      "distractors": [
+        "飲みます",
+        "着ます"
+      ],
+      "hint": "He plays the guitar",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "カラオケで歌を___。",
+      "correct": "歌います",
+      "distractors": [
+        "食べます",
+        "読みます"
+      ],
+      "hint": "I sing songs at karaoke",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "週末に映画を___。",
+      "correct": "見ます",
+      "distractors": [
+        "飲みます",
+        "聞きます"
+      ],
+      "hint": "I watch a movie on the weekend",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "映画館でチケットを___。",
+      "correct": "買います",
+      "distractors": [
+        "売ります",
+        "食べます"
+      ],
+      "hint": "I buy a ticket at the cinema",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "この映画はとても___です。",
+      "correct": "長い",
+      "distractors": [
+        "甘い",
+        "若い"
+      ],
+      "hint": "This movie is very long",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "彼女は絵を___。",
+      "correct": "描きます",
+      "distractors": [
+        "飲みます",
+        "着ます"
+      ],
+      "hint": "She draws pictures",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "美術館で絵を___。",
+      "correct": "見ます",
+      "distractors": [
+        "食べます",
+        "歌います"
+      ],
+      "hint": "I look at paintings at the museum",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "この絵はとても___です。",
+      "correct": "きれい",
+      "distractors": [
+        "遅い",
+        "重い"
+      ],
+      "hint": "This painting is very beautiful",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "毎朝コーヒーを___。",
+      "correct": "飲みます",
+      "distractors": [
+        "食べます",
+        "書きます"
+      ],
+      "hint": "I drink coffee every morning",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "カフェで友達を___。",
+      "correct": "待ちます",
+      "distractors": [
+        "売ります",
+        "開けます"
+      ],
+      "hint": "I wait for my friend at the cafe",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "コーヒーに砂糖を___。",
+      "correct": "入れます",
+      "distractors": [
+        "出します",
+        "歩きます"
+      ],
+      "hint": "I put sugar in my coffee",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    }
+  ]
+}

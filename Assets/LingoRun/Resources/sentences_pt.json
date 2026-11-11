@@ -1,0 +1,655 @@
+{
+  "language": "pt",
+  "sentences": [
+    {
+      "tpl": "Eu ___ água todos os dias",
+      "correct": "bebo",
+      "distractors": [
+        "como",
+        "leio"
+      ],
+      "hint": "I drink water every day",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Nós ___ pão no café da manhã",
+      "correct": "comemos",
+      "distractors": [
+        "bebemos",
+        "abrimos"
+      ],
+      "hint": "We eat bread at breakfast",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "A ___ é uma fruta vermelha",
+      "correct": "maçã",
+      "distractors": [
+        "batata",
+        "carne"
+      ],
+      "hint": "The apple is a red fruit",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Eu quero ___ suco de laranja",
+      "correct": "beber",
+      "distractors": [
+        "comer",
+        "escrever"
+      ],
+      "hint": "I want to drink orange juice",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "O ___ está na mesa",
+      "correct": "queijo",
+      "distractors": [
+        "chuva",
+        "janela"
+      ],
+      "hint": "The cheese is on the table",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Eu como ___ com frango",
+      "correct": "arroz",
+      "distractors": [
+        "sapatos",
+        "janelas"
+      ],
+      "hint": "I eat rice with chicken",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "O jantar está muito ___",
+      "correct": "quente",
+      "distractors": [
+        "feliz",
+        "jovem"
+      ],
+      "hint": "The dinner is very hot",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Eu bebo ___ toda manhã",
+      "correct": "café",
+      "distractors": [
+        "pão",
+        "arroz"
+      ],
+      "hint": "I drink coffee every morning",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Eu gosto de café sem ___",
+      "correct": "açúcar",
+      "distractors": [
+        "porta",
+        "chuva"
+      ],
+      "hint": "I like coffee without sugar",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "A ___ da casa é branca",
+      "correct": "porta",
+      "distractors": [
+        "livro",
+        "céu"
+      ],
+      "hint": "The door of the house is white",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Eu durmo no meu ___",
+      "correct": "quarto",
+      "distractors": [
+        "mesa",
+        "chave"
+      ],
+      "hint": "I sleep in my bedroom",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Nós moramos em uma ___ grande",
+      "correct": "casa",
+      "distractors": [
+        "carro",
+        "pão"
+      ],
+      "hint": "We live in a big house",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Minha família ___ nesta casa",
+      "correct": "mora",
+      "distractors": [
+        "fecha",
+        "chove"
+      ],
+      "hint": "My family lives in this house",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Eu ___ a porta antes de dormir",
+      "correct": "fecho",
+      "distractors": [
+        "bebo",
+        "ando"
+      ],
+      "hint": "I close the door before sleeping",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Eu ___ você",
+      "correct": "amo",
+      "distractors": [
+        "abro",
+        "fecho"
+      ],
+      "hint": "I love you",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Minha namorada está muito ___ hoje",
+      "correct": "feliz",
+      "distractors": [
+        "verde",
+        "fria"
+      ],
+      "hint": "My girlfriend is very happy today",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Ele dá um ___ na esposa",
+      "correct": "beijo",
+      "distractors": [
+        "trem",
+        "sapato"
+      ],
+      "hint": "He gives his wife a kiss",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "O ___ está azul hoje",
+      "correct": "céu",
+      "distractors": [
+        "leite",
+        "pão"
+      ],
+      "hint": "The sky is blue today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "O ___ dorme na cama",
+      "correct": "gato",
+      "distractors": [
+        "céu",
+        "sol"
+      ],
+      "hint": "The cat sleeps on the bed",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "A ___ cai do céu",
+      "correct": "chuva",
+      "distractors": [
+        "mesa",
+        "porta"
+      ],
+      "hint": "The rain falls from the sky",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "No ___ faz muito calor",
+      "correct": "verão",
+      "distractors": [
+        "inverno",
+        "banheiro"
+      ],
+      "hint": "In the summer it is very hot",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "A ___ é branca e fria",
+      "correct": "neve",
+      "distractors": [
+        "fogo",
+        "sol"
+      ],
+      "hint": "The snow is white and cold",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Eu vejo uma ___ na árvore",
+      "correct": "flor",
+      "distractors": [
+        "carro",
+        "livro"
+      ],
+      "hint": "I see a flower on the tree",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Eu preciso de ___ para comprar comida",
+      "correct": "dinheiro",
+      "distractors": [
+        "chuva",
+        "neve"
+      ],
+      "hint": "I need money to buy food",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "O ___ do vestido é alto",
+      "correct": "preço",
+      "distractors": [
+        "água",
+        "lua"
+      ],
+      "hint": "The price of the dress is high",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Eu ___ de segunda a sexta",
+      "correct": "trabalho",
+      "distractors": [
+        "durmo",
+        "canto"
+      ],
+      "hint": "I work from Monday to Friday",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Meu ___ é novo",
+      "correct": "telefone",
+      "distractors": [
+        "casa",
+        "água"
+      ],
+      "hint": "My phone is new",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Eu escrevo no meu ___",
+      "correct": "computador",
+      "distractors": [
+        "janela",
+        "chuva"
+      ],
+      "hint": "I write on my computer",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "A internet está ___ hoje",
+      "correct": "rápida",
+      "distractors": [
+        "amarela",
+        "alta"
+      ],
+      "hint": "The internet is fast today",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Eu compro uma ___ nova",
+      "correct": "camisa",
+      "distractors": [
+        "ovo",
+        "dia"
+      ],
+      "hint": "I buy a new shirt",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Os meus ___ são pretos",
+      "correct": "sapatos",
+      "distractors": [
+        "camisas",
+        "chaves"
+      ],
+      "hint": "My shoes are black",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Ela usa um ___ vermelho",
+      "correct": "vestido",
+      "distractors": [
+        "casa",
+        "água"
+      ],
+      "hint": "She wears a red dress",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Nós vamos de ___ para a cidade",
+      "correct": "ônibus",
+      "distractors": [
+        "cama",
+        "porta"
+      ],
+      "hint": "We go by bus to the city",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "O ___ chega às oito horas",
+      "correct": "trem",
+      "distractors": [
+        "lua",
+        "rua"
+      ],
+      "hint": "The train arrives at eight o'clock",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "A ___ onde eu moro é pequena",
+      "correct": "rua",
+      "distractors": [
+        "carro",
+        "pão"
+      ],
+      "hint": "The street where I live is small",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Eu quero viajar para outro ___",
+      "correct": "país",
+      "distractors": [
+        "água",
+        "noite"
+      ],
+      "hint": "I want to travel to another country",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Nós ___ futebol no domingo",
+      "correct": "jogamos",
+      "distractors": [
+        "comemos",
+        "bebemos"
+      ],
+      "hint": "We play soccer on Sunday",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Eu gosto de ___ no parque",
+      "correct": "caminhar",
+      "distractors": [
+        "fechar",
+        "chover"
+      ],
+      "hint": "I like to walk in the park",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "O ___ fala com os alunos",
+      "correct": "professor",
+      "distractors": [
+        "gato",
+        "pão"
+      ],
+      "hint": "The teacher speaks with the students",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Eu ___ português na escola",
+      "correct": "estudo",
+      "distractors": [
+        "durmo",
+        "bebo"
+      ],
+      "hint": "I study Portuguese at school",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Os alunos ___ palavras novas",
+      "correct": "aprendem",
+      "distractors": [
+        "dormem",
+        "chovem"
+      ],
+      "hint": "The students learn new words",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Eu ___ um livro antes de dormir",
+      "correct": "leio",
+      "distractors": [
+        "como",
+        "bebo"
+      ],
+      "hint": "I read a book before sleeping",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Ela ___ uma carta para a amiga",
+      "correct": "escreve",
+      "distractors": [
+        "dorme",
+        "anda"
+      ],
+      "hint": "She writes a letter to her friend",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Nós ___ música todos os dias",
+      "correct": "ouvimos",
+      "distractors": [
+        "comemos",
+        "fechamos"
+      ],
+      "hint": "We listen to music every day",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Eu gosto de ouvir ___ no carro",
+      "correct": "música",
+      "distractors": [
+        "queijo",
+        "sapato"
+      ],
+      "hint": "I like to listen to music in the car",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Nós vemos um ___ à noite",
+      "correct": "filme",
+      "distractors": [
+        "mesa",
+        "chuva"
+      ],
+      "hint": "We watch a movie at night",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Eu vejo arte no ___",
+      "correct": "museu",
+      "distractors": [
+        "ovo",
+        "leite"
+      ],
+      "hint": "I see art at the museum",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Hoje é segunda-feira e amanhã é ___",
+      "correct": "terça-feira",
+      "distractors": [
+        "domingo",
+        "sábado"
+      ],
+      "hint": "Today is Monday and tomorrow is Tuesday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Eu tenho ___ irmãos: um irmão e uma irmã",
+      "correct": "dois",
+      "distractors": [
+        "cinco",
+        "dez"
+      ],
+      "hint": "I have two siblings: a brother and a sister",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Onde ___ o banheiro?",
+      "correct": "fica",
+      "distractors": [
+        "come",
+        "bebe"
+      ],
+      "hint": "Where is the bathroom?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    }
+  ]
+}

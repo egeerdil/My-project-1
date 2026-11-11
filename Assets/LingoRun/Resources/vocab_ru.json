@@ -1,0 +1,2672 @@
+{
+  "language": "ru",
+  "name": "Russian",
+  "words": [
+    {
+      "en": "thanks",
+      "tgt": "спасибо",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "yes",
+      "tgt": "да",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "no",
+      "tgt": "нет",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "please",
+      "tgt": "пожалуйста",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "hello",
+      "tgt": "привет",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "goodbye",
+      "tgt": "до свидания",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good morning",
+      "tgt": "доброе утро",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good afternoon",
+      "tgt": "добрый день",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good night",
+      "tgt": "спокойной ночи",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you later",
+      "tgt": "до скорого",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you tomorrow",
+      "tgt": "до завтра",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "excuse me",
+      "tgt": "извините",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "sorry",
+      "tgt": "простите",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "you're welcome",
+      "tgt": "не за что",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "of course",
+      "tgt": "конечно",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "maybe",
+      "tgt": "может быть",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't know",
+      "tgt": "я не знаю",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I understand",
+      "tgt": "я понимаю",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't understand",
+      "tgt": "я не понимаю",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "what's your name",
+      "tgt": "как тебя зовут",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "my name is",
+      "tgt": "меня зовут",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "nice to meet you",
+      "tgt": "очень приятно",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "how are you",
+      "tgt": "как дела",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I'm fine",
+      "tgt": "у меня всё хорошо",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "where is",
+      "tgt": "где находится",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much costs",
+      "tgt": "сколько стоит",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "I would like",
+      "tgt": "я бы хотел",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "I want",
+      "tgt": "я хочу",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I have",
+      "tgt": "у меня есть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I am (perm)",
+      "tgt": "я есть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "there is",
+      "tgt": "есть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "one",
+      "tgt": "один",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "two",
+      "tgt": "два",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "three",
+      "tgt": "три",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "four",
+      "tgt": "четыре",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "five",
+      "tgt": "пять",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "six",
+      "tgt": "шесть",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "seven",
+      "tgt": "семь",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eight",
+      "tgt": "восемь",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "nine",
+      "tgt": "девять",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "ten",
+      "tgt": "десять",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eleven",
+      "tgt": "одиннадцать",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twelve",
+      "tgt": "двенадцать",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twenty",
+      "tgt": "двадцать",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thirty",
+      "tgt": "тридцать",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "fifty",
+      "tgt": "пятьдесят",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "hundred",
+      "tgt": "сто",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thousand",
+      "tgt": "тысяча",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "first",
+      "tgt": "первый",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "second",
+      "tgt": "второй",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "last",
+      "tgt": "последний",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "Monday",
+      "tgt": "понедельник",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Tuesday",
+      "tgt": "вторник",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Wednesday",
+      "tgt": "среда",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Thursday",
+      "tgt": "четверг",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Friday",
+      "tgt": "пятница",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Saturday",
+      "tgt": "суббота",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Sunday",
+      "tgt": "воскресенье",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "January",
+      "tgt": "январь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "February",
+      "tgt": "февраль",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "March",
+      "tgt": "март",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "April",
+      "tgt": "апрель",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "May",
+      "tgt": "май",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "June",
+      "tgt": "июнь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "July",
+      "tgt": "июль",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "August",
+      "tgt": "август",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "September",
+      "tgt": "сентябрь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "October",
+      "tgt": "октябрь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "November",
+      "tgt": "ноябрь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "December",
+      "tgt": "декабрь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "day",
+      "tgt": "день",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "night",
+      "tgt": "ночь",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "morning",
+      "tgt": "утро",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "evening",
+      "tgt": "вечер",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "today",
+      "tgt": "сегодня",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "tomorrow",
+      "tgt": "завтра",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "yesterday",
+      "tgt": "вчера",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "week",
+      "tgt": "неделя",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "month",
+      "tgt": "месяц",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "year",
+      "tgt": "год",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "hour",
+      "tgt": "час",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "minute",
+      "tgt": "минута",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "second of time",
+      "tgt": "секунда",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "now",
+      "tgt": "сейчас",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "later",
+      "tgt": "позже",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "before",
+      "tgt": "раньше",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "after",
+      "tgt": "после",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "early",
+      "tgt": "рано",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "late",
+      "tgt": "поздно",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "always",
+      "tgt": "всегда",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "never",
+      "tgt": "никогда",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "sometimes",
+      "tgt": "иногда",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "often",
+      "tgt": "часто",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "mother",
+      "tgt": "мать",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "father",
+      "tgt": "отец",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "sister",
+      "tgt": "сестра",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "brother",
+      "tgt": "брат",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "son",
+      "tgt": "сын",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "daughter",
+      "tgt": "дочь",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "family",
+      "tgt": "семья",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "friend",
+      "tgt": "друг",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "boyfriend",
+      "tgt": "парень",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "girlfriend",
+      "tgt": "девушка",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "husband",
+      "tgt": "муж",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "wife",
+      "tgt": "жена",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "baby",
+      "tgt": "малыш",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "child",
+      "tgt": "ребёнок",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "person",
+      "tgt": "человек",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "people",
+      "tgt": "люди",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "I",
+      "tgt": "я",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "you",
+      "tgt": "ты",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "he",
+      "tgt": "он",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "she",
+      "tgt": "она",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "we",
+      "tgt": "мы",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "they",
+      "tgt": "они",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "head",
+      "tgt": "голова",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "face",
+      "tgt": "лицо",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "eye",
+      "tgt": "глаз",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "nose",
+      "tgt": "нос",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "mouth",
+      "tgt": "рот",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "ear",
+      "tgt": "ухо",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hair",
+      "tgt": "волосы",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hand",
+      "tgt": "кисть",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "arm",
+      "tgt": "рука",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "leg",
+      "tgt": "нога",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "foot",
+      "tgt": "ступня",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "body",
+      "tgt": "тело",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "apple",
+      "tgt": "яблоко",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "bread",
+      "tgt": "хлеб",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "milk",
+      "tgt": "молоко",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "water",
+      "tgt": "вода",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "egg",
+      "tgt": "яйцо",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "rice",
+      "tgt": "рис",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "salt",
+      "tgt": "соль",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "sugar",
+      "tgt": "сахар",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "meat",
+      "tgt": "мясо",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "chicken",
+      "tgt": "курица",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "fruit",
+      "tgt": "фрукт",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "orange",
+      "tgt": "апельсин",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "banana",
+      "tgt": "банан",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "tomato",
+      "tgt": "помидор",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "potato",
+      "tgt": "картофель",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "cheese",
+      "tgt": "сыр",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "butter",
+      "tgt": "масло",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "coffee",
+      "tgt": "кофе",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "tea",
+      "tgt": "чай",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "wine",
+      "tgt": "вино",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "beer",
+      "tgt": "пиво",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "juice",
+      "tgt": "сок",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "to eat",
+      "tgt": "есть",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "to drink",
+      "tgt": "пить",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "breakfast",
+      "tgt": "завтрак",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "lunch",
+      "tgt": "обед",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "dinner",
+      "tgt": "ужин",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "shirt",
+      "tgt": "рубашка",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "shoes",
+      "tgt": "туфли",
+      "t": [
+        "fashion"
+      ],
+      "s": "shoes"
+    },
+    {
+      "en": "dress",
+      "tgt": "платье",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "jacket",
+      "tgt": "куртка",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "trousers",
+      "tgt": "брюки",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "hat",
+      "tgt": "шляпа",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "bag",
+      "tgt": "сумка",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "house",
+      "tgt": "дом",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "kitchen",
+      "tgt": "кухня",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bedroom",
+      "tgt": "спальня",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bathroom",
+      "tgt": "ванная",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "door",
+      "tgt": "дверь",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "window",
+      "tgt": "окно",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "bed",
+      "tgt": "кровать",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "key",
+      "tgt": "ключ",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "table",
+      "tgt": "стол",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-places"
+    },
+    {
+      "en": "chair",
+      "tgt": "стул",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "room",
+      "tgt": "комната",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "city",
+      "tgt": "город",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "street",
+      "tgt": "улица",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "country",
+      "tgt": "страна",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "car",
+      "tgt": "машина",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "bus",
+      "tgt": "автобус",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "train",
+      "tgt": "поезд",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "to walk",
+      "tgt": "ходить",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to go",
+      "tgt": "идти",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to come",
+      "tgt": "приходить",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "near",
+      "tgt": "близко",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "far",
+      "tgt": "далеко",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "right side",
+      "tgt": "направо",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "left side",
+      "tgt": "налево",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "red",
+      "tgt": "красный",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "blue",
+      "tgt": "синий",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "green",
+      "tgt": "зелёный",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "yellow",
+      "tgt": "жёлтый",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "black",
+      "tgt": "чёрный",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "white",
+      "tgt": "белый",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "good",
+      "tgt": "хороший",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "bad",
+      "tgt": "плохой",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "big",
+      "tgt": "большой",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "small",
+      "tgt": "маленький",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "tall",
+      "tgt": "высокий",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "low",
+      "tgt": "низкий",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "young",
+      "tgt": "молодой",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "old age",
+      "tgt": "старый",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "new",
+      "tgt": "новый",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "happy",
+      "tgt": "счастливый",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "sad",
+      "tgt": "грустный",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "fast",
+      "tgt": "быстрый",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "easy",
+      "tgt": "лёгкий",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "difficult",
+      "tgt": "трудный",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "hot weather",
+      "tgt": "жаркий",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "cold weather",
+      "tgt": "холодный",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "warm",
+      "tgt": "тёплый",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "to be (permanent)",
+      "tgt": "быть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to be (temp)",
+      "tgt": "находиться",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to have",
+      "tgt": "иметь",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to do",
+      "tgt": "делать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to see",
+      "tgt": "видеть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to look at",
+      "tgt": "смотреть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to want",
+      "tgt": "хотеть",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (info)",
+      "tgt": "знать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (person)",
+      "tgt": "быть знакомым",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to need",
+      "tgt": "нуждаться",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to give",
+      "tgt": "давать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to take",
+      "tgt": "брать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to open",
+      "tgt": "открывать",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to close",
+      "tgt": "закрывать",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to start",
+      "tgt": "начинать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to finish",
+      "tgt": "заканчивать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to live",
+      "tgt": "жить",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to speak",
+      "tgt": "говорить",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to say",
+      "tgt": "сказать",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to read",
+      "tgt": "читать",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to write",
+      "tgt": "писать",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to listen",
+      "tgt": "слушать",
+      "t": [
+        "music"
+      ],
+      "s": "music-actions"
+    },
+    {
+      "en": "to play",
+      "tgt": "играть",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to study",
+      "tgt": "учиться",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to learn",
+      "tgt": "изучать",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to sleep",
+      "tgt": "спать",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to wake up",
+      "tgt": "просыпаться",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "what",
+      "tgt": "что",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "who",
+      "tgt": "кто",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "where",
+      "tgt": "где",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "when",
+      "tgt": "когда",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "why",
+      "tgt": "почему",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how",
+      "tgt": "как",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "which",
+      "tgt": "какой",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much",
+      "tgt": "сколько",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "with",
+      "tgt": "с",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "without",
+      "tgt": "без",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "for",
+      "tgt": "для",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "from",
+      "tgt": "из",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "in front of",
+      "tgt": "перед",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "behind",
+      "tgt": "позади",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "inside",
+      "tgt": "внутри",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "outside",
+      "tgt": "снаружи",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "here",
+      "tgt": "здесь",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "there",
+      "tgt": "там",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "next to",
+      "tgt": "рядом",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "under",
+      "tgt": "под",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "above",
+      "tgt": "над",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "school",
+      "tgt": "школа",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "teacher",
+      "tgt": "учитель",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "student",
+      "tgt": "студент",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "book",
+      "tgt": "книга",
+      "t": [
+        "books"
+      ],
+      "s": "book-genres"
+    },
+    {
+      "en": "class",
+      "tgt": "класс",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "language",
+      "tgt": "язык",
+      "t": [
+        "school"
+      ],
+      "s": "subjects"
+    },
+    {
+      "en": "word",
+      "tgt": "слово",
+      "t": [
+        "books"
+      ],
+      "s": "book-parts"
+    },
+    {
+      "en": "money",
+      "tgt": "деньги",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "price",
+      "tgt": "цена",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "sun",
+      "tgt": "солнце",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "moon",
+      "tgt": "луна",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "tree",
+      "tgt": "дерево",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "flower",
+      "tgt": "цветок",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "sea",
+      "tgt": "море",
+      "t": [
+        "nature"
+      ],
+      "s": "water-bodies"
+    },
+    {
+      "en": "sky",
+      "tgt": "небо",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "rain",
+      "tgt": "дождь",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "snow",
+      "tgt": "снег",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "dog",
+      "tgt": "собака",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "cat",
+      "tgt": "кошка",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "fire",
+      "tgt": "огонь",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "summer",
+      "tgt": "лето",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "winter",
+      "tgt": "зима",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "spring",
+      "tgt": "весна",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "autumn",
+      "tgt": "осень",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "love",
+      "tgt": "любовь",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "kiss",
+      "tgt": "поцелуй",
+      "t": [
+        "love"
+      ],
+      "s": "love-actions"
+    },
+    {
+      "en": "phone",
+      "tgt": "телефон",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "computer",
+      "tgt": "компьютер",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "more",
+      "tgt": "больше",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "less",
+      "tgt": "меньше",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "very",
+      "tgt": "очень",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "a little",
+      "tgt": "немного",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "too much",
+      "tgt": "слишком много",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "all",
+      "tgt": "всё",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "nothing",
+      "tgt": "ничего",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "something",
+      "tgt": "что-то",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "this",
+      "tgt": "это",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "that",
+      "tgt": "то",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "well",
+      "tgt": "хорошо",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "poorly",
+      "tgt": "плохо",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    }
+  ],
+  "a1Keys": [
+    "thanks",
+    "yes",
+    "no",
+    "please",
+    "hello",
+    "goodbye",
+    "good morning",
+    "good afternoon",
+    "good night",
+    "see you later",
+    "see you tomorrow",
+    "excuse me",
+    "sorry",
+    "you're welcome",
+    "of course",
+    "maybe",
+    "I don't know",
+    "I understand",
+    "I don't understand",
+    "what's your name",
+    "my name is",
+    "nice to meet you",
+    "how are you",
+    "I'm fine",
+    "where is",
+    "how much costs",
+    "I would like",
+    "I want",
+    "I have",
+    "I am (perm)",
+    "there is",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve",
+    "twenty",
+    "thirty",
+    "fifty",
+    "hundred",
+    "thousand",
+    "first",
+    "second",
+    "last",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "day",
+    "night",
+    "morning",
+    "evening",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "week",
+    "month",
+    "year",
+    "hour",
+    "minute",
+    "second of time",
+    "now",
+    "later",
+    "before",
+    "after",
+    "early",
+    "late",
+    "always",
+    "never",
+    "sometimes",
+    "often",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "son",
+    "daughter",
+    "family",
+    "friend",
+    "boyfriend",
+    "girlfriend",
+    "husband",
+    "wife",
+    "baby",
+    "child",
+    "person",
+    "people",
+    "I",
+    "you",
+    "he",
+    "she",
+    "we",
+    "they",
+    "head",
+    "face",
+    "eye",
+    "nose",
+    "mouth",
+    "ear",
+    "hair",
+    "hand",
+    "arm",
+    "leg",
+    "foot",
+    "body",
+    "apple",
+    "bread",
+    "milk",
+    "water",
+    "egg",
+    "rice",
+    "salt",
+    "sugar",
+    "meat",
+    "chicken",
+    "fruit",
+    "orange",
+    "banana",
+    "tomato",
+    "potato",
+    "cheese",
+    "butter",
+    "coffee",
+    "tea",
+    "wine",
+    "beer",
+    "juice",
+    "to eat",
+    "to drink",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "shirt",
+    "shoes",
+    "dress",
+    "jacket",
+    "trousers",
+    "hat",
+    "bag",
+    "house",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "door",
+    "window",
+    "bed",
+    "key",
+    "table",
+    "chair",
+    "room",
+    "city",
+    "street",
+    "country",
+    "car",
+    "bus",
+    "train",
+    "to walk",
+    "to go",
+    "to come",
+    "near",
+    "far",
+    "right side",
+    "left side",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "black",
+    "white",
+    "good",
+    "bad",
+    "big",
+    "small",
+    "tall",
+    "low",
+    "young",
+    "old age",
+    "new",
+    "happy",
+    "sad",
+    "fast",
+    "easy",
+    "difficult",
+    "hot weather",
+    "cold weather",
+    "warm",
+    "to be (permanent)",
+    "to be (temp)",
+    "to have",
+    "to do",
+    "to see",
+    "to look at",
+    "to want",
+    "to know (info)",
+    "to know (person)",
+    "to need",
+    "to give",
+    "to take",
+    "to open",
+    "to close",
+    "to start",
+    "to finish",
+    "to live",
+    "to speak",
+    "to say",
+    "to read",
+    "to write",
+    "to listen",
+    "to play",
+    "to study",
+    "to learn",
+    "to sleep",
+    "to wake up",
+    "what",
+    "who",
+    "where",
+    "when",
+    "why",
+    "how",
+    "which",
+    "how much",
+    "with",
+    "without",
+    "for",
+    "from",
+    "in front of",
+    "behind",
+    "inside",
+    "outside",
+    "here",
+    "there",
+    "next to",
+    "under",
+    "above",
+    "school",
+    "teacher",
+    "student",
+    "book",
+    "class",
+    "language",
+    "word",
+    "money",
+    "price",
+    "sun",
+    "moon",
+    "tree",
+    "flower",
+    "sea",
+    "sky",
+    "rain",
+    "snow",
+    "dog",
+    "cat",
+    "fire",
+    "summer",
+    "winter",
+    "spring",
+    "autumn",
+    "love",
+    "kiss",
+    "phone",
+    "computer",
+    "more",
+    "less",
+    "very",
+    "a little",
+    "too much",
+    "all",
+    "nothing",
+    "something",
+    "this",
+    "that",
+    "well",
+    "poorly"
+  ]
+}

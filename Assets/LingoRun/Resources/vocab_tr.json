@@ -1,0 +1,2708 @@
+{
+  "language": "tr",
+  "name": "Turkish",
+  "words": [
+    {
+      "en": "thanks",
+      "tgt": "teşekkürler",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "yes",
+      "tgt": "evet",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "no",
+      "tgt": "hayır",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "please",
+      "tgt": "lütfen",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "hello",
+      "tgt": "merhaba",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "goodbye",
+      "tgt": "hoşça kal",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good morning",
+      "tgt": "günaydın",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good afternoon",
+      "tgt": "iyi günler",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good evening",
+      "tgt": "iyi akşamlar",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "good night",
+      "tgt": "iyi geceler",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you later",
+      "tgt": "görüşürüz",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "see you tomorrow",
+      "tgt": "yarın görüşürüz",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "excuse me",
+      "tgt": "affedersiniz",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "sorry",
+      "tgt": "özür dilerim",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "you're welcome",
+      "tgt": "rica ederim",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "of course",
+      "tgt": "tabii ki",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "maybe",
+      "tgt": "belki",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't know",
+      "tgt": "bilmiyorum",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I understand",
+      "tgt": "anlıyorum",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I don't understand",
+      "tgt": "anlamıyorum",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "what's your name",
+      "tgt": "adın ne",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "my name is",
+      "tgt": "benim adım",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "nice to meet you",
+      "tgt": "memnun oldum",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "how are you",
+      "tgt": "nasılsın",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "I'm fine",
+      "tgt": "iyiyim",
+      "t": [
+        "essentials"
+      ],
+      "s": "greetings"
+    },
+    {
+      "en": "where is",
+      "tgt": "nerede",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much costs",
+      "tgt": "kaç para",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "I would like",
+      "tgt": "isterim",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "I want",
+      "tgt": "istiyorum",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I have",
+      "tgt": "bende var",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I am",
+      "tgt": "ben ...im",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "I am (perm)",
+      "tgt": "ben ...im",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "there is",
+      "tgt": "var",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "one",
+      "tgt": "bir",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "two",
+      "tgt": "iki",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "three",
+      "tgt": "üç",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "four",
+      "tgt": "dört",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "five",
+      "tgt": "beş",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "six",
+      "tgt": "altı",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "seven",
+      "tgt": "yedi",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eight",
+      "tgt": "sekiz",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "nine",
+      "tgt": "dokuz",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "ten",
+      "tgt": "on",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "eleven",
+      "tgt": "on bir",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twelve",
+      "tgt": "on iki",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "twenty",
+      "tgt": "yirmi",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thirty",
+      "tgt": "otuz",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "fifty",
+      "tgt": "elli",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "hundred",
+      "tgt": "yüz",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "thousand",
+      "tgt": "bin",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "first",
+      "tgt": "birinci",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "second",
+      "tgt": "ikinci",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "last",
+      "tgt": "sonuncu",
+      "t": [
+        "essentials"
+      ],
+      "s": "numbers"
+    },
+    {
+      "en": "Monday",
+      "tgt": "Pazartesi",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Tuesday",
+      "tgt": "Salı",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Wednesday",
+      "tgt": "Çarşamba",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Thursday",
+      "tgt": "Perşembe",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Friday",
+      "tgt": "Cuma",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Saturday",
+      "tgt": "Cumartesi",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "Sunday",
+      "tgt": "Pazar",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "January",
+      "tgt": "Ocak",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "February",
+      "tgt": "Şubat",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "March",
+      "tgt": "Mart",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "April",
+      "tgt": "Nisan",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "May",
+      "tgt": "Mayıs",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "June",
+      "tgt": "Haziran",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "July",
+      "tgt": "Temmuz",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "August",
+      "tgt": "Ağustos",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "September",
+      "tgt": "Eylül",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "October",
+      "tgt": "Ekim",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "November",
+      "tgt": "Kasım",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "December",
+      "tgt": "Aralık",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "day",
+      "tgt": "gün",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "night",
+      "tgt": "gece",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "morning",
+      "tgt": "sabah",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "evening",
+      "tgt": "akşam",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "today",
+      "tgt": "bugün",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "tomorrow",
+      "tgt": "yarın",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "yesterday",
+      "tgt": "dün",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "week",
+      "tgt": "hafta",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "month",
+      "tgt": "ay",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "year",
+      "tgt": "yıl",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "hour",
+      "tgt": "saat",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "minute",
+      "tgt": "dakika",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "second of time",
+      "tgt": "saniye",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "now",
+      "tgt": "şimdi",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "later",
+      "tgt": "daha sonra",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "before",
+      "tgt": "önce",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "after",
+      "tgt": "sonra",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "early",
+      "tgt": "erken",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "late",
+      "tgt": "geç",
+      "t": [
+        "essentials"
+      ],
+      "s": "time-words"
+    },
+    {
+      "en": "always",
+      "tgt": "her zaman",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "never",
+      "tgt": "asla",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "sometimes",
+      "tgt": "bazen",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "often",
+      "tgt": "sık sık",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "mother",
+      "tgt": "anne",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "father",
+      "tgt": "baba",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "sister",
+      "tgt": "kız kardeş",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "brother",
+      "tgt": "erkek kardeş",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "son",
+      "tgt": "oğul",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "daughter",
+      "tgt": "kız",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "family",
+      "tgt": "aile",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "friend",
+      "tgt": "arkadaş",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "boyfriend",
+      "tgt": "erkek arkadaş",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "girlfriend",
+      "tgt": "kız arkadaş",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "husband",
+      "tgt": "koca",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "wife",
+      "tgt": "eş",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "baby",
+      "tgt": "bebek",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "child",
+      "tgt": "çocuk",
+      "t": [
+        "home"
+      ],
+      "s": "family"
+    },
+    {
+      "en": "person",
+      "tgt": "kişi",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "people",
+      "tgt": "insanlar",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "I",
+      "tgt": "ben",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "you",
+      "tgt": "sen",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "he",
+      "tgt": "o",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "she",
+      "tgt": "o",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "we",
+      "tgt": "biz",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "they",
+      "tgt": "onlar",
+      "t": [
+        "essentials"
+      ],
+      "s": "pronouns"
+    },
+    {
+      "en": "head",
+      "tgt": "baş",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "face",
+      "tgt": "yüz",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "eye",
+      "tgt": "göz",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "nose",
+      "tgt": "burun",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "mouth",
+      "tgt": "ağız",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "ear",
+      "tgt": "kulak",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hair",
+      "tgt": "saç",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "hand",
+      "tgt": "el",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "arm",
+      "tgt": "kol",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "leg",
+      "tgt": "bacak",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "foot",
+      "tgt": "ayak",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "body",
+      "tgt": "vücut",
+      "t": [
+        "love"
+      ],
+      "s": "love-people"
+    },
+    {
+      "en": "apple",
+      "tgt": "elma",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "bread",
+      "tgt": "ekmek",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "milk",
+      "tgt": "süt",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "water",
+      "tgt": "su",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "egg",
+      "tgt": "yumurta",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "rice",
+      "tgt": "pirinç",
+      "t": [
+        "food"
+      ],
+      "s": "bread-grains"
+    },
+    {
+      "en": "salt",
+      "tgt": "tuz",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "sugar",
+      "tgt": "şeker",
+      "t": [
+        "food"
+      ],
+      "s": "herbs-condiments"
+    },
+    {
+      "en": "meat",
+      "tgt": "et",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "chicken",
+      "tgt": "tavuk",
+      "t": [
+        "food"
+      ],
+      "s": "meat-fish"
+    },
+    {
+      "en": "fruit",
+      "tgt": "meyve",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "orange",
+      "tgt": "portakal",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "banana",
+      "tgt": "muz",
+      "t": [
+        "food"
+      ],
+      "s": "fruits"
+    },
+    {
+      "en": "tomato",
+      "tgt": "domates",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "potato",
+      "tgt": "patates",
+      "t": [
+        "food"
+      ],
+      "s": "vegetables"
+    },
+    {
+      "en": "cheese",
+      "tgt": "peynir",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "butter",
+      "tgt": "tereyağı",
+      "t": [
+        "food"
+      ],
+      "s": "dairy-eggs"
+    },
+    {
+      "en": "coffee",
+      "tgt": "kahve",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "tea",
+      "tgt": "çay",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-drinks"
+    },
+    {
+      "en": "wine",
+      "tgt": "şarap",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "beer",
+      "tgt": "bira",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "juice",
+      "tgt": "meyve suyu",
+      "t": [
+        "food"
+      ],
+      "s": "drinks"
+    },
+    {
+      "en": "to eat",
+      "tgt": "yemek",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "to drink",
+      "tgt": "içmek",
+      "t": [
+        "food"
+      ],
+      "s": "food-other"
+    },
+    {
+      "en": "breakfast",
+      "tgt": "kahvaltı",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "lunch",
+      "tgt": "öğle yemeği",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "dinner",
+      "tgt": "akşam yemeği",
+      "t": [
+        "food"
+      ],
+      "s": "meals"
+    },
+    {
+      "en": "shirt",
+      "tgt": "gömlek",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "shoes",
+      "tgt": "ayakkabı",
+      "t": [
+        "fashion"
+      ],
+      "s": "shoes"
+    },
+    {
+      "en": "dress",
+      "tgt": "elbise",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "jacket",
+      "tgt": "ceket",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "trousers",
+      "tgt": "pantolon",
+      "t": [
+        "fashion"
+      ],
+      "s": "clothing"
+    },
+    {
+      "en": "hat",
+      "tgt": "şapka",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "bag",
+      "tgt": "çanta",
+      "t": [
+        "fashion"
+      ],
+      "s": "accessories"
+    },
+    {
+      "en": "house",
+      "tgt": "ev",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "kitchen",
+      "tgt": "mutfak",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bedroom",
+      "tgt": "yatak odası",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "bathroom",
+      "tgt": "banyo",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "door",
+      "tgt": "kapı",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "window",
+      "tgt": "pencere",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "bed",
+      "tgt": "yatak",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "key",
+      "tgt": "anahtar",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "table",
+      "tgt": "masa",
+      "t": [
+        "coffee"
+      ],
+      "s": "coffee-places"
+    },
+    {
+      "en": "chair",
+      "tgt": "sandalye",
+      "t": [
+        "home"
+      ],
+      "s": "furniture"
+    },
+    {
+      "en": "room",
+      "tgt": "oda",
+      "t": [
+        "home"
+      ],
+      "s": "rooms"
+    },
+    {
+      "en": "city",
+      "tgt": "şehir",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "street",
+      "tgt": "sokak",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "country",
+      "tgt": "ülke",
+      "t": [
+        "travel"
+      ],
+      "s": "travel-places"
+    },
+    {
+      "en": "car",
+      "tgt": "araba",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "bus",
+      "tgt": "otobüs",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "train",
+      "tgt": "tren",
+      "t": [
+        "travel"
+      ],
+      "s": "transport"
+    },
+    {
+      "en": "to walk",
+      "tgt": "yürümek",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to go",
+      "tgt": "gitmek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to come",
+      "tgt": "gelmek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "near",
+      "tgt": "yakın",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "far",
+      "tgt": "uzak",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "right side",
+      "tgt": "sağ",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "left side",
+      "tgt": "sol",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "red",
+      "tgt": "kırmızı",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "blue",
+      "tgt": "mavi",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "green",
+      "tgt": "yeşil",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "yellow",
+      "tgt": "sarı",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "black",
+      "tgt": "siyah",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "white",
+      "tgt": "beyaz",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "good",
+      "tgt": "iyi",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "bad",
+      "tgt": "kötü",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "big",
+      "tgt": "büyük",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "small",
+      "tgt": "küçük",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "tall",
+      "tgt": "uzun",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "low",
+      "tgt": "alçak",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "young",
+      "tgt": "genç",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "old",
+      "tgt": "yaşlı",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "old age",
+      "tgt": "eski",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "new",
+      "tgt": "yeni",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "happy",
+      "tgt": "mutlu",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "sad",
+      "tgt": "üzgün",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "fast",
+      "tgt": "hızlı",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "easy",
+      "tgt": "kolay",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "difficult",
+      "tgt": "zor",
+      "t": [
+        "essentials"
+      ],
+      "s": "descriptors"
+    },
+    {
+      "en": "hot weather",
+      "tgt": "sıcak",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "cold weather",
+      "tgt": "soğuk",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "warm",
+      "tgt": "ılık",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "to be",
+      "tgt": "olmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to be (permanent)",
+      "tgt": "olmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to be (temp)",
+      "tgt": "olmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to have",
+      "tgt": "sahip olmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to do",
+      "tgt": "yapmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to see",
+      "tgt": "görmek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to look at",
+      "tgt": "bakmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to want",
+      "tgt": "istemek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (info)",
+      "tgt": "bilmek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to know (person)",
+      "tgt": "tanımak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to need",
+      "tgt": "ihtiyaç duymak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to give",
+      "tgt": "vermek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to take",
+      "tgt": "almak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to open",
+      "tgt": "açmak",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to close",
+      "tgt": "kapatmak",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to start",
+      "tgt": "başlamak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to finish",
+      "tgt": "bitirmek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to live",
+      "tgt": "yaşamak",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to speak",
+      "tgt": "konuşmak",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to say",
+      "tgt": "söylemek",
+      "t": [
+        "essentials"
+      ],
+      "s": "basic-verbs"
+    },
+    {
+      "en": "to read",
+      "tgt": "okumak",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to write",
+      "tgt": "yazmak",
+      "t": [
+        "books"
+      ],
+      "s": "book-actions"
+    },
+    {
+      "en": "to listen",
+      "tgt": "dinlemek",
+      "t": [
+        "music"
+      ],
+      "s": "music-actions"
+    },
+    {
+      "en": "to play",
+      "tgt": "oynamak",
+      "t": [
+        "sports"
+      ],
+      "s": "sports-actions"
+    },
+    {
+      "en": "to study",
+      "tgt": "ders çalışmak",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to learn",
+      "tgt": "öğrenmek",
+      "t": [
+        "school"
+      ],
+      "s": "school-actions"
+    },
+    {
+      "en": "to sleep",
+      "tgt": "uyumak",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "to wake up",
+      "tgt": "uyanmak",
+      "t": [
+        "home"
+      ],
+      "s": "chores"
+    },
+    {
+      "en": "what",
+      "tgt": "ne",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "who",
+      "tgt": "kim",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "where",
+      "tgt": "nerede",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "when",
+      "tgt": "ne zaman",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "why",
+      "tgt": "neden",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how",
+      "tgt": "nasıl",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "which",
+      "tgt": "hangi",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "how much",
+      "tgt": "ne kadar",
+      "t": [
+        "essentials"
+      ],
+      "s": "questions"
+    },
+    {
+      "en": "with",
+      "tgt": "ile",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "without",
+      "tgt": "olmadan",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "for",
+      "tgt": "için",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "from",
+      "tgt": "-den / -dan",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "in front of",
+      "tgt": "önünde",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "behind",
+      "tgt": "arkasında",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "inside",
+      "tgt": "içeride",
+      "t": [
+        "home"
+      ],
+      "s": "household"
+    },
+    {
+      "en": "outside",
+      "tgt": "dışarıda",
+      "t": [
+        "nature"
+      ],
+      "s": "geography"
+    },
+    {
+      "en": "here",
+      "tgt": "burada",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "there",
+      "tgt": "orada",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "next to",
+      "tgt": "yanında",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "under",
+      "tgt": "altında",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "above",
+      "tgt": "üstünde",
+      "t": [
+        "essentials"
+      ],
+      "s": "directions"
+    },
+    {
+      "en": "school",
+      "tgt": "okul",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "teacher",
+      "tgt": "öğretmen",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "student",
+      "tgt": "öğrenci",
+      "t": [
+        "school"
+      ],
+      "s": "school-roles"
+    },
+    {
+      "en": "book",
+      "tgt": "kitap",
+      "t": [
+        "books"
+      ],
+      "s": "book-genres"
+    },
+    {
+      "en": "class",
+      "tgt": "sınıf",
+      "t": [
+        "school"
+      ],
+      "s": "school-places"
+    },
+    {
+      "en": "language",
+      "tgt": "dil",
+      "t": [
+        "school"
+      ],
+      "s": "subjects"
+    },
+    {
+      "en": "word",
+      "tgt": "kelime",
+      "t": [
+        "books"
+      ],
+      "s": "book-parts"
+    },
+    {
+      "en": "money",
+      "tgt": "para",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "price",
+      "tgt": "fiyat",
+      "t": [
+        "work"
+      ],
+      "s": "money"
+    },
+    {
+      "en": "sun",
+      "tgt": "güneş",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "moon",
+      "tgt": "ay",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "tree",
+      "tgt": "ağaç",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "flower",
+      "tgt": "çiçek",
+      "t": [
+        "nature"
+      ],
+      "s": "plants"
+    },
+    {
+      "en": "sea",
+      "tgt": "deniz",
+      "t": [
+        "nature"
+      ],
+      "s": "water-bodies"
+    },
+    {
+      "en": "sky",
+      "tgt": "gökyüzü",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "rain",
+      "tgt": "yağmur",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "snow",
+      "tgt": "kar",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "dog",
+      "tgt": "köpek",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "cat",
+      "tgt": "kedi",
+      "t": [
+        "nature"
+      ],
+      "s": "animals"
+    },
+    {
+      "en": "fire",
+      "tgt": "ateş",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "summer",
+      "tgt": "yaz",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "winter",
+      "tgt": "kış",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "spring",
+      "tgt": "ilkbahar",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "autumn",
+      "tgt": "sonbahar",
+      "t": [
+        "nature"
+      ],
+      "s": "weather"
+    },
+    {
+      "en": "love",
+      "tgt": "aşk",
+      "t": [
+        "love"
+      ],
+      "s": "feelings"
+    },
+    {
+      "en": "kiss",
+      "tgt": "öpücük",
+      "t": [
+        "love"
+      ],
+      "s": "love-actions"
+    },
+    {
+      "en": "phone",
+      "tgt": "telefon",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "computer",
+      "tgt": "bilgisayar",
+      "t": [
+        "tech"
+      ],
+      "s": "devices"
+    },
+    {
+      "en": "more",
+      "tgt": "daha",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "less",
+      "tgt": "daha az",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "very",
+      "tgt": "çok",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "a little",
+      "tgt": "biraz",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "too much",
+      "tgt": "çok fazla",
+      "t": [
+        "essentials"
+      ],
+      "s": "quantities"
+    },
+    {
+      "en": "all",
+      "tgt": "hepsi",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "nothing",
+      "tgt": "hiçbir şey",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "something",
+      "tgt": "bir şey",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "this",
+      "tgt": "bu",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "that",
+      "tgt": "şu",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "well",
+      "tgt": "iyi",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    },
+    {
+      "en": "poorly",
+      "tgt": "kötü",
+      "t": [
+        "essentials"
+      ],
+      "s": "logic"
+    }
+  ],
+  "a1Keys": [
+    "thanks",
+    "yes",
+    "no",
+    "please",
+    "hello",
+    "goodbye",
+    "good morning",
+    "good afternoon",
+    "good evening",
+    "good night",
+    "see you later",
+    "see you tomorrow",
+    "excuse me",
+    "sorry",
+    "you're welcome",
+    "of course",
+    "maybe",
+    "I don't know",
+    "I understand",
+    "I don't understand",
+    "what's your name",
+    "my name is",
+    "nice to meet you",
+    "how are you",
+    "I'm fine",
+    "where is",
+    "how much costs",
+    "I would like",
+    "I want",
+    "I have",
+    "I am",
+    "I am (perm)",
+    "there is",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve",
+    "twenty",
+    "thirty",
+    "fifty",
+    "hundred",
+    "thousand",
+    "first",
+    "second",
+    "last",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "day",
+    "night",
+    "morning",
+    "evening",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "week",
+    "month",
+    "year",
+    "hour",
+    "minute",
+    "second of time",
+    "now",
+    "later",
+    "before",
+    "after",
+    "early",
+    "late",
+    "always",
+    "never",
+    "sometimes",
+    "often",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "son",
+    "daughter",
+    "family",
+    "friend",
+    "boyfriend",
+    "girlfriend",
+    "husband",
+    "wife",
+    "baby",
+    "child",
+    "person",
+    "people",
+    "I",
+    "you",
+    "he",
+    "she",
+    "we",
+    "they",
+    "head",
+    "face",
+    "eye",
+    "nose",
+    "mouth",
+    "ear",
+    "hair",
+    "hand",
+    "arm",
+    "leg",
+    "foot",
+    "body",
+    "apple",
+    "bread",
+    "milk",
+    "water",
+    "egg",
+    "rice",
+    "salt",
+    "sugar",
+    "meat",
+    "chicken",
+    "fruit",
+    "orange",
+    "banana",
+    "tomato",
+    "potato",
+    "cheese",
+    "butter",
+    "coffee",
+    "tea",
+    "wine",
+    "beer",
+    "juice",
+    "to eat",
+    "to drink",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "shirt",
+    "shoes",
+    "dress",
+    "jacket",
+    "trousers",
+    "hat",
+    "bag",
+    "house",
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "door",
+    "window",
+    "bed",
+    "key",
+    "table",
+    "chair",
+    "room",
+    "city",
+    "street",
+    "country",
+    "car",
+    "bus",
+    "train",
+    "to walk",
+    "to go",
+    "to come",
+    "near",
+    "far",
+    "right side",
+    "left side",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "black",
+    "white",
+    "good",
+    "bad",
+    "big",
+    "small",
+    "tall",
+    "low",
+    "young",
+    "old",
+    "old age",
+    "new",
+    "happy",
+    "sad",
+    "fast",
+    "easy",
+    "difficult",
+    "hot weather",
+    "cold weather",
+    "warm",
+    "to be",
+    "to be (permanent)",
+    "to be (temp)",
+    "to have",
+    "to do",
+    "to see",
+    "to look at",
+    "to want",
+    "to know (info)",
+    "to know (person)",
+    "to need",
+    "to give",
+    "to take",
+    "to open",
+    "to close",
+    "to start",
+    "to finish",
+    "to live",
+    "to speak",
+    "to say",
+    "to read",
+    "to write",
+    "to listen",
+    "to play",
+    "to study",
+    "to learn",
+    "to sleep",
+    "to wake up",
+    "what",
+    "who",
+    "where",
+    "when",
+    "why",
+    "how",
+    "which",
+    "how much",
+    "with",
+    "without",
+    "for",
+    "from",
+    "in front of",
+    "behind",
+    "inside",
+    "outside",
+    "here",
+    "there",
+    "next to",
+    "under",
+    "above",
+    "school",
+    "teacher",
+    "student",
+    "book",
+    "class",
+    "language",
+    "word",
+    "money",
+    "price",
+    "sun",
+    "moon",
+    "tree",
+    "flower",
+    "sea",
+    "sky",
+    "rain",
+    "snow",
+    "dog",
+    "cat",
+    "fire",
+    "summer",
+    "winter",
+    "spring",
+    "autumn",
+    "love",
+    "kiss",
+    "phone",
+    "computer",
+    "more",
+    "less",
+    "very",
+    "a little",
+    "too much",
+    "all",
+    "nothing",
+    "something",
+    "this",
+    "that",
+    "well",
+    "poorly"
+  ]
+}

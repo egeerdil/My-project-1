@@ -1,0 +1,2278 @@
+{
+  "language": "it",
+  "sentences": [
+    {
+      "tpl": "Io ___ studente",
+      "correct": "sono",
+      "distractors": [
+        "sto",
+        "ho"
+      ],
+      "hint": "I am a student",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Ho ___ anni",
+      "correct": "venti",
+      "distractors": [
+        "blu",
+        "felice"
+      ],
+      "hint": "I am 20 years old",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Oggi è ___",
+      "correct": "lunedì",
+      "distractors": [
+        "acqua",
+        "rosso"
+      ],
+      "hint": "Today is Monday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Un bicchiere d'___",
+      "correct": "acqua",
+      "distractors": [
+        "tavolo",
+        "casa"
+      ],
+      "hint": "A glass of water",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Il pane è sul ___",
+      "correct": "tavolo",
+      "distractors": [
+        "porta",
+        "strada"
+      ],
+      "hint": "The bread is on the table",
+      "level": "A1",
+      "topics": [
+        "food",
+        "home"
+      ]
+    },
+    {
+      "tpl": "Mia ___ è alta",
+      "correct": "madre",
+      "distractors": [
+        "macchina",
+        "libro"
+      ],
+      "hint": "My mother is tall",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Ho due ___",
+      "correct": "fratelli",
+      "distractors": [
+        "macchine",
+        "libri"
+      ],
+      "hint": "I have two brothers",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Vivo in una ___",
+      "correct": "città",
+      "distractors": [
+        "tavola",
+        "bocca"
+      ],
+      "hint": "I live in a city",
+      "level": "A1",
+      "topics": [
+        "travel",
+        "home"
+      ]
+    },
+    {
+      "tpl": "Il ___ è grande",
+      "correct": "parco",
+      "distractors": [
+        "matita",
+        "vetro"
+      ],
+      "hint": "The park is big",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La ___ è chiusa",
+      "correct": "porta",
+      "distractors": [
+        "mano",
+        "bocca"
+      ],
+      "hint": "The door is closed",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Vado al ___",
+      "correct": "lavoro",
+      "distractors": [
+        "acqua",
+        "pane"
+      ],
+      "hint": "I'm going to work",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Sono a ___",
+      "correct": "casa",
+      "distractors": [
+        "mano",
+        "latte"
+      ],
+      "hint": "I'm at home",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Il gatto è ___",
+      "correct": "piccolo",
+      "distractors": [
+        "blu",
+        "lento"
+      ],
+      "hint": "The cat is small",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il cielo è ___",
+      "correct": "blu",
+      "distractors": [
+        "alto",
+        "freddo"
+      ],
+      "hint": "Color of the sky",
+      "level": "A1",
+      "topics": [
+        "nature",
+        "art"
+      ]
+    },
+    {
+      "tpl": "Sono molto ___",
+      "correct": "felice",
+      "distractors": [
+        "caffè",
+        "rosso"
+      ],
+      "hint": "I am very happy",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Fa molto ___",
+      "correct": "freddo",
+      "distractors": [
+        "pane",
+        "blu"
+      ],
+      "hint": "It is very cold",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Mi fa male la ___",
+      "correct": "testa",
+      "distractors": [
+        "tavola",
+        "porta"
+      ],
+      "hint": "My head hurts",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Ho ___",
+      "correct": "fame",
+      "distractors": [
+        "macchina",
+        "libro"
+      ],
+      "hint": "I am hungry",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Ho ___",
+      "correct": "sonno",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I am sleepy",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Indosso una ___",
+      "correct": "camicia",
+      "distractors": [
+        "nuvola",
+        "luna"
+      ],
+      "hint": "I am wearing a shirt",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Le mie ___ sono nere",
+      "correct": "scarpe",
+      "distractors": [
+        "pani",
+        "soli"
+      ],
+      "hint": "My shoes are black",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Ho bisogno del mio ___",
+      "correct": "telefono",
+      "distractors": [
+        "cammino",
+        "vetro"
+      ],
+      "hint": "I need my phone",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Viaggio in ___",
+      "correct": "treno",
+      "distractors": [
+        "zuppa",
+        "luna"
+      ],
+      "hint": "I travel by train",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "La ___ è rossa",
+      "correct": "macchina",
+      "distractors": [
+        "caffè",
+        "carta"
+      ],
+      "hint": "The car is red",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Domani è ___",
+      "correct": "venerdì",
+      "distractors": [
+        "acqua",
+        "fuoco"
+      ],
+      "hint": "Tomorrow is Friday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "È ___",
+      "correct": "mattina",
+      "distractors": [
+        "tavola",
+        "bocca"
+      ],
+      "hint": "It is morning",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Ho molti ___",
+      "correct": "amici",
+      "distractors": [
+        "mari",
+        "giorni"
+      ],
+      "hint": "I have many friends",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Il ___ è caldo",
+      "correct": "caffè",
+      "distractors": [
+        "libro",
+        "cane"
+      ],
+      "hint": "The coffee is hot",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "___ ti chiami?",
+      "correct": "Come",
+      "distractors": [
+        "Dove",
+        "Quando"
+      ],
+      "hint": "What is your name?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "___ è questo?",
+      "correct": "Cosa",
+      "distractors": [
+        "Come",
+        "Chi"
+      ],
+      "hint": "What is this?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "___ vivi?",
+      "correct": "Dove",
+      "distractors": [
+        "Quando",
+        "Perché"
+      ],
+      "hint": "Where do you live?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Di ___ sei?",
+      "correct": "dove",
+      "distractors": [
+        "cosa",
+        "chi"
+      ],
+      "hint": "Where are you from?",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Voglio ___ il caffè",
+      "correct": "bere",
+      "distractors": [
+        "mangiare",
+        "dormire"
+      ],
+      "hint": "I want to drink coffee",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Mi piace ___ la pizza",
+      "correct": "mangiare",
+      "distractors": [
+        "bere",
+        "vedere"
+      ],
+      "hint": "I like eating pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Vado a ___ adesso",
+      "correct": "dormire",
+      "distractors": [
+        "correre",
+        "mangiare"
+      ],
+      "hint": "I'm going to sleep now",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Devo ___ un libro",
+      "correct": "leggere",
+      "distractors": [
+        "bere",
+        "correre"
+      ],
+      "hint": "I have to read a book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Mi piace ___ la musica",
+      "correct": "ascoltare",
+      "distractors": [
+        "bere",
+        "mangiare"
+      ],
+      "hint": "I like to listen to music",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Vado a ___ il film",
+      "correct": "vedere",
+      "distractors": [
+        "bere",
+        "leggere"
+      ],
+      "hint": "I'm going to watch the movie",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Io ___ italiano",
+      "correct": "parlo",
+      "distractors": [
+        "parli",
+        "parla"
+      ],
+      "hint": "I speak Italian",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tu ___ inglese",
+      "correct": "parli",
+      "distractors": [
+        "parlo",
+        "parlano"
+      ],
+      "hint": "You speak English",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Lei ___ francese",
+      "correct": "parla",
+      "distractors": [
+        "parlo",
+        "parliamo"
+      ],
+      "hint": "She speaks French",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Noi ___ spagnolo",
+      "correct": "parliamo",
+      "distractors": [
+        "parlo",
+        "parla"
+      ],
+      "hint": "We speak Spanish",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Io ___ il caffè",
+      "correct": "bevo",
+      "distractors": [
+        "bevi",
+        "beve"
+      ],
+      "hint": "I drink coffee",
+      "level": "A1",
+      "topics": [
+        "food",
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Tu ___ l'acqua",
+      "correct": "bevi",
+      "distractors": [
+        "bevo",
+        "bevono"
+      ],
+      "hint": "You drink water",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Lui ___ il tè",
+      "correct": "beve",
+      "distractors": [
+        "bevo",
+        "beviamo"
+      ],
+      "hint": "He drinks tea",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Noi ___ il vino",
+      "correct": "beviamo",
+      "distractors": [
+        "bevo",
+        "beve"
+      ],
+      "hint": "We drink wine",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Io ___ il pane",
+      "correct": "mangio",
+      "distractors": [
+        "mangi",
+        "mangia"
+      ],
+      "hint": "I eat bread",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Tu ___ la pizza",
+      "correct": "mangi",
+      "distractors": [
+        "mangio",
+        "mangiano"
+      ],
+      "hint": "You eat pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Lei ___ la frutta",
+      "correct": "mangia",
+      "distractors": [
+        "mangio",
+        "mangiamo"
+      ],
+      "hint": "She eats fruit",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Io ___ a casa",
+      "correct": "vado",
+      "distractors": [
+        "vai",
+        "va"
+      ],
+      "hint": "I go home",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Tu ___ a scuola",
+      "correct": "vai",
+      "distractors": [
+        "vado",
+        "vanno"
+      ],
+      "hint": "You go to school",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Lui ___ al lavoro",
+      "correct": "va",
+      "distractors": [
+        "vado",
+        "andiamo"
+      ],
+      "hint": "He goes to work",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Noi ___ al parco",
+      "correct": "andiamo",
+      "distractors": [
+        "vado",
+        "va"
+      ],
+      "hint": "We go to the park",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Io ___ una casa",
+      "correct": "ho",
+      "distractors": [
+        "hai",
+        "ha"
+      ],
+      "hint": "I possess a place to live",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Tu ___ un cane",
+      "correct": "hai",
+      "distractors": [
+        "ho",
+        "hanno"
+      ],
+      "hint": "You have a dog",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Lei ___ un libro",
+      "correct": "ha",
+      "distractors": [
+        "ho",
+        "abbiamo"
+      ],
+      "hint": "She owns one book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Fa ___ oggi",
+      "correct": "caldo",
+      "distractors": [
+        "pane",
+        "rosso"
+      ],
+      "hint": "It's hot today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Sta ___ fuori",
+      "correct": "piovendo",
+      "distractors": [
+        "mangiando",
+        "leggendo"
+      ],
+      "hint": "It's raining outside",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il ___ è splendente",
+      "correct": "sole",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The sun is bright",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La ___ è bianca",
+      "correct": "neve",
+      "distractors": [
+        "porta",
+        "tavola"
+      ],
+      "hint": "The snow is white",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il ___ è forte",
+      "correct": "vento",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The wind is strong",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Vedo una ___ in cielo",
+      "correct": "nuvola",
+      "distractors": [
+        "porta",
+        "tavola"
+      ],
+      "hint": "I see a cloud in the sky",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "L'albero è molto ___",
+      "correct": "alto",
+      "distractors": [
+        "caldo",
+        "rosso"
+      ],
+      "hint": "The tree is very tall",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il ___ è rosso",
+      "correct": "fiore",
+      "distractors": [
+        "porta",
+        "tavola"
+      ],
+      "hint": "The flower is red",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il fiume è ___",
+      "correct": "lungo",
+      "distractors": [
+        "dolce",
+        "rosso"
+      ],
+      "hint": "The river is long",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Ho due ___",
+      "correct": "mani",
+      "distractors": [
+        "pani",
+        "libri"
+      ],
+      "hint": "I have two hands",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "I miei ___ sono verdi",
+      "correct": "occhi",
+      "distractors": [
+        "pani",
+        "libri"
+      ],
+      "hint": "My eyes are green",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Ho i ___ lunghi",
+      "correct": "capelli",
+      "distractors": [
+        "pani",
+        "libri"
+      ],
+      "hint": "I have long hair",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mi lavo il ___",
+      "correct": "viso",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I wash my face",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "I miei ___ sono stanchi",
+      "correct": "piedi",
+      "distractors": [
+        "pani",
+        "libri"
+      ],
+      "hint": "My feet are tired",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Il ___ è rotto",
+      "correct": "braccio",
+      "distractors": [
+        "pane",
+        "caffè"
+      ],
+      "hint": "The arm is broken",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Indosso dei ___",
+      "correct": "pantaloni",
+      "distractors": [
+        "libri",
+        "pani"
+      ],
+      "hint": "I wear pants",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Mi piace questo ___",
+      "correct": "vestito",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I like this dress",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Ho bisogno di un ___ nuovo",
+      "correct": "cappotto",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I need a new coat",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Il mio ___ è verde",
+      "correct": "cappello",
+      "distractors": [
+        "pane",
+        "caffè"
+      ],
+      "hint": "My hat is green",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Il ___ è fedele",
+      "correct": "cane",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The dog is loyal",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il mio ___ è nero",
+      "correct": "gatto",
+      "distractors": [
+        "caffè",
+        "libro"
+      ],
+      "hint": "My cat is black",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "L'___ vola alto",
+      "correct": "uccello",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The bird flies high",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il ___ vive nell'acqua",
+      "correct": "pesce",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The fish lives in water",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il ___ è grande",
+      "correct": "cavallo",
+      "distractors": [
+        "pane",
+        "caffè"
+      ],
+      "hint": "The horse is big",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "È ___",
+      "correct": "notte",
+      "distractors": [
+        "tavola",
+        "porta"
+      ],
+      "hint": "It is night",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Oggi è ___",
+      "correct": "martedì",
+      "distractors": [
+        "acqua",
+        "caffè"
+      ],
+      "hint": "Today is Tuesday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Domani è ___",
+      "correct": "mercoledì",
+      "distractors": [
+        "pane",
+        "rosso"
+      ],
+      "hint": "Tomorrow is Wednesday",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "È ___",
+      "correct": "tardi",
+      "distractors": [
+        "pane",
+        "rosso"
+      ],
+      "hint": "It's late",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "L'anno ha dodici ___",
+      "correct": "mesi",
+      "distractors": [
+        "pani",
+        "libri"
+      ],
+      "hint": "The year has twelve months",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Io ___ un caffè",
+      "correct": "voglio",
+      "distractors": [
+        "vuoi",
+        "vuole"
+      ],
+      "hint": "I want a coffee",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Tu ___ una pizza",
+      "correct": "vuoi",
+      "distractors": [
+        "voglio",
+        "vogliono"
+      ],
+      "hint": "You want a pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Lei ___ andare a casa",
+      "correct": "vuole",
+      "distractors": [
+        "voglio",
+        "vogliamo"
+      ],
+      "hint": "She wants to go home",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Noi ___ imparare",
+      "correct": "vogliamo",
+      "distractors": [
+        "voglio",
+        "vuole"
+      ],
+      "hint": "We want to learn",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Io ___ parlare inglese",
+      "correct": "posso",
+      "distractors": [
+        "puoi",
+        "può"
+      ],
+      "hint": "I can speak English",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tu ___ correre veloce",
+      "correct": "puoi",
+      "distractors": [
+        "posso",
+        "possono"
+      ],
+      "hint": "You can run fast",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Lui ___ leggere bene",
+      "correct": "può",
+      "distractors": [
+        "posso",
+        "possiamo"
+      ],
+      "hint": "He can read well",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Noi ___ aiutarti",
+      "correct": "possiamo",
+      "distractors": [
+        "posso",
+        "può"
+      ],
+      "hint": "We can help you",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Io ___ la risposta",
+      "correct": "so",
+      "distractors": [
+        "sai",
+        "sa"
+      ],
+      "hint": "I know the answer",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tu ___ il mio nome",
+      "correct": "sai",
+      "distractors": [
+        "so",
+        "sanno"
+      ],
+      "hint": "You know my name",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Lei ___ cucinare",
+      "correct": "sa",
+      "distractors": [
+        "so",
+        "sappiamo"
+      ],
+      "hint": "She knows how to cook",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Io ___ il film",
+      "correct": "vedo",
+      "distractors": [
+        "vedi",
+        "vede"
+      ],
+      "hint": "I watch the movie",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Tu ___ la luna",
+      "correct": "vedi",
+      "distractors": [
+        "vedo",
+        "vedono"
+      ],
+      "hint": "You see the moon",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Lui ___ il suo amico",
+      "correct": "vede",
+      "distractors": [
+        "vedo",
+        "vediamo"
+      ],
+      "hint": "He sees his friend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Io ___ i compiti",
+      "correct": "faccio",
+      "distractors": [
+        "fai",
+        "fa"
+      ],
+      "hint": "I do my homework",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tu ___ il caffè",
+      "correct": "fai",
+      "distractors": [
+        "faccio",
+        "fanno"
+      ],
+      "hint": "You make coffee",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Lei ___ sport",
+      "correct": "fa",
+      "distractors": [
+        "faccio",
+        "facciamo"
+      ],
+      "hint": "She does sport",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Io ___ a Roma",
+      "correct": "vivo",
+      "distractors": [
+        "vivi",
+        "vive"
+      ],
+      "hint": "I live in Rome",
+      "level": "A1",
+      "topics": [
+        "travel",
+        "home"
+      ]
+    },
+    {
+      "tpl": "Tu ___ con la famiglia",
+      "correct": "vivi",
+      "distractors": [
+        "vivo",
+        "vivono"
+      ],
+      "hint": "You live with your family",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Lei ___ da sola",
+      "correct": "vive",
+      "distractors": [
+        "vivo",
+        "viviamo"
+      ],
+      "hint": "She lives alone",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Io ___ in ufficio",
+      "correct": "lavoro",
+      "distractors": [
+        "lavori",
+        "lavora"
+      ],
+      "hint": "I work in an office",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Tu ___ molto",
+      "correct": "lavori",
+      "distractors": [
+        "lavoro",
+        "lavorano"
+      ],
+      "hint": "You work a lot",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Lui ___ di notte",
+      "correct": "lavora",
+      "distractors": [
+        "lavoro",
+        "lavoriamo"
+      ],
+      "hint": "He works at night",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Io ___ matematica",
+      "correct": "studio",
+      "distractors": [
+        "studi",
+        "studia"
+      ],
+      "hint": "I study math",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Tu ___ le lingue",
+      "correct": "studi",
+      "distractors": [
+        "studio",
+        "studiano"
+      ],
+      "hint": "You study languages",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Non ___ il libro",
+      "correct": "ho",
+      "distractors": [
+        "sono",
+        "vado"
+      ],
+      "hint": "I don't have the book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Lei non ___ caffè",
+      "correct": "beve",
+      "distractors": [
+        "bevo",
+        "bevi"
+      ],
+      "hint": "She doesn't drink coffee",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Non mi ___ la pizza",
+      "correct": "piace",
+      "distractors": [
+        "piaci",
+        "piacciono"
+      ],
+      "hint": "I don't like pizza",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Io non ___ inglese",
+      "correct": "parlo",
+      "distractors": [
+        "parli",
+        "parla"
+      ],
+      "hint": "I don't speak English",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Il gatto è ___ tavolo",
+      "correct": "sul",
+      "distractors": [
+        "con",
+        "per"
+      ],
+      "hint": "The cat is on the table",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Vado ___ Roma",
+      "correct": "a",
+      "distractors": [
+        "in",
+        "di"
+      ],
+      "hint": "I'm going to Rome",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Il regalo è ___ te",
+      "correct": "per",
+      "distractors": [
+        "con",
+        "di"
+      ],
+      "hint": "The gift is for you",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Vado ___ mia madre",
+      "correct": "con",
+      "distractors": [
+        "in",
+        "per"
+      ],
+      "hint": "I'm going with my mother",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Vengo ___ Italia",
+      "correct": "dall'",
+      "distractors": [
+        "a",
+        "con"
+      ],
+      "hint": "I come from Italy",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Ho ___ euro",
+      "correct": "cinque",
+      "distractors": [
+        "blu",
+        "felice"
+      ],
+      "hint": "I have five euros",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Compro ___ mele",
+      "correct": "tre",
+      "distractors": [
+        "alto",
+        "rosso"
+      ],
+      "hint": "I buy three apples",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Ci sono ___ persone",
+      "correct": "molte",
+      "distractors": [
+        "alte",
+        "rosse"
+      ],
+      "hint": "There are many people",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "La zuppa è ___",
+      "correct": "deliziosa",
+      "distractors": [
+        "blu",
+        "alta"
+      ],
+      "hint": "The soup is delicious",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Mi piace il ___",
+      "correct": "formaggio",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I like cheese",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Compro la ___ al mercato",
+      "correct": "frutta",
+      "distractors": [
+        "tavola",
+        "casa"
+      ],
+      "hint": "I buy fruit at the market",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Il ___ è dolce",
+      "correct": "dolce",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The dessert is sweet",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Mi ___ alle sette",
+      "correct": "alzo",
+      "distractors": [
+        "alzi",
+        "alza"
+      ],
+      "hint": "I get up at seven",
+      "level": "A2",
+      "topics": []
+    },
+    {
+      "tpl": "Faccio ___",
+      "correct": "colazione",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I have breakfast",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Vado al lavoro in ___",
+      "correct": "autobus",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I go to work by bus",
+      "level": "A1",
+      "topics": [
+        "travel",
+        "work"
+      ]
+    },
+    {
+      "tpl": "Io ___ una camicia nuova",
+      "correct": "compro",
+      "distractors": [
+        "compri",
+        "compra"
+      ],
+      "hint": "I buy a new shirt",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Tu ___ fiori",
+      "correct": "compri",
+      "distractors": [
+        "compro",
+        "comprano"
+      ],
+      "hint": "You buy flowers",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Io ___ la mia famiglia",
+      "correct": "amo",
+      "distractors": [
+        "ami",
+        "ama"
+      ],
+      "hint": "I love my family",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tu ___ il tuo ragazzo",
+      "correct": "ami",
+      "distractors": [
+        "amo",
+        "amano"
+      ],
+      "hint": "You love your boyfriend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Lui ___ i gatti",
+      "correct": "ama",
+      "distractors": [
+        "amo",
+        "amiamo"
+      ],
+      "hint": "He loves cats",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Io ___ la verità",
+      "correct": "dico",
+      "distractors": [
+        "dici",
+        "dice"
+      ],
+      "hint": "I tell the truth",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Tu ___ molto",
+      "correct": "dici",
+      "distractors": [
+        "dico",
+        "dicono"
+      ],
+      "hint": "You talk a lot",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Io ___ lettere",
+      "correct": "scrivo",
+      "distractors": [
+        "scrivi",
+        "scrive"
+      ],
+      "hint": "I write letters",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Tu ___ veloce",
+      "correct": "scrivi",
+      "distractors": [
+        "scrivo",
+        "scrivono"
+      ],
+      "hint": "You write fast",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Lei ___ un romanzo",
+      "correct": "scrive",
+      "distractors": [
+        "scrivo",
+        "scriviamo"
+      ],
+      "hint": "She writes a novel",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Io ___ una canzone",
+      "correct": "canto",
+      "distractors": [
+        "canti",
+        "canta"
+      ],
+      "hint": "I sing a song",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Tu ___ il pianoforte",
+      "correct": "suoni",
+      "distractors": [
+        "suono",
+        "suonano"
+      ],
+      "hint": "You play the piano",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "___ anni hai?",
+      "correct": "Quanti",
+      "distractors": [
+        "Come",
+        "Perché"
+      ],
+      "hint": "How old are you?",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "___ costa?",
+      "correct": "Quanto",
+      "distractors": [
+        "Come",
+        "Chi"
+      ],
+      "hint": "How much does it cost?",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "___ è tuo padre?",
+      "correct": "Chi",
+      "distractors": [
+        "Cosa",
+        "Dove"
+      ],
+      "hint": "Who is your father?",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "___ vieni?",
+      "correct": "Quando",
+      "distractors": [
+        "Cosa",
+        "Chi"
+      ],
+      "hint": "When are you coming?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "___ non mangi?",
+      "correct": "Perché",
+      "distractors": [
+        "Come",
+        "Quando"
+      ],
+      "hint": "Why don't you eat?",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Ieri ___ andato al cinema",
+      "correct": "sono",
+      "distractors": [
+        "sei",
+        "è"
+      ],
+      "hint": "Yesterday I went to the cinema",
+      "level": "A2",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Ho ___ una pizza",
+      "correct": "mangiato",
+      "distractors": [
+        "mangiare",
+        "mangio"
+      ],
+      "hint": "I ate a pizza",
+      "level": "A2",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Lei ha ___ un libro",
+      "correct": "letto",
+      "distractors": [
+        "leggere",
+        "legge"
+      ],
+      "hint": "She read a book",
+      "level": "A2",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Ho ___ un caffè",
+      "correct": "bevuto",
+      "distractors": [
+        "bere",
+        "bevo"
+      ],
+      "hint": "I drank a coffee",
+      "level": "A2",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Domani ___ a studiare",
+      "correct": "vado",
+      "distractors": [
+        "vai",
+        "va"
+      ],
+      "hint": "Tomorrow I'm going to study",
+      "level": "A2",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Lei ___ a comprare il pane",
+      "correct": "va",
+      "distractors": [
+        "vado",
+        "vai"
+      ],
+      "hint": "She's going to buy bread",
+      "level": "A2",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Sono ___",
+      "correct": "triste",
+      "distractors": [
+        "alto",
+        "blu"
+      ],
+      "hint": "I am sad",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Tu sei ___",
+      "correct": "malato",
+      "distractors": [
+        "alto",
+        "rosso"
+      ],
+      "hint": "You are sick",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Lei è ___",
+      "correct": "occupata",
+      "distractors": [
+        "alta",
+        "rossa"
+      ],
+      "hint": "She is busy",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Sono un po' ___",
+      "correct": "nervoso",
+      "distractors": [
+        "blu",
+        "alto"
+      ],
+      "hint": "I'm a bit nervous",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Cammino ___",
+      "correct": "veloce",
+      "distractors": [
+        "blu",
+        "felice"
+      ],
+      "hint": "I walk fast",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Parlo ___",
+      "correct": "lentamente",
+      "distractors": [
+        "blu",
+        "rosso"
+      ],
+      "hint": "I speak slowly",
+      "level": "A1",
+      "topics": []
+    },
+    {
+      "tpl": "Mangio ___",
+      "correct": "bene",
+      "distractors": [
+        "blu",
+        "alto"
+      ],
+      "hint": "I eat well",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Lavora ___",
+      "correct": "molto",
+      "distractors": [
+        "blu",
+        "rosso"
+      ],
+      "hint": "He works a lot",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Vado al ___",
+      "correct": "supermercato",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I'm going to the supermarket",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "L'___ è vicino",
+      "correct": "ospedale",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "The hospital is close",
+      "level": "A1",
+      "topics": [
+        "work",
+        "travel"
+      ]
+    },
+    {
+      "tpl": "La ___ è lontana",
+      "correct": "scuola",
+      "distractors": [
+        "tavola",
+        "porta"
+      ],
+      "hint": "The school is far",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Andiamo alla ___",
+      "correct": "spiaggia",
+      "distractors": [
+        "tavola",
+        "porta"
+      ],
+      "hint": "We're going to the beach",
+      "level": "A1",
+      "topics": [
+        "nature",
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Sono all'___",
+      "correct": "aeroporto",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I'm at the airport",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Vado al ___",
+      "correct": "ristorante",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "I'm going to the restaurant",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Mia ___ ha 70 anni",
+      "correct": "nonna",
+      "distractors": [
+        "tavola",
+        "porta"
+      ],
+      "hint": "My grandmother is 70",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mio ___ è alto",
+      "correct": "padre",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "My father is tall",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Ho una ___ piccola",
+      "correct": "sorella",
+      "distractors": [
+        "tavola",
+        "casa"
+      ],
+      "hint": "I have a small sister",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Mio ___ vive in Spagna",
+      "correct": "zio",
+      "distractors": [
+        "pane",
+        "libro"
+      ],
+      "hint": "My uncle lives in Spain",
+      "level": "A1",
+      "topics": [
+        "love",
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Il sangue è ___",
+      "correct": "rosso",
+      "distractors": [
+        "alto",
+        "felice"
+      ],
+      "hint": "Blood is red",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "L'erba è ___",
+      "correct": "verde",
+      "distractors": [
+        "alta",
+        "rossa"
+      ],
+      "hint": "The grass is green",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Il sole è ___",
+      "correct": "giallo",
+      "distractors": [
+        "blu",
+        "rosso"
+      ],
+      "hint": "The sun is yellow",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "La neve è ___",
+      "correct": "bianca",
+      "distractors": [
+        "alta",
+        "felice"
+      ],
+      "hint": "The snow is white",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Devo ___",
+      "correct": "andare",
+      "distractors": [
+        "vado",
+        "sono"
+      ],
+      "hint": "I have to go",
+      "level": "A2",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Ho appena ___",
+      "correct": "mangiato",
+      "distractors": [
+        "mangiare",
+        "mangio"
+      ],
+      "hint": "I just ate",
+      "level": "A2",
+      "topics": [
+        "food"
+      ]
+    }
+  ]
+}

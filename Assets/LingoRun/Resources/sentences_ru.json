@@ -1,0 +1,655 @@
+{
+  "language": "ru",
+  "sentences": [
+    {
+      "tpl": "___, как дела?",
+      "correct": "Привет",
+      "distractors": [
+        "Спасибо",
+        "Пока"
+      ],
+      "hint": "Hello, how are you?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Меня ___ Анна",
+      "correct": "зовут",
+      "distractors": [
+        "едят",
+        "пьют"
+      ],
+      "hint": "My name is Anna",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Сколько это ___?",
+      "correct": "стоит",
+      "distractors": [
+        "спит",
+        "идёт"
+      ],
+      "hint": "How much does this cost?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Я не ___ по-русски",
+      "correct": "понимаю",
+      "distractors": [
+        "ем",
+        "сплю"
+      ],
+      "hint": "I do not understand Russian",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Я ___ воду каждый день",
+      "correct": "пью",
+      "distractors": [
+        "ем",
+        "читаю"
+      ],
+      "hint": "I drink water every day",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Мы ___ хлеб на завтрак",
+      "correct": "едим",
+      "distractors": [
+        "пьём",
+        "поём"
+      ],
+      "hint": "We eat bread for breakfast",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Я хочу ___ и сыр",
+      "correct": "хлеб",
+      "distractors": [
+        "стол",
+        "дождь"
+      ],
+      "hint": "I want bread and cheese",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "На завтрак я ем ___",
+      "correct": "яйцо",
+      "distractors": [
+        "окно",
+        "платье"
+      ],
+      "hint": "For breakfast I eat an egg",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Это мой ___",
+      "correct": "дом",
+      "distractors": [
+        "дождь",
+        "год"
+      ],
+      "hint": "This is my house",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "В комнате есть стол и ___",
+      "correct": "стул",
+      "distractors": [
+        "снег",
+        "чай"
+      ],
+      "hint": "In the room there is a table and a chair",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Я открываю ___",
+      "correct": "дверь",
+      "distractors": [
+        "небо",
+        "море"
+      ],
+      "hint": "I open the door",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Я ___ тебя",
+      "correct": "люблю",
+      "distractors": [
+        "читаю",
+        "пишу"
+      ],
+      "hint": "I love you",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Моя ___ красивая",
+      "correct": "сестра",
+      "distractors": [
+        "брат",
+        "дом"
+      ],
+      "hint": "My sister is beautiful",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Он мой лучший ___",
+      "correct": "друг",
+      "distractors": [
+        "вода",
+        "зима"
+      ],
+      "hint": "He is my best friend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "___ светит днём",
+      "correct": "Солнце",
+      "distractors": [
+        "Луна",
+        "Дождь"
+      ],
+      "hint": "The sun shines during the day",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Зимой идёт ___",
+      "correct": "снег",
+      "distractors": [
+        "сыр",
+        "стол"
+      ],
+      "hint": "In winter it snows",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "В саду растёт ___",
+      "correct": "цветок",
+      "distractors": [
+        "телефон",
+        "автобус"
+      ],
+      "hint": "A flower grows in the garden",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Я ___ в офисе",
+      "correct": "работаю",
+      "distractors": [
+        "плаваю",
+        "летаю"
+      ],
+      "hint": "I work in an office",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Мне нужны ___",
+      "correct": "деньги",
+      "distractors": [
+        "двери",
+        "окна"
+      ],
+      "hint": "I need money",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "У него новая ___",
+      "correct": "работа",
+      "distractors": [
+        "молоко",
+        "окно"
+      ],
+      "hint": "He has a new job",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Мой ___ не работает",
+      "correct": "телефон",
+      "distractors": [
+        "сыр",
+        "дождь"
+      ],
+      "hint": "My phone does not work",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Это новый ___",
+      "correct": "компьютер",
+      "distractors": [
+        "книга",
+        "окно"
+      ],
+      "hint": "This is a new computer",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Я ___ фото на телефон",
+      "correct": "делаю",
+      "distractors": [
+        "пью",
+        "ем"
+      ],
+      "hint": "I take photos on my phone",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Она носит красное ___",
+      "correct": "платье",
+      "distractors": [
+        "рубашка",
+        "шляпа"
+      ],
+      "hint": "She wears a red dress",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Зимой я ношу ___",
+      "correct": "куртку",
+      "distractors": [
+        "воду",
+        "книгу"
+      ],
+      "hint": "In winter I wear a jacket",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Мои ___ новые",
+      "correct": "туфли",
+      "distractors": [
+        "дом",
+        "стол"
+      ],
+      "hint": "My shoes are new",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "___ едет быстро",
+      "correct": "Поезд",
+      "distractors": [
+        "Стол",
+        "Хлеб"
+      ],
+      "hint": "The train goes fast",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Я живу в большом ___",
+      "correct": "городе",
+      "distractors": [
+        "супе",
+        "шкафу"
+      ],
+      "hint": "I live in a big city",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Мы ___ в Париж завтра",
+      "correct": "едем",
+      "distractors": [
+        "едим",
+        "спим"
+      ],
+      "hint": "We are going to Paris tomorrow",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Я жду ___",
+      "correct": "автобус",
+      "distractors": [
+        "небо",
+        "молоко"
+      ],
+      "hint": "I am waiting for the bus",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Я ___ в футбол",
+      "correct": "играю",
+      "distractors": [
+        "читаю",
+        "пью"
+      ],
+      "hint": "I play football",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Мы ___ в парке каждое утро",
+      "correct": "бегаем",
+      "distractors": [
+        "пишем",
+        "поём"
+      ],
+      "hint": "We run in the park every morning",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Он ___ в бассейне",
+      "correct": "плавает",
+      "distractors": [
+        "читает",
+        "спит"
+      ],
+      "hint": "He swims in the pool",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Дети ___ в школе",
+      "correct": "учатся",
+      "distractors": [
+        "плавают",
+        "летают"
+      ],
+      "hint": "Children study at school",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "___ пишет на доске",
+      "correct": "Учитель",
+      "distractors": [
+        "Стол",
+        "Дождь"
+      ],
+      "hint": "The teacher writes on the board",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Я учу русский ___",
+      "correct": "язык",
+      "distractors": [
+        "стол",
+        "суп"
+      ],
+      "hint": "I am learning the Russian language",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Я ___ книгу вечером",
+      "correct": "читаю",
+      "distractors": [
+        "пью",
+        "ем"
+      ],
+      "hint": "I read a book in the evening",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Эта ___ очень интересная",
+      "correct": "книга",
+      "distractors": [
+        "дом",
+        "стол"
+      ],
+      "hint": "This book is very interesting",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Он ___ письмо другу",
+      "correct": "пишет",
+      "distractors": [
+        "пьёт",
+        "спит"
+      ],
+      "hint": "He writes a letter to a friend",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Я ___ музыку каждый день",
+      "correct": "слушаю",
+      "distractors": [
+        "ем",
+        "пью"
+      ],
+      "hint": "I listen to music every day",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Она красиво ___",
+      "correct": "поёт",
+      "distractors": [
+        "ест",
+        "спит"
+      ],
+      "hint": "She sings beautifully",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Он играет на ___",
+      "correct": "гитаре",
+      "distractors": [
+        "двери",
+        "окне"
+      ],
+      "hint": "He plays the guitar",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Мы смотрим ___ вечером",
+      "correct": "фильм",
+      "distractors": [
+        "суп",
+        "дождь"
+      ],
+      "hint": "We watch a movie in the evening",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Этот фильм очень ___",
+      "correct": "интересный",
+      "distractors": [
+        "вкусный",
+        "холодный"
+      ],
+      "hint": "This movie is very interesting",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Я ___ в кино с другом",
+      "correct": "иду",
+      "distractors": [
+        "ем",
+        "пью"
+      ],
+      "hint": "I am going to the cinema with a friend",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Художник ___ картину",
+      "correct": "рисует",
+      "distractors": [
+        "ест",
+        "пьёт"
+      ],
+      "hint": "The artist paints a picture",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Эта картина очень ___",
+      "correct": "красивая",
+      "distractors": [
+        "вкусная",
+        "холодная"
+      ],
+      "hint": "This painting is very beautiful",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Мы идём в ___",
+      "correct": "музей",
+      "distractors": [
+        "молоко",
+        "небо"
+      ],
+      "hint": "We are going to the museum",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Я пью ___ утром",
+      "correct": "кофе",
+      "distractors": [
+        "снег",
+        "хлеб"
+      ],
+      "hint": "I drink coffee in the morning",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Кофе с ___, пожалуйста",
+      "correct": "молоком",
+      "distractors": [
+        "окном",
+        "столом"
+      ],
+      "hint": "Coffee with milk, please",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    }
+  ]
+}

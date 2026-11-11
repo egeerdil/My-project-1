@@ -1,0 +1,655 @@
+{
+  "language": "tr",
+  "sentences": [
+    {
+      "tpl": "Her gün su ___",
+      "correct": "içerim",
+      "distractors": [
+        "yerim",
+        "okurum"
+      ],
+      "hint": "I drink water every day",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Kahvaltıda ekmek ve ___ yerim",
+      "correct": "peynir",
+      "distractors": [
+        "masa",
+        "kapı"
+      ],
+      "hint": "I eat bread and cheese for breakfast",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Bu ___ çok tatlı",
+      "correct": "elma",
+      "distractors": [
+        "tuz",
+        "et"
+      ],
+      "hint": "This apple is very sweet",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "Akşam yemeğinde ___ ve pilav var",
+      "correct": "tavuk",
+      "distractors": [
+        "süt",
+        "çay"
+      ],
+      "hint": "There is chicken and rice for dinner",
+      "level": "A1",
+      "topics": [
+        "food"
+      ]
+    },
+    {
+      "tpl": "___, nasılsın?",
+      "correct": "Merhaba",
+      "distractors": [
+        "Evet",
+        "Hayır"
+      ],
+      "hint": "Hello, how are you?",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Bir, iki, ___",
+      "correct": "üç",
+      "distractors": [
+        "beş",
+        "on"
+      ],
+      "hint": "One, two, three",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Yarın ___",
+      "correct": "görüşürüz",
+      "distractors": [
+        "yerim",
+        "koşarım"
+      ],
+      "hint": "See you tomorrow",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Benim ___ Selen",
+      "correct": "adım",
+      "distractors": [
+        "evim",
+        "arabam"
+      ],
+      "hint": "My name is Selen",
+      "level": "A1",
+      "topics": [
+        "essentials"
+      ]
+    },
+    {
+      "tpl": "Evimizde üç ___ var",
+      "correct": "oda",
+      "distractors": [
+        "su",
+        "çay"
+      ],
+      "hint": "There are three rooms in our house",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Lütfen kapıyı ___",
+      "correct": "aç",
+      "distractors": [
+        "iç",
+        "ye"
+      ],
+      "hint": "Please open the door",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Annem ___ yemek yapıyor",
+      "correct": "mutfakta",
+      "distractors": [
+        "banyoda",
+        "okulda"
+      ],
+      "hint": "My mother is cooking in the kitchen",
+      "level": "A1",
+      "topics": [
+        "home"
+      ]
+    },
+    {
+      "tpl": "Seni çok ___",
+      "correct": "seviyorum",
+      "distractors": [
+        "biliyorum",
+        "görüyorum"
+      ],
+      "hint": "I love you very much",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "O benim en iyi ___",
+      "correct": "arkadaşım",
+      "distractors": [
+        "kitabım",
+        "telefonum"
+      ],
+      "hint": "He is my best friend",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Bugün çok ___ hissediyorum",
+      "correct": "mutlu",
+      "distractors": [
+        "mavi",
+        "büyük"
+      ],
+      "hint": "I feel very happy today",
+      "level": "A1",
+      "topics": [
+        "love"
+      ]
+    },
+    {
+      "tpl": "Bugün hava çok ___",
+      "correct": "soğuk",
+      "distractors": [
+        "kolay",
+        "genç"
+      ],
+      "hint": "The weather is very cold today",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "___ gökyüzünde parlıyor",
+      "correct": "Güneş",
+      "distractors": [
+        "Masa",
+        "Ayakkabı"
+      ],
+      "hint": "The sun is shining in the sky",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Bahçede büyük bir ___ var",
+      "correct": "ağaç",
+      "distractors": [
+        "otobüs",
+        "gömlek"
+      ],
+      "hint": "There is a big tree in the garden",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Kışın çok ___ yağar",
+      "correct": "kar",
+      "distractors": [
+        "tuz",
+        "şeker"
+      ],
+      "hint": "It snows a lot in winter",
+      "level": "A1",
+      "topics": [
+        "nature"
+      ]
+    },
+    {
+      "tpl": "Babam ofiste ___",
+      "correct": "çalışıyor",
+      "distractors": [
+        "uyuyor",
+        "yüzüyor"
+      ],
+      "hint": "My father works at the office",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Bu gömleğin ___ ne kadar?",
+      "correct": "fiyatı",
+      "distractors": [
+        "kapısı",
+        "ayı"
+      ],
+      "hint": "How much is the price of this shirt?",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Bankada çok ___ var",
+      "correct": "para",
+      "distractors": [
+        "yağmur",
+        "süt"
+      ],
+      "hint": "There is a lot of money in the bank",
+      "level": "A1",
+      "topics": [
+        "work"
+      ]
+    },
+    {
+      "tpl": "Yeni bir ___ aldım",
+      "correct": "bilgisayar",
+      "distractors": [
+        "deniz",
+        "ay"
+      ],
+      "hint": "I bought a new computer",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "___ çalıyor, lütfen aç",
+      "correct": "Telefon",
+      "distractors": [
+        "Elma",
+        "Pencere"
+      ],
+      "hint": "The phone is ringing, please answer it",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "İnternette video ___",
+      "correct": "izliyorum",
+      "distractors": [
+        "yiyorum",
+        "içiyorum"
+      ],
+      "hint": "I am watching videos on the internet",
+      "level": "A1",
+      "topics": [
+        "tech"
+      ]
+    },
+    {
+      "tpl": "Bu ___ çok güzel",
+      "correct": "elbise",
+      "distractors": [
+        "yağmur",
+        "dakika"
+      ],
+      "hint": "This dress is very beautiful",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Yeni ___ aldım, çok rahat",
+      "correct": "ayakkabı",
+      "distractors": [
+        "yumurta",
+        "hafta"
+      ],
+      "hint": "I bought new shoes, they are very comfortable",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Kışın ___ giyerim",
+      "correct": "ceket",
+      "distractors": [
+        "muz",
+        "saat"
+      ],
+      "hint": "I wear a jacket in winter",
+      "level": "A1",
+      "topics": [
+        "fashion"
+      ]
+    },
+    {
+      "tpl": "Okula ___ ile giderim",
+      "correct": "otobüs",
+      "distractors": [
+        "peynir",
+        "kalem"
+      ],
+      "hint": "I go to school by bus",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "___ saat sekizde kalkıyor",
+      "correct": "Tren",
+      "distractors": [
+        "Kedi",
+        "Çiçek"
+      ],
+      "hint": "The train leaves at eight o'clock",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "İstanbul büyük bir ___",
+      "correct": "şehir",
+      "distractors": [
+        "elma",
+        "kaşık"
+      ],
+      "hint": "Istanbul is a big city",
+      "level": "A1",
+      "topics": [
+        "travel"
+      ]
+    },
+    {
+      "tpl": "Her sabah parkta ___",
+      "correct": "koşarım",
+      "distractors": [
+        "uyurum",
+        "yazarım"
+      ],
+      "hint": "I run in the park every morning",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Arkadaşlarımla futbol ___",
+      "correct": "oynarım",
+      "distractors": [
+        "içerim",
+        "okurum"
+      ],
+      "hint": "I play football with my friends",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "Yüzmek için ___ giderim",
+      "correct": "havuza",
+      "distractors": [
+        "masaya",
+        "kitaba"
+      ],
+      "hint": "I go to the pool to swim",
+      "level": "A1",
+      "topics": [
+        "sports"
+      ]
+    },
+    {
+      "tpl": "___ ders çalışıyor",
+      "correct": "Öğrenci",
+      "distractors": [
+        "Pencere",
+        "Yağmur"
+      ],
+      "hint": "The student is studying",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Öğretmen tahtaya ___",
+      "correct": "yazıyor",
+      "distractors": [
+        "uyuyor",
+        "yüzüyor"
+      ],
+      "hint": "The teacher is writing on the board",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Türkçe yeni bir ___ öğreniyorum",
+      "correct": "kelime",
+      "distractors": [
+        "araba",
+        "kapı"
+      ],
+      "hint": "I am learning a new word in Turkish",
+      "level": "A1",
+      "topics": [
+        "school"
+      ]
+    },
+    {
+      "tpl": "Her akşam kitap ___",
+      "correct": "okurum",
+      "distractors": [
+        "içerim",
+        "koşarım"
+      ],
+      "hint": "I read a book every evening",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Bu ___ çok ilginç",
+      "correct": "kitap",
+      "distractors": [
+        "süt",
+        "kar"
+      ],
+      "hint": "This book is very interesting",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Yazar yeni bir kitap ___",
+      "correct": "yazıyor",
+      "distractors": [
+        "yiyor",
+        "içiyor"
+      ],
+      "hint": "The writer is writing a new book",
+      "level": "A1",
+      "topics": [
+        "books"
+      ]
+    },
+    {
+      "tpl": "Her gün müzik ___",
+      "correct": "dinlerim",
+      "distractors": [
+        "yerim",
+        "giyerim"
+      ],
+      "hint": "I listen to music every day",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "O çok güzel şarkı ___",
+      "correct": "söylüyor",
+      "distractors": [
+        "uyuyor",
+        "açıyor"
+      ],
+      "hint": "She sings very beautifully",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Kardeşim gitar ___",
+      "correct": "çalıyor",
+      "distractors": [
+        "yiyor",
+        "içiyor"
+      ],
+      "hint": "My brother plays the guitar",
+      "level": "A1",
+      "topics": [
+        "music"
+      ]
+    },
+    {
+      "tpl": "Bu akşam film ___",
+      "correct": "izliyoruz",
+      "distractors": [
+        "yiyoruz",
+        "içiyoruz"
+      ],
+      "hint": "We are watching a movie tonight",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Sinemada yeni bir ___ var",
+      "correct": "film",
+      "distractors": [
+        "çorba",
+        "bahçe"
+      ],
+      "hint": "There is a new movie at the cinema",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Bu filmi çok ___",
+      "correct": "sevdim",
+      "distractors": [
+        "yedim",
+        "içtim"
+      ],
+      "hint": "I liked this movie a lot",
+      "level": "A1",
+      "topics": [
+        "movies"
+      ]
+    },
+    {
+      "tpl": "Ressam bir resim ___",
+      "correct": "yapıyor",
+      "distractors": [
+        "uyuyor",
+        "koşuyor"
+      ],
+      "hint": "The painter is making a painting",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Müzede güzel ___ var",
+      "correct": "resimler",
+      "distractors": [
+        "arabalar",
+        "ayakkabılar"
+      ],
+      "hint": "There are beautiful paintings in the museum",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Bu tablo çok ___",
+      "correct": "güzel",
+      "distractors": [
+        "sıcak",
+        "tuzlu"
+      ],
+      "hint": "This painting is very beautiful",
+      "level": "A1",
+      "topics": [
+        "art"
+      ]
+    },
+    {
+      "tpl": "Sabahları bir fincan ___ içerim",
+      "correct": "kahve",
+      "distractors": [
+        "ekmek",
+        "pirinç"
+      ],
+      "hint": "I drink a cup of coffee in the mornings",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    },
+    {
+      "tpl": "Kafede çay ___",
+      "correct": "içiyoruz",
+      "distractors": [
+        "yazıyoruz",
+        "giyiyoruz"
+      ],
+      "hint": "We are drinking tea at the cafe",
+      "level": "A1",
+      "topics": [
+        "coffee"
+      ]
+    }
+  ]
+}
